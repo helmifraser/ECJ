@@ -1,0 +1,73 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.124392511604935 Adjusted=0.47072280406624134 Hits=9
+Tree 0:
+ (* (+ (* x x) (- x x)) (- (% x x) (* x x)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5834631433200204 Adjusted=0.6315271714523881 Hits=2
+Tree 0:
+ (* (% (* (% x x) (* x x)) (+ (% x x) (% x
+     x))) (- (+ (- x x) (% x x)) (% (* x x) (+
+     (% x x) (- x x)))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.4130031483722422 Adjusted=0.7077125066224973 Hits=12
+Tree 0:
+ (% (+ (- (% x x) (* x x)) (- (+ x x) (+ x
+     x))) (+ (% (+ (% (+ x x) (+ x x)) (- (* x
+     x) (- x x))) (* x x)) (* (- x x) (- x x))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.41300314837224217 Adjusted=0.7077125066224973 Hits=12
+Tree 0:
+ (* (% (* (% x x) (* x x)) (+ (% x x) (* (%
+     x x) (+ (* x x) (- x x))))) (- (+ (- x x)
+     (% x x)) (% (* x x) (+ (% x x) (- x x)))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.21074406625057637 Adjusted=0.8259383860511437 Hits=13
+Tree 0:
+ (% (+ (- (% x x) (* x x)) (- (+ x x) (+ x
+     x))) (+ (% (+ (% (+ x x) (+ x x)) (- (* x
+     x) (- x x))) (* x x)) (* x x)))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+Tree 0:
+ (* (- (% (+ (- (% x x) (* x x)) (- (+ x x)
+     (+ x x))) (+ (% (% x x) (* x x)) (* (+ x
+     x) (- x x)))) (* (* x x) (* (* (* (+ x x)
+     (- x x)) (+ (- x (% x x)) (% x x))) (- (+
+     (% x x) (- x x)) (- (% x x) (% x x))))))
+     (+ (* (- x x) (- x x)) (- (% x x) (* x x))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+Tree 0:
+ (* (- (% (+ (- (% x x) (* x x)) (- (+ x x)
+     (+ x x))) (+ (% (% x x) (* x x)) (* (+ x
+     x) (- x x)))) (* (* x x) (* (* (* (+ x x)
+     (- x x)) (+ (- x (% x x)) (% x x))) (- (+
+     (% x x) (- x x)) (- (% x x) (% x x))))))
+     (+ (* (- x x) (- x x)) (- (% x x) (* x x))))

@@ -1,0 +1,81 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.0675582087019708 Adjusted=0.48366232002135884 Hits=5
+Tree 0:
+ (- (- (* x x) (- x x)) (* (* x x) (* x x)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.0675582087019706 Adjusted=0.48366232002135895 Hits=5
+Tree 0:
+ (% (- (+ (+ x x) (* x x)) (+ (+ x x) (* (*
+     x x) (* x x)))) (- (% x x) (- (% x x) (%
+     x x))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7890648311036598 Adjusted=0.5589512367660304 Hits=3
+Tree 0:
+ (* (% (- (+ (* x x) (+ x x)) (+ (+ x x) (-
+     x x))) (+ (- (% (* (* x x) (* x x)) (+ (+
+     x x) (* x x))) (- x x)) (* (+ x x) (% x x))))
+     (% (% (+ (- x x) (% x x)) (+ (% x x) (* x
+         x))) (* (% (% x x) (- x x)) (% x (* x x)))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5839503453207213 Adjusted=0.6313329221172764 Hits=4
+Tree 0:
+ (* (* x (% x (% (+ x x) x))) (- (% x x) (*
+     x x)))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5839503453207213 Adjusted=0.6313329221172764 Hits=4
+Tree 0:
+ (* (% (- (* x x) (% x x)) (- (- x x) (% x
+     x))) (% (* (* x x) x) (+ x x)))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3078711747684046 Adjusted=0.7646012996479398 Hits=8
+Tree 0:
+ (* (- (% (+ (+ x x) (- x x)) (+ (% x x) (*
+     x x))) (- x (* (- x x) (% x x)))) (% (* x
+     x) (% (* (% (- (* (+ (+ x x) (+ x x)) (%
+     x x)) (* (+ x x) (- x x))) (- x x)) x) (%
+     x x))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+Tree 0:
+ (* (* (% (- (* x x) (% x x)) (- (* (* (-
+     x x) (% (* (- (+ x x) (+ x x)) (* (% x x)
+     (+ x x))) x)) x) (% x x))) (* x x)) (- (%
+     x x) (* x x)))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+Tree 0:
+ (* (* (% (- (* x x) (% x x)) (- (* (* (-
+     x x) (% (* (- (+ x x) (+ x x)) (* (% x x)
+     (+ x x))) x)) x) (% x x))) (* x x)) (- (%
+     x x) (* x x)))

@@ -1,0 +1,457 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.7471741878559894 Adjusted=0.3640104091034876 Hits=3
+Tree 0:
+ (sin (- x x))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (+ (rlog -0.34118407899449377) (- x
+     x)) (- x x)) (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (+ (rlog -0.34118407899449377) (- x
+     x)) (- x x)) (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (+ (rlog -0.34118407899449377) (- x
+     x)) (- x x)) (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (+ (rlog -0.34118407899449377) (- x
+     x)) (- x x)) (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (rlog -0.34118407899449377) (exp (% 0.1299464778229511
+     0.8530249905892764)))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+Tree 0:
+ (+ (+ (rlog -0.34118407899449377) (- x x))
+     (exp (% 0.1299464778229511 0.8530249905892764)))

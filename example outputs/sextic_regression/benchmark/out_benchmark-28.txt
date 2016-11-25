@@ -1,0 +1,570 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8426128339271467 Adjusted=0.5427076060621523 Hits=5
+Tree 0:
+ (% (sin 0.032726999724541406) (cos (sin (+
+     x x))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8426128339271467 Adjusted=0.5427076060621523 Hits=5
+Tree 0:
+ (% (sin 0.032726999724541406) (cos (sin (+
+     x x))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8426128339271467 Adjusted=0.5427076060621523 Hits=5
+Tree 0:
+ (% (sin 0.032726999724541406) (cos (sin (+
+     x x))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7766691577942683 Adjusted=0.5628509931705564 Hits=1
+Tree 0:
+ (% (sin 0.04500959335421295) (cos (sin (+
+     x x))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7766691577942683 Adjusted=0.5628509931705564 Hits=1
+Tree 0:
+ (% (sin 0.04500959335421295) (cos (sin (+
+     x x))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7266278315773281 Adjusted=0.5791636053303213 Hits=5
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x x)))) (cos (cos (sin (sin (- (cos (sin
+     (% (sin 0.032726999724541406) (cos (sin 0.04500959335421295)))))
+     x))))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6776767380594316 Adjusted=0.5960623863430924 Hits=2
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x x)))) (cos (sin (% (cos (sin (+ x x)))
+     x))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6250205265030286 Adjusted=0.6153768421325454 Hits=6
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x x)))) (cos (sin (% (cos (cos (sin (sin
+     (% (sin 0.032726999724541406) (sin (% x x)))))))
+     x))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6250204473971922 Adjusted=0.6153768720890298 Hits=6
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x x)))) (cos (sin (% (cos (cos (sin (sin
+     (% 0.032726999724541406 (sin (% x x)))))))
+     x))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5989308195448946 Adjusted=0.6254179278904831 Hits=6
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x x)))) (cos (sin (% (cos (cos (sin (sin
+     (% 0.032726999724541406 x))))) x))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5295764315956506 Adjusted=0.653775763893539 Hits=6
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ (sin (+ x x)) x)))) (cos (sin (% (cos
+     (cos (sin (sin (% 0.032726999724541406 x)))))
+     x))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5295764315956506 Adjusted=0.653775763893539 Hits=6
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ (sin (+ x x)) x)))) (cos (sin (% (cos
+     (cos (sin (sin (% 0.032726999724541406 x)))))
+     x))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.44930001517152446 Adjusted=0.6899882629764894 Hits=5
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (cos (cos (sin
+     (sin (+ x x))))) x))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.44930001517152446 Adjusted=0.6899882629764894 Hits=5
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (cos (cos (sin
+     (sin (+ x x))))) x))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.44327229600807005 Adjusted=0.6928699475254173 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (cos (cos (+
+     x x))) x))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.4333376967034011 Adjusted=0.697672294742506 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (cos (cos (sin
+     (% x (cos (sin (+ x x))))))) x))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.4333376967034011 Adjusted=0.697672294742506 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (cos (cos (sin
+     (% x (cos (sin (+ x x))))))) x))))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.43194957107734866 Adjusted=0.6983486152013266 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (cos (cos (sin
+     (% x (sin (+ x (+ x x))))))) x))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.43194957107734866 Adjusted=0.6983486152013266 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (cos (cos (sin
+     (% x (sin (+ x (+ x x))))))) x))))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.4303547529547995 Adjusted=0.6991272605164691 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (cos (cos (sin
+     (% x (cos (sin (+ x (% x (cos (cos (+ x x)))))))))))
+     x))))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.4303547529547995 Adjusted=0.6991272605164691 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (cos (cos (sin
+     (% x (cos (sin (+ x (% x (cos (cos (+ x x)))))))))))
+     x))))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.4303547529547995 Adjusted=0.6991272605164691 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (cos (cos (sin
+     (% x (cos (sin (+ x (% x (cos (cos (+ x x)))))))))))
+     x))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.4303547529547995 Adjusted=0.6991272605164691 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (cos (cos (sin
+     (% x (cos (sin (+ x (% x (cos (cos (+ x x)))))))))))
+     x))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3834734192036197 Adjusted=0.7228183686938042 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (sin (+ x (+
+     x x))) (cos (sin (+ x x)))))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3834734192036197 Adjusted=0.7228183686938042 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (sin (+ x (+
+     x x))) (cos (sin (+ x x)))))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3834734192036197 Adjusted=0.7228183686938042 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (sin (+ x (+
+     x x))) (cos (sin (+ x x)))))))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.37843176086191876 Adjusted=0.7254621000423775 Hits=6
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ (% x (cos (cos (+ x x)))) (+ x x)))))
+     (cos (sin (% (sin (+ x (+ x x))) (cos (sin
+         (+ x x)))))))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.37843176086191876 Adjusted=0.7254621000423775 Hits=6
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ (% x (cos (cos (+ x x)))) (+ x x)))))
+     (cos (sin (% (sin (+ x (+ x x))) (cos (sin
+         (+ x x)))))))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.37843176086191876 Adjusted=0.7254621000423775 Hits=6
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ (% x (cos (cos (+ x x)))) (+ x x)))))
+     (cos (sin (% (sin (+ x (+ x x))) (cos (sin
+         (+ x x)))))))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.37843176086191876 Adjusted=0.7254621000423775 Hits=6
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ (% x (cos (cos (+ x x)))) (+ x x)))))
+     (cos (sin (% (sin (+ x (+ x x))) (cos (sin
+         (+ x x)))))))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3671446414133259 Adjusted=0.7314515009664381 Hits=6
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (sin (% (sin
+     (+ x (+ x x))) (cos (sin (+ x x))))) (cos
+     (sin (sin (% (sin (+ x (+ x x))) (cos (sin
+         (+ x x)))))))))))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3671446414133259 Adjusted=0.7314515009664381 Hits=6
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (sin (% (sin
+     (+ x (+ x x))) (cos (sin (+ x x))))) (cos
+     (sin (sin (% (sin (+ x (+ x x))) (cos (sin
+         (+ x x)))))))))))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3671446414133259 Adjusted=0.7314515009664381 Hits=6
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (sin (% (sin
+     (+ x (+ x x))) (cos (sin (+ x x))))) (cos
+     (sin (sin (% (sin (+ x (+ x x))) (cos (sin
+         (+ x x)))))))))))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3671446414133259 Adjusted=0.7314515009664381 Hits=6
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (sin (% (sin
+     (+ x (+ x x))) (cos (sin (+ x x))))) (cos
+     (sin (sin (% (sin (+ x (+ x x))) (cos (sin
+         (+ x x)))))))))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3671446414133259 Adjusted=0.7314515009664381 Hits=6
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (sin (% (sin
+     (+ x (+ x x))) (cos (sin (+ x x))))) (cos
+     (sin (sin (% (sin (+ x (+ x x))) (cos (sin
+         (+ x x)))))))))))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3670636140452734 Adjusted=0.731494854903572 Hits=6
+Tree 0:
+ (% (% 0.032726999724541406 (cos (sin (+ x
+     (+ x x))))) (cos (sin (% (sin (% (sin (+
+     x (+ x x))) (cos (sin (+ x x))))) (cos (sin
+     (sin (% (sin (+ x (+ x x))) (cos (sin (+
+         x x)))))))))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3670636140452734 Adjusted=0.731494854903572 Hits=6
+Tree 0:
+ (% (% 0.032726999724541406 (cos (sin (+ x
+     (+ x x))))) (cos (sin (% (sin (% (sin (+
+     x (+ x x))) (cos (sin (+ x x))))) (cos (sin
+     (sin (% (sin (+ x (+ x x))) (cos (sin (+
+         x x)))))))))))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3670636140452734 Adjusted=0.731494854903572 Hits=6
+Tree 0:
+ (% (% 0.032726999724541406 (cos (sin (+ x
+     (+ x x))))) (cos (sin (% (sin (% (sin (+
+     x (+ x x))) (cos (sin (+ x x))))) (cos (sin
+     (sin (% (sin (+ x (+ x x))) (cos (sin (+
+         x x)))))))))))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3670636140452734 Adjusted=0.731494854903572 Hits=6
+Tree 0:
+ (% (% 0.032726999724541406 (cos (sin (+ x
+     (+ x x))))) (cos (sin (% (sin (% (sin (+
+     x (+ x x))) (cos (sin (+ x x))))) (cos (sin
+     (sin (% (sin (+ x (+ x x))) (cos (sin (+
+         x x)))))))))))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.36549267621468995 Adjusted=0.7323364067921041 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (sin (% (sin
+     (sin (+ x (+ x x)))) (cos (sin (% (sin (+
+     x x)) (cos (sin (sin (% (sin (+ x (+ x x)))
+     (cos (sin (+ x x)))))))))))) (cos (sin (sin
+     (% (sin (+ x (+ x x))) (cos (sin (+ x x)))))))))))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.36549267621468995 Adjusted=0.7323364067921041 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (sin (% (sin
+     (sin (+ x (+ x x)))) (cos (sin (% (sin (+
+     x x)) (cos (sin (sin (% (sin (+ x (+ x x)))
+     (cos (sin (+ x x)))))))))))) (cos (sin (sin
+     (% (sin (+ x (+ x x))) (cos (sin (+ x x)))))))))))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.36549267621468995 Adjusted=0.7323364067921041 Hits=7
+Tree 0:
+ (% (% (sin 0.032726999724541406) (cos (sin
+     (+ x (+ x x))))) (cos (sin (% (sin (% (sin
+     (sin (+ x (+ x x)))) (cos (sin (% (sin (+
+     x x)) (cos (sin (sin (% (sin (+ x (+ x x)))
+     (cos (sin (+ x x)))))))))))) (cos (sin (sin
+     (% (sin (+ x (+ x x))) (cos (sin (+ x x)))))))))))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.34133045104628523 Adjusted=0.7455284409743808 Hits=6
+Tree 0:
+ (% (% 0.032726999724541406 (cos (sin (% (sin
+     (+ x (+ x x))) (cos (sin (+ x (+ x x))))))))
+     (cos (sin (% (sin (% (sin (+ x (+ x x)))
+         (cos (sin (+ x x))))) (cos (sin (sin (% (sin
+         (+ x (+ x x))) (cos (sin (+ x (+ x x))))))))))))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.34133045104628523 Adjusted=0.7455284409743808 Hits=6
+Tree 0:
+ (% (% 0.032726999724541406 (cos (sin (% (sin
+     (+ x (+ x x))) (cos (sin (+ x (+ x x))))))))
+     (cos (sin (% (sin (% (sin (+ x (+ x x)))
+         (cos (sin (+ x x))))) (cos (sin (sin (% (sin
+         (+ x (+ x x))) (cos (sin (+ x (+ x x))))))))))))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3383558333843265 Adjusted=0.7471854457952939 Hits=7
+Tree 0:
+ (% (% 0.032726999724541406 (cos (sin (% (sin
+     (+ x (+ x x))) (cos (sin (+ x (+ x x))))))))
+     (cos (sin (% (sin (% (sin (sin (+ x (+ x
+         x)))) (cos (sin (% (sin (+ x x)) (cos (sin
+         (sin (% (sin (+ x (+ x x))) (cos (sin (+
+             x x)))))))))))) (cos (sin (sin (% (sin (+
+         x (+ x x))) (cos (sin (+ x x)))))))))))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3383558333843265 Adjusted=0.7471854457952939 Hits=7
+Tree 0:
+ (% (% 0.032726999724541406 (cos (sin (% (sin
+     (+ x (+ x x))) (cos (sin (+ x (+ x x))))))))
+     (cos (sin (% (sin (% (sin (sin (+ x (+ x
+         x)))) (cos (sin (% (sin (+ x x)) (cos (sin
+         (sin (% (sin (+ x (+ x x))) (cos (sin (+
+             x x)))))))))))) (cos (sin (sin (% (sin (+
+         x (+ x x))) (cos (sin (+ x x)))))))))))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3383558333843265 Adjusted=0.7471854457952939 Hits=7
+Tree 0:
+ (% (% 0.032726999724541406 (cos (sin (% (sin
+     (+ x (+ x x))) (cos (sin (+ x (+ x x))))))))
+     (cos (sin (% (sin (% (sin (sin (+ x (+ x
+         x)))) (cos (sin (% (sin (+ x x)) (cos (sin
+         (sin (% (sin (+ x (+ x x))) (cos (sin (+
+             x x)))))))))))) (cos (sin (sin (% (sin (+
+         x (+ x x))) (cos (sin (+ x x)))))))))))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.33279336415621286 Adjusted=0.7503038557166712 Hits=7
+Tree 0:
+ (% (% 0.032726999724541406 (cos (sin (% (sin
+     (+ x (+ x x))) (cos (sin (+ x (+ x x))))))))
+     (cos (sin (% (sin (+ x (+ x x))) (cos (sin
+         (+ x x)))))))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3300173561511846 Adjusted=0.7518698875432787 Hits=6
+Tree 0:
+ (% (% 0.032726999724541406 (cos (sin (% (sin
+     (+ x (+ x x))) (cos (sin (+ x (+ x x))))))))
+     (cos (sin (% (sin (% (sin (sin (+ x (+ x
+         x)))) (cos (sin (% (sin (+ x x)) (cos (sin
+         (+ x (+ x x))))))))) (cos (sin (sin (% (sin
+         (+ x (+ x x))) (cos (sin (+ x x)))))))))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3300173561511846 Adjusted=0.7518698875432787 Hits=6
+Tree 0:
+ (% (% 0.032726999724541406 (cos (sin (% (sin
+     (+ x (+ x x))) (cos (sin (+ x (+ x x))))))))
+     (cos (sin (% (sin (% (sin (sin (+ x (+ x
+         x)))) (cos (sin (% (sin (+ x x)) (cos (sin
+         (+ x (+ x x))))))))) (cos (sin (sin (% (sin
+         (+ x (+ x x))) (cos (sin (+ x x)))))))))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.3300173561511846 Adjusted=0.7518698875432787 Hits=6
+Tree 0:
+ (% (% 0.032726999724541406 (cos (sin (% (sin
+     (+ x (+ x x))) (cos (sin (+ x (+ x x))))))))
+     (cos (sin (% (sin (% (sin (sin (+ x (+ x
+         x)))) (cos (sin (% (sin (+ x x)) (cos (sin
+         (+ x (+ x x))))))))) (cos (sin (sin (% (sin
+         (+ x (+ x x))) (cos (sin (+ x x)))))))))))

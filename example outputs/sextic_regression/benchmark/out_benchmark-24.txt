@@ -1,0 +1,494 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.093975860348051 Adjusted=0.47756042413678285 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos -0.6862277739078091)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.093975860348051 Adjusted=0.47756042413678285 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos -0.6862277739078091)))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.093975860348051 Adjusted=0.47756042413678285 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos -0.6862277739078091)))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9984026157611536 Adjusted=0.5003996652692125 Hits=1
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos -0.6862277739078091))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9984026157611536 Adjusted=0.5003996652692125 Hits=1
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos -0.6862277739078091))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9725212885705107 Adjusted=0.506965377658713 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     -0.6862277739078091)))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9725212885705107 Adjusted=0.506965377658713 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     -0.6862277739078091)))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9596588288220619 Adjusted=0.5102929067510662 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos -0.6862277739078091))))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9478936022313142 Adjusted=0.5133750626083986 Hits=4
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos -0.6862277739078091)))))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006158 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos -0.6862277739078091)))))))))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=2
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         -0.6862277739078091))))))))))))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+Tree 0:
+ (rlog (- -0.3415269820766538 (cos (cos (cos
+     (cos (cos (cos (cos (cos (cos (cos (cos (cos
+         (cos -0.6862277739078091)))))))))))))))

@@ -1,0 +1,427 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.6245229479464784 Adjusted=0.3810216255805407 Hits=2
+Tree 0:
+ (rlog (% (- (+ x x) (% -0.7897938849763804
+     0.6662304832268535)) (* (- x x) (+ 0.3794255169070524
+     -0.248204598264389))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8123930949782141 Adjusted=0.551756681688318 Hits=4
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin -0.388653131872047))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8123930949782141 Adjusted=0.551756681688318 Hits=4
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin -0.388653131872047))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8123930949782141 Adjusted=0.551756681688318 Hits=4
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin -0.388653131872047))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8123930949782141 Adjusted=0.551756681688318 Hits=4
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin -0.388653131872047))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8123930949782141 Adjusted=0.551756681688318 Hits=4
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin -0.388653131872047))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin -0.388653131872047)))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin -0.388653131872047)))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin -0.388653131872047)))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin -0.388653131872047)))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin -0.388653131872047)))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin -0.388653131872047)))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin -0.388653131872047)))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin (sin
+     -0.388653131872047))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin -0.388653131872047)))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin -0.388653131872047)))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin (sin
+     -0.388653131872047))))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin (sin
+     -0.388653131872047))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin -0.388653131872047)))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin (sin
+     -0.388653131872047))))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin -0.388653131872047)))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin (sin
+     -0.388653131872047))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin -0.388653131872047)) (sin (rlog
+     -0.8135155630842166)))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin -0.388653131872047)))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin (sin
+     -0.388653131872047))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin -0.388653131872047)))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (rlog -0.8135155630842166)) (sin
+     (sin -0.388653131872047)))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (rlog -0.8135155630842166)) (sin
+     (sin -0.388653131872047)))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin (sin
+     -0.388653131872047))))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin (sin -0.388653131872047))) (rlog
+     -0.8135155630842166))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin -0.388653131872047)) (rlog -0.8135155630842166))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin -0.388653131872047)) (rlog -0.8135155630842166))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin -0.388653131872047)) (rlog -0.8135155630842166))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin (sin -0.388653131872047))) (rlog
+     -0.8135155630842166))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin -0.388653131872047)) (rlog -0.8135155630842166))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin (sin
+     -0.388653131872047))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin (sin -0.388653131872047))) (rlog
+     -0.8135155630842166))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin -0.388653131872047)) (rlog -0.8135155630842166))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin -0.388653131872047)) (rlog -0.8135155630842166))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin -0.388653131872047)) (rlog -0.8135155630842166))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin -0.388653131872047)) (rlog -0.8135155630842166))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin (sin -0.388653131872047))) (rlog
+     -0.8135155630842166))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin -0.388653131872047)) (rlog -0.8135155630842166))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin (sin -0.388653131872047))) (rlog
+     -0.8135155630842166))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin -0.388653131872047)) (rlog -0.8135155630842166))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin -0.388653131872047)) (rlog -0.8135155630842166))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin (sin -0.388653131872047))) (rlog
+     -0.8135155630842166))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin -0.388653131872047)) (rlog -0.8135155630842166))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin (sin
+     -0.388653131872047))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (sin (sin -0.388653131872047)) (rlog -0.8135155630842166))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+Tree 0:
+ (* (rlog -0.8135155630842166) (sin (sin -0.388653131872047)))

@@ -1,0 +1,1001 @@
+Results over 200 runs 
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-0.txt:470:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-0.txt:471:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-0.txt:472:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-0.txt:473:Fitness: Standardized=0.13456682370603523 Adjusted=0.8813936553631314 Hits=13
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-1.txt:743:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-1.txt:744:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-1.txt:745:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-1.txt:746:Fitness: Standardized=0.5924105956590725 Adjusted=0.6279787403613177 Hits=8
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-2.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-2.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-2.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-2.txt:405:Fitness: Standardized=0.9436858614640344 Adjusted=0.5144864300483074 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-3.txt:666:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-3.txt:667:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-3.txt:668:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-3.txt:669:Fitness: Standardized=0.32298506440754593 Adjusted=0.7558664318314251 Hits=13
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-4.txt:675:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-4.txt:676:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-4.txt:677:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-4.txt:678:Fitness: Standardized=0.4091763121330953 Adjusted=0.7096344093992626 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-5.txt:706:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-5.txt:707:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-5.txt:708:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-5.txt:709:Fitness: Standardized=0.5487234464332774 Adjusted=0.6456930721253095 Hits=8
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-6.txt:959:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-6.txt:960:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-6.txt:961:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-6.txt:962:Fitness: Standardized=0.4431848122546071 Adjusted=0.692911948288699 Hits=7
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-7.txt:564:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-7.txt:565:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-7.txt:566:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-7.txt:567:Fitness: Standardized=0.5460889989744608 Adjusted=0.6467932962871554 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-8.txt:1152:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-8.txt:1153:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-8.txt:1154:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-8.txt:1155:Fitness: Standardized=0.11310097333349724 Adjusted=0.8983910929528843 Hits=15
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-9.txt:536:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-9.txt:537:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-9.txt:538:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-9.txt:539:Fitness: Standardized=1.0623712086847323 Adjusted=0.48487876275083636 Hits=0
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-10.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-10.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-10.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-10.txt:405:Fitness: Standardized=0.8973638601303293 Adjusted=0.5270470366876864 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-11.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-11.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-11.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-11.txt:405:Fitness: Standardized=1.0374200608517012 Adjusted=0.4908168026881853 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-12.txt:554:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-12.txt:555:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-12.txt:556:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-12.txt:557:Fitness: Standardized=0.08750554268010893 Adjusted=0.9195355432723078 Hits=18
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-13.txt:661:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-13.txt:662:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-13.txt:663:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-13.txt:664:Fitness: Standardized=0.22034524661287375 Adjusted=0.8194402385517932 Hits=12
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-14.txt:756:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-14.txt:757:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-14.txt:758:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-14.txt:759:Fitness: Standardized=0.16503122601112272 Adjusted=0.8583460920818726 Hits=13
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-15.txt:1033:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-15.txt:1034:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-15.txt:1035:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-15.txt:1036:Fitness: Standardized=0.1465736088697744 Adjusted=0.8721638037576513 Hits=16
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-16.txt:566:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-16.txt:567:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-16.txt:568:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-16.txt:569:Fitness: Standardized=0.032358923308534265 Adjusted=0.9686553556346185 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-17.txt:445:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-17.txt:446:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-17.txt:447:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-17.txt:448:Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-18.txt:451:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-18.txt:452:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-18.txt:453:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-18.txt:454:Fitness: Standardized=1.0713780637061119 Adjusted=0.482770392098678 Hits=0
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-19.txt:443:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-19.txt:444:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-19.txt:445:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-19.txt:446:Fitness: Standardized=1.2742738266953564 Adjusted=0.43970079075880425 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-20.txt:487:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-20.txt:488:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-20.txt:489:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-20.txt:490:Fitness: Standardized=1.100844376506433 Adjusted=0.47599908455043904 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-21.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-21.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-21.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-21.txt:405:Fitness: Standardized=0.7997037970527205 Adjusted=0.5556469912646997 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-22.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-22.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-22.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-22.txt:405:Fitness: Standardized=0.9719130620168707 Adjusted=0.5071217485507201 Hits=1
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-23.txt:687:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-23.txt:688:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-23.txt:689:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-23.txt:690:Fitness: Standardized=0.16706664234839647 Adjusted=0.8568490981695601 Hits=12
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-24.txt:487:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-24.txt:488:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-24.txt:489:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-24.txt:490:Fitness: Standardized=0.9435062642006157 Adjusted=0.5145339731700378 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-25.txt:858:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-25.txt:859:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-25.txt:860:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-25.txt:861:Fitness: Standardized=0.5647481027957626 Adjusted=0.639080500058305 Hits=9
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-26.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-26.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-26.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-26.txt:405:Fitness: Standardized=0.7728790856606838 Adjusted=0.5640542595872174 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-27.txt:795:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-27.txt:796:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-27.txt:797:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-27.txt:798:Fitness: Standardized=0.5830827543610404 Adjusted=0.631678917128762 Hits=6
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-28.txt:560:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-28.txt:561:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-28.txt:562:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-28.txt:563:Fitness: Standardized=0.3300173561511846 Adjusted=0.7518698875432787 Hits=6
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-29.txt:728:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-29.txt:729:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-29.txt:730:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-29.txt:731:Fitness: Standardized=0.08687601571311981 Adjusted=0.9200681453476376 Hits=19
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-30.txt:598:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-30.txt:599:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-30.txt:600:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-30.txt:601:Fitness: Standardized=0.9223114530772378 Adjusted=0.5202070655091812 Hits=1
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-31.txt:1094:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-31.txt:1095:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-31.txt:1096:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-31.txt:1097:Fitness: Standardized=0.7838801121888173 Adjusted=0.5605757882310836 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-32.txt:861:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-32.txt:862:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-32.txt:863:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-32.txt:864:Fitness: Standardized=0.09420651650360615 Adjusted=0.9139042629679901 Hits=16
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-33.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-33.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-33.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-33.txt:405:Fitness: Standardized=0.9297269484191889 Adjusted=0.5182080298040036 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-34.txt:442:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-34.txt:443:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-34.txt:444:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-34.txt:445:Fitness: Standardized=0.9410835690910624 Adjusted=0.51517617063147 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-35.txt:704:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-35.txt:705:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-35.txt:706:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-35.txt:707:Fitness: Standardized=0.7178716264942784 Adjusted=0.5821156741733581 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-36.txt:746:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-36.txt:747:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-36.txt:748:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-36.txt:749:Fitness: Standardized=0.01552010900416813 Adjusted=0.984717083525419 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-37.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-37.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-37.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-37.txt:405:Fitness: Standardized=0.6119331533760806 Adjusted=0.6203731202535108 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-38.txt:609:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-38.txt:610:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-38.txt:611:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-38.txt:612:Fitness: Standardized=0.21827202103991059 Adjusted=0.8208347419375234 Hits=14
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-39.txt:458:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-39.txt:459:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-39.txt:460:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-39.txt:461:Fitness: Standardized=0.8893356359567289 Adjusted=0.5292865814673612 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-40.txt:447:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-40.txt:448:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-40.txt:449:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-40.txt:450:Fitness: Standardized=0.9584407507162125 Adjusted=0.5106102901679791 Hits=1
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-41.txt:1275:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-41.txt:1276:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-41.txt:1277:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-41.txt:1278:Fitness: Standardized=0.6382927491485688 Adjusted=0.6103915191712265 Hits=10
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-42.txt:943:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-42.txt:944:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-42.txt:945:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-42.txt:946:Fitness: Standardized=0.2934808124940126 Adjusted=0.7731077185999068 Hits=14
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-43.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-43.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-43.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-43.txt:405:Fitness: Standardized=0.6957442642419858 Adjusted=0.5897115626966368 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-44.txt:749:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-44.txt:750:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-44.txt:751:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-44.txt:752:Fitness: Standardized=0.275718832240052 Adjusted=0.7838717864218454 Hits=12
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-45.txt:452:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-45.txt:453:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-45.txt:454:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-45.txt:455:Fitness: Standardized=0.8855026283169192 Adjusted=0.5303625595540236 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-46.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-46.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-46.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-46.txt:405:Fitness: Standardized=0.8356171687107421 Adjusted=0.5447759026476946 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-47.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-47.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-47.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-47.txt:405:Fitness: Standardized=1.0683131687363476 Adjusted=0.483485777258266 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-48.txt:491:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-48.txt:492:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-48.txt:493:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-48.txt:494:Fitness: Standardized=0.8024751756289652 Adjusted=0.55479266151394 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-49.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-49.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-49.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-49.txt:405:Fitness: Standardized=0.8887499856612904 Adjusted=0.529450698923436 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-50.txt:574:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-50.txt:575:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-50.txt:576:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-50.txt:577:Fitness: Standardized=0.7549224185300398 Adjusted=0.5698257594986 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-51.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-51.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-51.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-51.txt:405:Fitness: Standardized=0.993083125283073 Adjusted=0.5017352198283112 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-52.txt:448:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-52.txt:449:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-52.txt:450:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-52.txt:451:Fitness: Standardized=0.6684070264938092 Adjusted=0.5993741240118846 Hits=7
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-53.txt:855:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-53.txt:856:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-53.txt:857:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-53.txt:858:Fitness: Standardized=0.11966430901216982 Adjusted=0.8931248338908433 Hits=15
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-54.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-54.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-54.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-54.txt:405:Fitness: Standardized=0.725221060318533 Adjusted=0.5796358640644966 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-55.txt:447:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-55.txt:448:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-55.txt:449:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-55.txt:450:Fitness: Standardized=0.36337222466639335 Adjusted=0.7334754089219415 Hits=7
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-56.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-56.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-56.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-56.txt:405:Fitness: Standardized=1.1455306949547643 Adjusted=0.46608515196333916 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-57.txt:804:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-57.txt:805:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-57.txt:806:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-57.txt:807:Fitness: Standardized=0.9445507755021373 Adjusted=0.514257592343801 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-58.txt:846:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-58.txt:847:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-58.txt:848:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-58.txt:849:Fitness: Standardized=0.3476723658373309 Adjusted=0.7420201121202658 Hits=8
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-59.txt:540:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-59.txt:541:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-59.txt:542:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-59.txt:543:Fitness: Standardized=1.0056285200962087 Adjusted=0.49859681889247903 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-60.txt:571:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-60.txt:572:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-60.txt:573:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-60.txt:574:Fitness: Standardized=0.4791100811166559 Adjusted=0.676082201566126 Hits=7
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-61.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-61.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-61.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-61.txt:405:Fitness: Standardized=0.5287602354050501 Adjusted=0.6541248109681808 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-62.txt:733:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-62.txt:734:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-62.txt:735:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-62.txt:736:Fitness: Standardized=0.10526584924082388 Adjusted=0.90475970164723 Hits=17
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-63.txt:990:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-63.txt:991:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-63.txt:992:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-63.txt:993:Fitness: Standardized=0.18656412422509833 Adjusted=0.8427694547507607 Hits=10
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-64.txt:483:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-64.txt:484:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-64.txt:485:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-64.txt:486:Fitness: Standardized=0.9065714212390066 Adjusted=0.5245017253799698 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-65.txt:677:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-65.txt:678:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-65.txt:679:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-65.txt:680:Fitness: Standardized=0.8606433287553618 Adjusted=0.5374485182331689 Hits=6
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-66.txt:484:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-66.txt:485:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-66.txt:486:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-66.txt:487:Fitness: Standardized=0.7579482872738091 Adjusted=0.5688449468276339 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-67.txt:683:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-67.txt:684:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-67.txt:685:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-67.txt:686:Fitness: Standardized=0.4587018733950422 Adjusted=0.6855410404543866 Hits=8
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-68.txt:695:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-68.txt:696:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-68.txt:697:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-68.txt:698:Fitness: Standardized=0.9677887280055577 Adjusted=0.5081846367793482 Hits=1
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-69.txt:873:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-69.txt:874:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-69.txt:875:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-69.txt:876:Fitness: Standardized=0.1571478795661936 Adjusted=0.8641937799470305 Hits=15
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-70.txt:897:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-70.txt:898:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-70.txt:899:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-70.txt:900:Fitness: Standardized=0.22908306655280947 Adjusted=0.8136146589381341 Hits=13
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-71.txt:485:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-71.txt:486:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-71.txt:487:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-71.txt:488:Fitness: Standardized=0.9686119124961592 Adjusted=0.507972136941923 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-72.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-72.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-72.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-72.txt:405:Fitness: Standardized=0.8967944595073201 Adjusted=0.5272052514639586 Hits=1
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-73.txt:830:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-73.txt:831:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-73.txt:832:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-73.txt:833:Fitness: Standardized=0.6742495064687019 Adjusted=0.5972825413036452 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-74.txt:702:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-74.txt:703:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-74.txt:704:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-74.txt:705:Fitness: Standardized=0.11509867132046091 Adjusted=0.8967816263432857 Hits=18
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-75.txt:598:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-75.txt:599:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-75.txt:600:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-75.txt:601:Fitness: Standardized=0.4892758049802431 Adjusted=0.6714672974985088 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-76.txt:506:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-76.txt:507:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-76.txt:508:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-76.txt:509:Fitness: Standardized=0.904514117715965 Adjusted=0.5250683051902363 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-77.txt:699:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-77.txt:700:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-77.txt:701:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-77.txt:702:Fitness: Standardized=0.7395634740518247 Adjusted=0.5748568620326229 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-78.txt:734:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-78.txt:735:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-78.txt:736:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-78.txt:737:Fitness: Standardized=0.15808898067945462 Adjusted=0.8634915077192918 Hits=14
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-79.txt:867:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-79.txt:868:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-79.txt:869:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-79.txt:870:Fitness: Standardized=0.31869620388244735 Adjusted=0.7583247734056138 Hits=10
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-80.txt:1204:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-80.txt:1205:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-80.txt:1206:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-80.txt:1207:Fitness: Standardized=0.735749884152347 Adjusted=0.576119871376716 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-81.txt:466:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-81.txt:467:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-81.txt:468:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-81.txt:469:Fitness: Standardized=0.8620960635730861 Adjusted=0.5370292218335655 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-82.txt:763:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-82.txt:764:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-82.txt:765:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-82.txt:766:Fitness: Standardized=0.5457501802801739 Adjusted=0.646935069299973 Hits=7
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-83.txt:450:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-83.txt:451:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-83.txt:452:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-83.txt:453:Fitness: Standardized=0.8641239611547272 Adjusted=0.5364450116185151 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-84.txt:618:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-84.txt:619:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-84.txt:620:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-84.txt:621:Fitness: Standardized=0.8114364976593871 Adjusted=0.5520480576007665 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-85.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-85.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-85.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-85.txt:405:Fitness: Standardized=1.0703502473121036 Adjusted=0.4830100613643904 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-86.txt:963:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-86.txt:964:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-86.txt:965:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-86.txt:966:Fitness: Standardized=0.6397268372137107 Adjusted=0.6098576770867762 Hits=7
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-87.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-87.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-87.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-87.txt:405:Fitness: Standardized=1.0487850927591265 Adjusted=0.48809414102739623 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-88.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-88.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-88.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-88.txt:405:Fitness: Standardized=0.7304753013267614 Adjusted=0.5778759160753676 Hits=8
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-89.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-89.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-89.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-89.txt:405:Fitness: Standardized=0.8620024751212738 Adjusted=0.5370562141357353 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-90.txt:558:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-90.txt:559:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-90.txt:560:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-90.txt:561:Fitness: Standardized=0.24277750875792176 Adjusted=0.8046492577737726 Hits=12
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-91.txt:555:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-91.txt:556:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-91.txt:557:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-91.txt:558:Fitness: Standardized=0.05797761427917854 Adjusted=0.9451995831512183 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-92.txt:745:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-92.txt:746:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-92.txt:747:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-92.txt:748:Fitness: Standardized=0.7185595926876959 Adjusted=0.5818826441951171 Hits=6
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-93.txt:697:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-93.txt:698:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-93.txt:699:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-93.txt:700:Fitness: Standardized=0.30597346497688815 Adjusted=0.7657123416498336 Hits=6
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-94.txt:854:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-94.txt:855:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-94.txt:856:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-94.txt:857:Fitness: Standardized=0.8144330423325038 Adjusted=0.5511363476463548 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-95.txt:611:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-95.txt:612:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-95.txt:613:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-95.txt:614:Fitness: Standardized=0.4574546995613545 Adjusted=0.6861276719619257 Hits=12
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-96.txt:443:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-96.txt:444:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-96.txt:445:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-96.txt:446:Fitness: Standardized=0.7063223413413646 Adjusted=0.5860557385739236 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-97.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-97.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-97.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-97.txt:405:Fitness: Standardized=0.9179434729259811 Adjusted=0.5213918001839842 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-98.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-98.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-98.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-98.txt:405:Fitness: Standardized=0.9017072369247787 Adjusted=0.5258432952156634 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-99.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-99.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-99.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-99.txt:405:Fitness: Standardized=1.0068581606130382 Adjusted=0.498291319050933 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-100.txt:690:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-100.txt:691:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-100.txt:692:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-100.txt:693:Fitness: Standardized=0.2064010710064287 Adjusted=0.8289117309600524 Hits=14
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-101.txt:422:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-101.txt:423:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-101.txt:424:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-101.txt:425:Fitness: Standardized=0.8122180698031298 Adjusted=0.5518099706999583 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-102.txt:415:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-102.txt:416:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-102.txt:417:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-102.txt:418:Fitness: Standardized=0.9159858563912626 Adjusted=0.5219245208226582 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-103.txt:810:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-103.txt:811:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-103.txt:812:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-103.txt:813:Fitness: Standardized=0.14379850913786427 Adjusted=0.8742798596177118 Hits=18
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-104.txt:834:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-104.txt:835:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-104.txt:836:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-104.txt:837:Fitness: Standardized=0.354752345291722 Adjusted=0.7381422910802694 Hits=8
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-105.txt:406:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-105.txt:407:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-105.txt:408:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-105.txt:409:Fitness: Standardized=0.9136741564265818 Adjusted=0.5225550006210605 Hits=1
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-106.txt:728:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-106.txt:729:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-106.txt:730:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-106.txt:731:Fitness: Standardized=0.07827502527032501 Adjusted=0.9274071795823136 Hits=18
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-107.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-107.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-107.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-107.txt:405:Fitness: Standardized=1.027775574888257 Adjusted=0.49315122066952904 Hits=0
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-108.txt:570:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-108.txt:571:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-108.txt:572:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-108.txt:573:Fitness: Standardized=0.8026884099666391 Adjusted=0.5547270368363361 Hits=1
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-109.txt:668:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-109.txt:669:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-109.txt:670:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-109.txt:671:Fitness: Standardized=0.925880148052445 Adjusted=0.5192431112659085 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-110.txt:518:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-110.txt:519:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-110.txt:520:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-110.txt:521:Fitness: Standardized=0.9548908828610094 Adjusted=0.5115375025620286 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-111.txt:725:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-111.txt:726:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-111.txt:727:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-111.txt:728:Fitness: Standardized=0.34811841616288197 Adjusted=0.7417746008145759 Hits=12
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-112.txt:409:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-112.txt:410:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-112.txt:411:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-112.txt:412:Fitness: Standardized=0.796246147723527 Adjusted=0.5567165732087166 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-113.txt:444:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-113.txt:445:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-113.txt:446:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-113.txt:447:Fitness: Standardized=0.9906911397851518 Adjusted=0.5023380975654146 Hits=1
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-114.txt:861:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-114.txt:862:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-114.txt:863:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-114.txt:864:Fitness: Standardized=0.2624983048634542 Adjusted=0.7920802714330418 Hits=13
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-115.txt:595:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-115.txt:596:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-115.txt:597:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-115.txt:598:Fitness: Standardized=0.006177691112982332 Adjusted=0.9938602384374585 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-116.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-116.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-116.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-116.txt:405:Fitness: Standardized=0.9621251241150229 Adjusted=0.5096514935310407 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-117.txt:630:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-117.txt:631:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-117.txt:632:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-117.txt:633:Fitness: Standardized=0.9138203673282577 Adjusted=0.5225150787772342 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-118.txt:727:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-118.txt:728:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-118.txt:729:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-118.txt:730:Fitness: Standardized=0.2069988889085695 Adjusted=0.8285011769184407 Hits=16
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-119.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-119.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-119.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-119.txt:405:Fitness: Standardized=0.9790765708864275 Adjusted=0.5052861595709258 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-120.txt:510:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-120.txt:511:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-120.txt:512:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-120.txt:513:Fitness: Standardized=0.795175271925396 Adjusted=0.5570486713130026 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-121.txt:664:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-121.txt:665:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-121.txt:666:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-121.txt:667:Fitness: Standardized=0.7735230588946165 Adjusted=0.5638494492556921 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-122.txt:760:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-122.txt:761:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-122.txt:762:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-122.txt:763:Fitness: Standardized=0.3138172165650769 Adjusted=0.761140885803324 Hits=12
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-123.txt:618:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-123.txt:619:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-123.txt:620:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-123.txt:621:Fitness: Standardized=0.179214014090394 Adjusted=0.8480224862077868 Hits=16
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-124.txt:444:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-124.txt:445:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-124.txt:446:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-124.txt:447:Fitness: Standardized=0.7967040146148398 Adjusted=0.5565747011559778 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-125.txt:406:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-125.txt:407:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-125.txt:408:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-125.txt:409:Fitness: Standardized=1.3298948653526692 Adjusted=0.4292039159666688 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-126.txt:970:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-126.txt:971:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-126.txt:972:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-126.txt:973:Fitness: Standardized=0.33585939848480434 Adjusted=0.748581775248389 Hits=7
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-127.txt:618:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-127.txt:619:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-127.txt:620:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-127.txt:621:Fitness: Standardized=0.15286636792521985 Adjusted=0.8674032202012025 Hits=13
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-128.txt:428:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-128.txt:429:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-128.txt:430:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-128.txt:431:Fitness: Standardized=0.817767989587354 Adjusted=0.5501252116487138 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-129.txt:1058:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-129.txt:1059:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-129.txt:1060:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-129.txt:1061:Fitness: Standardized=0.4823479578032236 Adjusted=0.6746054424913549 Hits=13
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-130.txt:536:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-130.txt:537:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-130.txt:538:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-130.txt:539:Fitness: Standardized=0.6827625286281862 Adjusted=0.5942609150057645 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-131.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-131.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-131.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-131.txt:405:Fitness: Standardized=0.9203426184871157 Adjusted=0.5207404087025991 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-132.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-132.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-132.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-132.txt:405:Fitness: Standardized=0.7499860953610985 Adjusted=0.5714331117549002 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-133.txt:413:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-133.txt:414:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-133.txt:415:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-133.txt:416:Fitness: Standardized=0.7379931811187065 Adjusted=0.575376250530697 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-134.txt:896:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-134.txt:897:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-134.txt:898:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-134.txt:899:Fitness: Standardized=0.2812567162646602 Adjusted=0.780483713611564 Hits=14
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-135.txt:452:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-135.txt:453:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-135.txt:454:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-135.txt:455:Fitness: Standardized=0.8262839325447707 Adjusted=0.5475599835161367 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-136.txt:626:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-136.txt:627:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-136.txt:628:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-136.txt:629:Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-137.txt:1019:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-137.txt:1020:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-137.txt:1021:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-137.txt:1022:Fitness: Standardized=0.04533910944767749 Adjusted=0.9566273671023051 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-138.txt:714:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-138.txt:715:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-138.txt:716:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-138.txt:717:Fitness: Standardized=0.04810083340753187 Adjusted=0.9541066738291306 Hits=18
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-139.txt:445:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-139.txt:446:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-139.txt:447:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-139.txt:448:Fitness: Standardized=0.9543700724513795 Adjusted=0.5116738196598013 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-140.txt:673:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-140.txt:674:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-140.txt:675:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-140.txt:676:Fitness: Standardized=0.9087582805754633 Adjusted=0.5239008051341705 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-141.txt:563:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-141.txt:564:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-141.txt:565:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-141.txt:566:Fitness: Standardized=0.07356802924494293 Adjusted=0.9314733419393231 Hits=19
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-142.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-142.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-142.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-142.txt:405:Fitness: Standardized=0.7578812065169607 Adjusted=0.5688666539540433 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-143.txt:973:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-143.txt:974:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-143.txt:975:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-143.txt:976:Fitness: Standardized=0.5860839925264505 Adjusted=0.6304836343547697 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-144.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-144.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-144.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-144.txt:405:Fitness: Standardized=0.9459648322181536 Adjusted=0.5138839014167212 Hits=0
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-145.txt:821:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-145.txt:822:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-145.txt:823:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-145.txt:824:Fitness: Standardized=0.6413598266382197 Adjusted=0.609250929485808 Hits=6
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-146.txt:593:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-146.txt:594:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-146.txt:595:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-146.txt:596:Fitness: Standardized=0.3962281719454625 Adjusted=0.7162153150130397 Hits=9
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-147.txt:724:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-147.txt:725:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-147.txt:726:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-147.txt:727:Fitness: Standardized=0.08831651752796424 Adjusted=0.91885033801695 Hits=19
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-148.txt:842:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-148.txt:843:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-148.txt:844:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-148.txt:845:Fitness: Standardized=0.8566665986637448 Adjusted=0.538599660660512 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-149.txt:637:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-149.txt:638:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-149.txt:639:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-149.txt:640:Fitness: Standardized=0.42541323169779405 Adjusted=0.701550945201281 Hits=6
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-150.txt:1057:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-150.txt:1058:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-150.txt:1059:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-150.txt:1060:Fitness: Standardized=0.4137717189017971 Adjusted=0.7073277719664597 Hits=7
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-151.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-151.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-151.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-151.txt:405:Fitness: Standardized=0.8753496396705783 Adjusted=0.5332338988134815 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-152.txt:542:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-152.txt:543:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-152.txt:544:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-152.txt:545:Fitness: Standardized=0.09367297197316095 Adjusted=0.9143501079631144 Hits=17
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-153.txt:465:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-153.txt:466:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-153.txt:467:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-153.txt:468:Fitness: Standardized=0.21337086164248747 Adjusted=0.8241503332677228 Hits=13
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-154.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-154.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-154.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-154.txt:405:Fitness: Standardized=1.6025454237811216 Adjusted=0.3842392109134237 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-155.txt:751:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-155.txt:752:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-155.txt:753:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-155.txt:754:Fitness: Standardized=0.5336568224433871 Adjusted=0.6520363521787246 Hits=7
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-156.txt:492:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-156.txt:493:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-156.txt:494:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-156.txt:495:Fitness: Standardized=0.5662667371189245 Adjusted=0.6384608549112484 Hits=11
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-157.txt:667:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-157.txt:668:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-157.txt:669:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-157.txt:670:Fitness: Standardized=0.9156078383497523 Adjusted=0.522027515225389 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-158.txt:664:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-158.txt:665:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-158.txt:666:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-158.txt:667:Fitness: Standardized=0.22536205046395402 Adjusted=0.8160853354495302 Hits=10
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-159.txt:873:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-159.txt:874:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-159.txt:875:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-159.txt:876:Fitness: Standardized=0.2756180515250177 Adjusted=0.7839337165262652 Hits=13
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-160.txt:633:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-160.txt:634:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-160.txt:635:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-160.txt:636:Fitness: Standardized=0.9342336540611645 Adjusted=0.5170006208403909 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-161.txt:534:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-161.txt:535:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-161.txt:536:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-161.txt:537:Fitness: Standardized=0.6448721199888572 Adjusted=0.6079499967491542 Hits=10
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-162.txt:803:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-162.txt:804:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-162.txt:805:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-162.txt:806:Fitness: Standardized=0.2226524374624867 Adjusted=0.8178939241927302 Hits=10
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-163.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-163.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-163.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-163.txt:405:Fitness: Standardized=1.075668733863303 Adjusted=0.48177244455514207 Hits=0
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-164.txt:588:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-164.txt:589:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-164.txt:590:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-164.txt:591:Fitness: Standardized=0.09677270413154417 Adjusted=0.9117659440584167 Hits=18
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-165.txt:1036:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-165.txt:1037:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-165.txt:1038:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-165.txt:1039:Fitness: Standardized=0.36465909103233346 Adjusted=0.7327837454580124 Hits=12
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-166.txt:875:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-166.txt:876:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-166.txt:877:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-166.txt:878:Fitness: Standardized=0.6904435984393824 Adjusted=0.5915607009445332 Hits=9
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-167.txt:704:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-167.txt:705:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-167.txt:706:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-167.txt:707:Fitness: Standardized=0.36672320100746064 Adjusted=0.7316770500880239 Hits=9
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-168.txt:450:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-168.txt:451:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-168.txt:452:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-168.txt:453:Fitness: Standardized=1.0160874850683694 Adjusted=0.4960102214840584 Hits=0
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-169.txt:1103:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-169.txt:1104:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-169.txt:1105:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-169.txt:1106:Fitness: Standardized=0.7002854167285146 Adjusted=0.5881365505822429 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-170.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-170.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-170.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-170.txt:405:Fitness: Standardized=0.9293157450207747 Adjusted=0.5183184777197949 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-171.txt:867:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-171.txt:868:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-171.txt:869:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-171.txt:870:Fitness: Standardized=0.43011563060843105 Adjusted=0.6992441580227734 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-172.txt:452:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-172.txt:453:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-172.txt:454:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-172.txt:455:Fitness: Standardized=1.0121017126070893 Adjusted=0.49699276817586696 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-173.txt:685:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-173.txt:686:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-173.txt:687:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-173.txt:688:Fitness: Standardized=0.28674251014032004 Adjusted=0.7771562625151394 Hits=11
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-174.txt:684:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-174.txt:685:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-174.txt:686:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-174.txt:687:Fitness: Standardized=0.5663785727078925 Adjusted=0.6384152703718617 Hits=7
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-175.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-175.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-175.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-175.txt:405:Fitness: Standardized=0.854386022365136 Adjusted=0.5392620457333753 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-176.txt:451:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-176.txt:452:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-176.txt:453:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-176.txt:454:Fitness: Standardized=0.8476774007535101 Adjusted=0.5412200201140012 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-177.txt:982:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-177.txt:983:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-177.txt:984:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-177.txt:985:Fitness: Standardized=0.15925673094980983 Adjusted=0.8626216896585741 Hits=17
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-178.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-178.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-178.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-178.txt:405:Fitness: Standardized=1.0281288439206018 Adjusted=0.4930653212676998 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-179.txt:784:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-179.txt:785:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-179.txt:786:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-179.txt:787:Fitness: Standardized=0.09694760565766226 Adjusted=0.9116205686054271 Hits=16
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-180.txt:490:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-180.txt:491:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-180.txt:492:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-180.txt:493:Fitness: Standardized=0.8543006452855956 Adjusted=0.5392868748346804 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-181.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-181.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-181.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-181.txt:405:Fitness: Standardized=0.681639512773953 Adjusted=0.5946577684479163 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-182.txt:443:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-182.txt:444:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-182.txt:445:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-182.txt:446:Fitness: Standardized=1.0054343407119715 Adjusted=0.498645096326105 Hits=4
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-183.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-183.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-183.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-183.txt:405:Fitness: Standardized=0.8870293782476358 Adjusted=0.5299334560061997 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-184.txt:629:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-184.txt:630:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-184.txt:631:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-184.txt:632:Fitness: Standardized=0.860218833260808 Adjusted=0.5375711621234818 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-185.txt:578:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-185.txt:579:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-185.txt:580:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-185.txt:581:Fitness: Standardized=0.6699366657644734 Adjusted=0.5988251054672269 Hits=6
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-186.txt:408:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-186.txt:409:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-186.txt:410:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-186.txt:411:Fitness: Standardized=0.8559122337343855 Adjusted=0.5388185830252563 Hits=2
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-187.txt:702:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-187.txt:703:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-187.txt:704:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-187.txt:705:Fitness: Standardized=0.11047838851299713 Adjusted=0.900512797317078 Hits=16
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-188.txt:868:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-188.txt:869:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-188.txt:870:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-188.txt:871:Fitness: Standardized=0.3874719242400351 Adjusted=0.7207353046424586 Hits=7
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-189.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-189.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-189.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-189.txt:405:Fitness: Standardized=1.2809561648378303 Adjusted=0.4384126338837806 Hits=0
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-190.txt:742:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-190.txt:743:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-190.txt:744:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-190.txt:745:Fitness: Standardized=0.3883433150152644 Adjusted=0.7202829366373297 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-191.txt:561:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-191.txt:562:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-191.txt:563:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-191.txt:564:Fitness: Standardized=0.612479899612562 Adjusted=0.6201627693097288 Hits=5
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-192.txt:978:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-192.txt:979:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-192.txt:980:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-192.txt:981:Fitness: Standardized=0.1623849714543452 Adjusted=0.860300179852486 Hits=13
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-193.txt:520:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-193.txt:521:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-193.txt:522:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-193.txt:523:Fitness: Standardized=0.821393349897985 Adjusted=0.5490302246112897 Hits=3
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-194.txt:503:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-194.txt:504:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-194.txt:505:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-194.txt:506:Fitness: Standardized=0.3612695696425815 Adjusted=0.7346083555386921 Hits=9
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-195.txt:402:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-195.txt:403:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-195.txt:404:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-195.txt:405:Fitness: Standardized=1.0411069847020171 Adjusted=0.4899302229108735 Hits=0
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-196.txt:794:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-196.txt:795:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-196.txt:796:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-196.txt:797:Fitness: Standardized=0.3773746951535103 Adjusted=0.7260188556669749 Hits=8
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-197.txt:652:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-197.txt:653:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-197.txt:654:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-197.txt:655:Fitness: Standardized=0.5506345706653702 Adjusted=0.6448972691037739 Hits=7
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-198.txt:788:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-198.txt:789:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-198.txt:790:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-198.txt:791:Fitness: Standardized=0.9080795325241278 Adjusted=0.524087168775998 Hits=6
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-199.txt:616:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-199.txt:617:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-199.txt:618:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\benchmark\out_benchmark-199.txt:619:Fitness: Standardized=0.8715030452001311 Adjusted=0.5343298813030058 Hits=5

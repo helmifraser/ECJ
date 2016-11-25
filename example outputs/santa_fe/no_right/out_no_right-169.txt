@@ -1,0 +1,2292 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=60.0 Adjusted=0.01639344262295082 Hits=29
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left move)
+         (progn2 move left))) (progn3 (progn3 (progn4
+     left move move move) (progn4 move move move
+     move) (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move left)
+     (progn4 left move left left))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=60.0 Adjusted=0.01639344262295082 Hits=29
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left (progn3
+         move move move)) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move left)
+     (progn4 left move left left))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=60.0 Adjusted=0.01639344262295082 Hits=29
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left (progn4
+         move move left left)) (progn2 move left)))
+     (progn3 (progn3 (progn4 left move move move)
+         (progn4 move move move move) (progn3 left
+         left left)) (progn3 (if-food-ahead move move)
+         (progn4 left left left left) (if-food-ahead
+         move move)) (if-food-ahead (progn2 move left)
+         (progn4 left move left left))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left (progn3
+         move move move)) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left (progn3
+         move move move)) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left (progn3
+         move move (progn4 (progn3 left move left)
+         (progn2 left left) (progn2 left move) (if-food-ahead
+         left left)))) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (progn2 (progn4 left left left left)
+     (progn3 (progn2 left move) (progn4 left left
+         move left) (if-food-ahead move left))) (progn4
+     left move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left (progn3
+         move move move)) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left (progn3
+         move move (progn4 (progn2 (if-food-ahead
+         move left) (if-food-ahead left (progn3 left
+         left left))) (progn2 left left) (progn2 left
+         move) (if-food-ahead left left)))) (progn2
+         move left))) (progn3 (progn3 (progn4 left
+     move move move) (progn4 move move move move)
+     (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (progn2 (progn4 left left left left)
+     (progn3 (progn2 left move) (progn4 left left
+         move left) (if-food-ahead move left))) (progn4
+     left move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left (progn3
+         move move move)) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (progn4 (progn2 left left)
+         (if-food-ahead left left) (progn4 left move
+         move move) (progn3 move move move)) (if-food-ahead
+         (if-food-ahead left (progn3 move move (progn4
+             (progn2 (if-food-ahead move left) (if-food-ahead
+                 left (progn3 left left left))) (progn2 left
+             left) (progn2 left move) (if-food-ahead left
+             left)))) (progn2 move left)))) (progn3 (progn3
+     (progn4 left move move move) (progn4 move
+     move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left (progn3
+         move move (progn4 (progn3 left move left)
+         (progn3 move move move) (if-food-ahead left
+         move) (if-food-ahead left left)))) (progn2
+         move left))) (progn3 (progn3 (progn4 left
+     move move move) (progn4 move move move move)
+     (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (if-food-ahead
+         move left)) (progn4 (progn3 left move left)
+     (progn2 left left) (progn2 left move) (if-food-ahead
+     left left))) (progn2 move left) (progn4 (progn2
+     move (if-food-ahead move move)) (progn2 move
+     (progn2 left left)) (progn2 (if-food-ahead
+     left move) (progn4 move move move left))
+     (if-food-ahead (progn3 left left left) (progn3
+         left left left))) (progn2 (progn2 (if-food-ahead
+     move left) (if-food-ahead left (progn3 left
+     left left))) (progn3 (progn2 left move) (progn4
+     left left move left) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move))))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (progn4
+         (progn2 (if-food-ahead move left) (if-food-ahead
+             left (progn3 left left left))) (progn2 left
+         left) (progn2 left move) (if-food-ahead left
+         left)))) (progn2 move left))) (progn3 (progn3
+     (progn4 left move move move) (progn4 move
+     move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) left (progn4 left move move move) (progn3
+     move move move)) (if-food-ahead (if-food-ahead
+     left left) (progn2 move left))) (progn3 (progn3
+     (progn4 left move move move) (progn4 move
+     move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left (progn3
+         move move (progn4 (progn2 (if-food-ahead
+         move left) (if-food-ahead left (progn3 left
+         left left))) (if-food-ahead (progn3 left
+         left left) (if-food-ahead (progn4 (if-food-ahead
+         (progn2 (if-food-ahead left left) (progn3
+             (if-food-ahead move move) (progn4 left left
+             left left) (if-food-ahead move move))) (progn4
+         (progn3 left move left) (progn2 left left)
+         (progn2 left move) (if-food-ahead left left)))
+         (if-food-ahead (if-food-ahead (progn2 left
+             left) (progn3 move left move)) (progn3 (progn2
+             left move) (progn3 left move left) (progn4
+             move left move move))) (progn4 (progn3 (progn3
+         move move left) (progn4 left move left move)
+         (progn4 move left move left)) (progn3 (progn2
+         move move) (progn4 move move move move) (progn4
+         move left left move)) (progn2 (if-food-ahead
+         left move) (progn4 move move move left))
+         (if-food-ahead (progn3 left left left) (progn3
+             left left left))) (progn2 (progn2 (if-food-ahead
+         move left) (if-food-ahead left (progn3 left
+         left left))) (progn3 (progn2 left move) (progn4
+         left left move left) (if-food-ahead move
+         left)))) (progn2 move left))) (progn2 left
+         move) (if-food-ahead left left)))) (progn2
+         move left))) (progn3 (progn3 (progn4 left
+     move move move) (progn4 move move move move)
+     (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (progn3 (progn3 (progn4 left
+     move move move) (progn4 move move move move)
+     (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left)))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (progn4 (if-food-ahead (progn4
+         (progn2 left left) (if-food-ahead left left)
+         (progn4 left move move move) (progn3 move
+         move move)) (if-food-ahead (if-food-ahead
+         left (progn3 move move (progn4 (progn3 left
+         move left) (progn3 move move move) (progn2
+         left move) (if-food-ahead left left)))) (progn4
+         (progn3 left move left) (progn2 left left)
+         (if-food-ahead move move) (if-food-ahead
+         left left)))) (progn2 left left) (progn2
+         left move) (if-food-ahead left left)) (progn2
+         move left))) (progn3 (progn3 (progn4 left
+     move move move) (progn4 move move move move)
+     (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (if-food-ahead
+         move left)) (progn4 (progn3 left move left)
+     (progn2 left left) (if-food-ahead left left)
+     (if-food-ahead left left))) (progn2 move
+     left) (progn4 (progn2 move (if-food-ahead
+     move move)) (progn2 move left) (progn2 (if-food-ahead
+     left move) (progn4 move move move left))
+     (progn2 (if-food-ahead (progn4 (progn2 left
+         left) (if-food-ahead left left) (progn4 left
+         move move move) (progn4 left move left left))
+         (if-food-ahead (progn4 (if-food-ahead (progn4
+             (progn2 left left) (if-food-ahead (progn3
+             move move move) left) (progn4 left move move
+             move) (progn3 move move move)) (if-food-ahead
+             (if-food-ahead left (progn3 move move (progn4
+                 (progn3 left move left) (progn3 move move
+                 move) (progn2 left move) (if-food-ahead left
+                 left)))) (progn2 move left))) (progn2 left
+             left) (progn2 left move) (if-food-ahead left
+             left)) (progn2 (if-food-ahead move move)
+             left))) (progn3 (progn3 (progn4 left move
+         move move) (progn4 move move move move) (progn3
+         left left left)) (progn3 (if-food-ahead move
+         move) (progn4 left left left left) (if-food-ahead
+         move move)) (if-food-ahead (progn2 move (if-food-ahead
+         move move)) (progn4 left move left left)))))
+     (progn2 (progn2 (if-food-ahead move left)
+         (if-food-ahead left (progn3 left left left)))
+         (progn3 (progn2 left move) (progn4 left left
+             move left) (progn3 (if-food-ahead move move)
+             (progn4 left left left left) (if-food-ahead
+             move move))))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (progn4
+         (progn2 (if-food-ahead move left) (progn3
+             (progn4 left move move move) (progn4 move
+             move move move) (progn3 left left left)))
+         (progn2 left left) (progn2 left move) (if-food-ahead
+         left left)))) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left (progn3
+         move move (progn4 (progn2 (if-food-ahead
+         move left) (if-food-ahead left (progn3 left
+         left left))) (if-food-ahead (progn4 (progn2
+         left left) (if-food-ahead left left) (progn4
+         left move move move) (progn3 move move move))
+         (if-food-ahead (progn4 (if-food-ahead (progn2
+             (if-food-ahead left left) (progn4 (progn3
+             (progn2 move move) (progn3 move left move)
+             (progn2 move left)) (progn4 (progn2 move
+             move) (if-food-ahead move move) (progn4 move
+             move move move) (progn4 left left left move))
+             (if-food-ahead move move) (progn2 left move)))
+             (progn4 (progn3 left move left) (progn2 left
+                 left) (progn2 left move) (if-food-ahead left
+                 left))) (if-food-ahead (if-food-ahead (progn2
+             left (progn3 left move left)) (progn3 move
+             left move)) (progn3 (progn2 left move) (progn3
+             left move left) (progn4 move left move move)))
+             (progn4 (progn3 (progn3 move move left) (progn4
+                 left move left move) (progn4 move left move
+                 left)) (progn3 (progn2 move move) (progn4
+                 move move move move) (progn4 move left left
+                 move)) (progn2 (if-food-ahead left move)
+                 (progn4 move move move left)) (if-food-ahead
+                 (progn3 left left left) (progn3 left left
+                 left))) (progn2 (progn2 (if-food-ahead move
+             left) (if-food-ahead left (progn3 left left
+             left))) (progn3 (progn2 left move) (progn4
+             left left move left) (if-food-ahead move
+             left)))) (progn2 move left))) (progn2 left
+         move) (if-food-ahead left left)))) (progn2
+         move left))) (progn3 (progn3 (progn4 left
+     move move move) (progn4 move move move move)
+     (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (progn2
+         left left)) (progn4 (progn3 left move left)
+     (progn2 left left) (progn2 left move) (if-food-ahead
+     left left))) (progn2 move left) (progn4 (progn2
+     move (if-food-ahead move move)) (progn2 move
+     (progn2 (progn2 (if-food-ahead move left)
+         (if-food-ahead left (progn3 left left left)))
+         left)) (progn2 (if-food-ahead left move)
+     (progn4 move move move left)) (if-food-ahead
+     (progn3 left left left) (progn3 left left
+     left))) (progn2 (progn2 (if-food-ahead move
+     left) (progn3 (progn4 left move move move)
+     (progn4 move move move move) (progn3 left
+     left left))) (progn3 (progn2 (if-food-ahead
+     (if-food-ahead (progn4 (progn2 left left)
+         (if-food-ahead left left) (progn4 left move
+         move move) (progn3 move move move)) (if-food-ahead
+         (progn2 left left) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (progn4
+         (progn2 (if-food-ahead move left) (if-food-ahead
+             left (progn3 left left left))) (progn2 left
+         left) (progn2 left move) (if-food-ahead left
+         left)))) (progn2 move left))) (progn3 (progn3
+     (progn4 left move move move) (progn4 move
+     move move move) (progn3 left left left))
+     (if-food-ahead left (progn3 left left left))
+     (if-food-ahead (progn2 move (if-food-ahead
+         move move)) (progn4 left move left left))))
+     (progn4 left left move left) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move))))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (progn4
+         (progn2 (if-food-ahead move left) (progn4
+             move move move move)) (progn2 left left)
+         (progn2 left move) (if-food-ahead left left))))
+     (progn2 move left))) (progn3 (progn3 (progn4
+     left move move move) (progn4 move move move
+     move) (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (if-food-ahead
+         (progn4 (progn2 left left) (if-food-ahead
+             left left) (progn4 left move move move) (progn3
+             move move move)) (if-food-ahead (progn4 (if-food-ahead
+         (progn2 (if-food-ahead move move) (progn2
+             left left)) (progn4 (progn3 left move left)
+         (progn2 left left) (progn2 left move) (if-food-ahead
+         left left))) (progn2 move left) (progn3 left
+         move left) (progn2 (progn2 (if-food-ahead
+         move left) move) (progn3 (progn2 left move)
+         (progn4 left left move left) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move))))) (progn2 move left)))) left)
+     (progn2 move left) (progn4 (progn2 move (if-food-ahead
+     move move)) (if-food-ahead (progn4 (progn2
+     left left) (if-food-ahead left left) (progn4
+     left move move move) (progn3 move move move))
+     (progn4 left (progn2 left left) left left))
+     (progn2 (if-food-ahead left move) (progn4
+         move move move left)) (if-food-ahead (progn3
+     left left left) (progn3 left left left)))
+     (progn2 (progn2 (if-food-ahead move left)
+         (if-food-ahead left (progn3 left left left)))
+         (progn3 (progn2 left move) (progn4 left left
+             move left) (progn3 (if-food-ahead move move)
+             (progn4 left left left left) (if-food-ahead
+             move move))))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (progn4
+         (progn2 (if-food-ahead move left) (if-food-ahead
+             left (progn3 left left left))) (progn2 left
+         left) (progn2 left move) (if-food-ahead left
+         left)))) (progn2 move left))) (progn3 (progn3
+     (progn4 left move move move) (progn4 move
+     move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (if-food-ahead move move) (progn4 (progn3
+     left move left) (progn2 left left) (progn2
+     left move) (if-food-ahead left left))) (progn2
+     move left) (progn4 (progn2 left left) (if-food-ahead
+     left left) (progn4 left move move move) (progn3
+     move move move)) (progn2 (progn2 (if-food-ahead
+     move left) (if-food-ahead left (progn3 left
+     left left))) (progn3 (progn2 left move) (if-food-ahead
+     (progn4 (progn2 left left) (if-food-ahead
+         left left) (progn4 left move move move) (progn3
+         move move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (if-food-ahead
+         move left)) (progn4 (progn3 left move left)
+     (progn2 left left) (progn2 left move) (if-food-ahead
+     left left))) (progn2 move left) (progn4 (progn3
+     left move left) (progn2 (if-food-ahead move
+     left) (if-food-ahead left (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)))) (progn2 (if-food-ahead left
+     move) (progn4 move move move left)) (if-food-ahead
+     (progn3 left left left) (progn3 left left
+     left))) (progn2 (progn2 (if-food-ahead move
+     left) (if-food-ahead left (progn3 left left
+     left))) (progn3 (progn2 left move) (progn4
+     left move move left) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move))))) (progn2 move left))) (progn3
+     (if-food-ahead move move) (progn4 left left
+     left left) (if-food-ahead move move)))))
+     (progn2 move left))) (if-food-ahead (if-food-ahead
+     left (progn3 move move (progn4 (progn2 (if-food-ahead
+     left left) (if-food-ahead left (progn3 left
+     left left))) (progn2 left left) (progn2 left
+     move) (if-food-ahead left left)))) (progn2
+     move left))) (progn3 (progn3 (progn4 left
+     move move move) (progn4 move move move move)
+     (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left (progn3
+         move move (progn4 (progn4 left move move
+         move) (if-food-ahead (progn2 (progn2 (if-food-ahead
+         move left) (if-food-ahead left (progn3 left
+         left left))) left) (progn3 left left left))
+         (progn2 left move) (if-food-ahead left left))))
+         (progn2 move left))) (progn3 (progn3 (progn4
+     left move move move) (progn4 move move move
+     move) (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (if-food-ahead
+         (progn4 (progn2 left left) (if-food-ahead
+             left left) (progn4 left move move move) (progn3
+             move move move)) (if-food-ahead (progn4 (if-food-ahead
+         (progn2 (if-food-ahead move move) (progn2
+             left left)) (progn4 (progn3 left move left)
+         (progn2 left left) (progn2 left move) (if-food-ahead
+         left left))) (progn2 move left) (progn3 left
+         move left) (progn2 (progn2 (if-food-ahead
+         move left) move) (progn3 (progn2 left move)
+         (progn4 left left move left) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move))))) (progn2 move left)))) left)
+     (progn4 move move move left) (progn4 (progn2
+     move (if-food-ahead move move)) (if-food-ahead
+     (progn4 (progn2 left left) (if-food-ahead
+         left left) (progn4 left move move move) (progn3
+         move move move)) (progn4 left move left left))
+     (progn2 (if-food-ahead move move) (progn4
+         move move move left)) (if-food-ahead (progn3
+     left left left) (progn3 left left left)))
+     (progn2 (progn2 (if-food-ahead move left)
+         (if-food-ahead left (progn3 left left left)))
+         (progn3 (progn2 left move) (progn4 left left
+             move left) (progn3 (if-food-ahead move move)
+             (progn4 left left left left) (if-food-ahead
+             move move))))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (progn4
+         (progn2 (if-food-ahead move left) (if-food-ahead
+             (if-food-ahead left (progn3 move move (progn4
+                 (progn2 (if-food-ahead move left) (progn4
+                     move move move move)) (progn2 left left)
+                 (progn2 left move) (if-food-ahead left left))))
+             (progn3 left left left))) (progn2 left left)
+         (progn2 left move) (if-food-ahead left left))))
+     (progn2 move left))) (progn3 (progn3 (progn4
+     left move move move) (progn4 move move move
+     move) (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (progn2
+         left left)) (progn4 (progn3 left move left)
+     (progn2 left left) (progn2 left move) (if-food-ahead
+     left left))) (progn2 move left) (progn4 (progn2
+     move (if-food-ahead move move)) (progn2 move
+     (progn2 left left)) (progn2 (if-food-ahead
+     left move) (progn4 move move move left))
+     (if-food-ahead (progn3 left left left) (progn3
+         left left left))) (progn2 (progn2 (if-food-ahead
+     move left) move) (progn3 (progn2 left move)
+     (progn4 left left move left) (if-food-ahead
+     (progn4 left (progn2 move left) (progn4 (progn2
+         move (if-food-ahead move move)) (progn2 move
+         left) (progn2 (if-food-ahead left move) (progn4
+         move move move left)) (if-food-ahead (progn4
+         left move move move) (progn3 left left left)))
+         (progn2 (progn2 (if-food-ahead move left)
+             (if-food-ahead left (progn3 left left left)))
+             (progn3 (progn2 left move) (progn4 left left
+                 move left) (progn3 (if-food-ahead move move)
+                 (progn4 left left left left) (if-food-ahead
+                 move move))))) (progn2 move left))))) (progn2
+     move left))) (if-food-ahead (if-food-ahead
+     left (progn3 move move (if-food-ahead (progn4
+     (if-food-ahead (progn2 (if-food-ahead left
+         (if-food-ahead move move)) (if-food-ahead
+         (if-food-ahead left (progn3 move move (progn4
+             (progn3 left move left) (progn3 move move
+             move) (progn2 left move) (if-food-ahead left
+             left)))) (progn4 (progn3 left move left)
+         (progn2 left (progn3 (progn4 left move move
+             move) (progn4 move move move move) (progn3
+             left left left))) (progn2 move left) (if-food-ahead
+         left left)))) (progn4 (progn3 left move left)
+         (progn2 left left) (progn2 left move) (if-food-ahead
+         left left))) (if-food-ahead (if-food-ahead
+     (progn2 left left) (progn3 move left move))
+     (progn3 (progn2 left move) (progn3 left move
+         left) (progn4 move left move move))) (progn4
+     (progn3 (progn3 move move left) (progn4 left
+         move left move) (progn4 move left move left))
+     (progn3 (progn2 move move) (progn4 move move
+         move move) (progn4 move left left move))
+     (progn2 (if-food-ahead left move) (progn4
+         move move move left)) (if-food-ahead (progn3
+     left left left) (progn3 left left left)))
+     (progn2 (progn2 (if-food-ahead move left)
+         (if-food-ahead left (progn3 left left left)))
+         (progn3 (progn2 left move) (progn4 left left
+             move left) (if-food-ahead move left)))) (if-food-ahead
+     (progn4 (if-food-ahead (if-food-ahead left
+         (progn3 left left left)) (if-food-ahead (if-food-ahead
+         left (progn3 move move (progn4 (progn3 left
+         move left) (progn3 move move move) (progn2
+         left move) (if-food-ahead left left)))) (progn4
+         (if-food-ahead left left) (progn2 left left)
+         (if-food-ahead move move) (if-food-ahead
+         left left)))) (progn2 left left) (progn2
+         left move) (if-food-ahead left left)) (progn2
+     move left))))) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (progn3
+         (progn4 left move move move) (progn4 move
+         move move move) (progn3 left left left)))
+     (progn4 (progn2 (if-food-ahead (progn4 (progn2
+         left left) (if-food-ahead left left) (progn2
+         move left) (progn3 move move move)) (if-food-ahead
+         (if-food-ahead left (progn3 move move (progn4
+             (progn2 (progn4 left move move move) (if-food-ahead
+                 left (progn3 left left left))) (progn2 move
+             (if-food-ahead move move)) (progn2 left move)
+             left))) (progn2 move left))) (progn3 (progn3
+         (progn4 left move move move) (progn4 move
+         move move move) (progn3 left left left))
+         (progn3 (if-food-ahead move move) (progn4
+             left left left left) (if-food-ahead move
+             move)) (if-food-ahead (progn2 move (if-food-ahead
+         move move)) (progn4 left move left left))))
+         (progn2 left left) (progn2 left move) (progn3
+         move move move))) (progn2 move left) (progn4
+     (progn2 move (if-food-ahead move move)) (if-food-ahead
+     left (progn3 move move (progn4 (progn4 left
+     move left left) (if-food-ahead move move)
+     (progn2 left move) (if-food-ahead left left))))
+     (progn2 (if-food-ahead left move) (progn4
+         move move move left)) (if-food-ahead (progn3
+     left left left) (progn3 left left left)))
+     (progn2 (progn2 (if-food-ahead move left)
+         (if-food-ahead left (progn3 left left left)))
+         (progn3 (progn2 left move) (progn4 left left
+             move left) (progn3 (progn4 left move left
+             left) move (progn4 (progn3 left move left)
+             (progn3 move move move) (progn2 left move)
+             (if-food-ahead left left)))))) (progn2 move
+     left))) (if-food-ahead (if-food-ahead left
+     (progn3 move (progn3 (if-food-ahead move
+         move) (progn4 left left left left) (if-food-ahead
+         move move)) (progn4 (progn3 left left left)
+         (progn2 left left) (progn2 left move) (if-food-ahead
+         left left)))) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (progn2
+         (if-food-ahead move left) (if-food-ahead
+         left (progn3 left (progn3 (progn2 (progn4
+         left left left left) (progn3 (progn2 left
+         left) (progn3 left (progn4 left left left
+         left) (if-food-ahead move move)) (if-food-ahead
+         (progn2 move (if-food-ahead move move)) (progn4
+         left move left left)))) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move)) (if-food-ahead (progn2 move (if-food-ahead
+         move move)) (progn4 left move left left)))
+         left)))) (progn4 (progn3 left move left)
+     (progn2 left left) (progn2 left move) (if-food-ahead
+     left left))) (progn2 move left) (progn4 (progn2
+     move (if-food-ahead move move)) (progn2 move
+     move) (progn2 (if-food-ahead left move) (progn4
+     move move move left)) (if-food-ahead (progn3
+     left left left) (progn3 left left left)))
+     (progn2 (progn2 (if-food-ahead move left)
+         move) (progn3 (progn2 left move) (progn4
+         left left move left) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move))))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (if-food-ahead
+         (progn4 (progn2 left left) (if-food-ahead
+             left left) (progn4 left move move move) (progn3
+             move move move)) (if-food-ahead move (progn2
+         move left))))) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (progn2
+     left move) (progn2 move left) (progn4 (progn4
+     left move left left) (if-food-ahead left
+     (progn3 move move (progn4 (progn2 move left)
+         (progn3 (progn4 left move move move) (progn4
+             move move move move) (progn3 left left left))
+         (progn3 (progn4 left move move move) (progn4
+             move move move move) (progn3 left left left))
+         (if-food-ahead left left)))) (progn3 move
+     move (progn4 (progn2 (if-food-ahead left
+     left) (if-food-ahead left (progn2 move left)))
+     (progn3 move move move) (progn2 left move)
+     (if-food-ahead left left))) (if-food-ahead
+     (progn4 left left left left) (progn3 left
+     left left))) (progn2 left (progn3 (progn2
+     left move) (progn4 left left move left) (progn3
+     (if-food-ahead move move) (progn4 left left
+     left left) (if-food-ahead move move)))))
+     (progn2 move left))) (if-food-ahead (if-food-ahead
+     left (progn3 move move (progn4 (progn2 (if-food-ahead
+     move left) (if-food-ahead left (progn3 left
+     left left))) (progn2 left left) (progn2 left
+     move) (if-food-ahead left left)))) (progn2
+     move left))) (progn3 (progn3 (progn4 left
+     move move move) (progn4 move move move move)
+     (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (if-food-ahead
+     move move)) (progn2 move left) (progn4 (progn2
+     move (if-food-ahead move move)) (progn2 move
+     (progn2 left left)) (progn2 (if-food-ahead
+     left move) (progn2 move left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move))) (progn2 (progn2 (if-food-ahead
+     move left) move) (progn3 (progn2 left move)
+     (progn4 left left move (progn2 left move))
+     (progn3 (if-food-ahead move move) (progn4
+         left move move move) (if-food-ahead move
+         move))))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (if-food-ahead
+         (progn4 (progn2 left left) (if-food-ahead
+             left left) (progn4 left move move move) (progn3
+             move move move)) (if-food-ahead (progn4 (if-food-ahead
+         (progn3 (if-food-ahead move move) (progn4
+             left left left left) (if-food-ahead move
+             move)) (if-food-ahead (if-food-ahead left
+         (progn3 left left left)) (progn4 (if-food-ahead
+         (progn2 (if-food-ahead move move) (progn2
+             left left)) (progn4 (progn3 left move left)
+         (progn2 left left) (progn2 left move) (if-food-ahead
+         left left))) (progn2 left left) (if-food-ahead
+         move move) (if-food-ahead left left)))) (progn2
+         left left) (progn2 left move) (if-food-ahead
+         left left)) (progn2 move left))))) (progn2
+     move left))) (progn3 (progn3 (progn4 left
+     move move move) (progn4 move move move move)
+     (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 move (if-food-ahead move move)) (if-food-ahead
+     (if-food-ahead left (progn3 move move (progn4
+         (progn2 (if-food-ahead move left) (if-food-ahead
+             left (progn3 left left left))) (progn2 left
+         left) (progn2 left move) (if-food-ahead left
+         left)))) (progn2 move left))) (progn2 move
+     left) (progn4 (progn2 move (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))
+     (progn2 (if-food-ahead left move) (progn4
+         move move move left)) (progn2 move left))
+     (progn2 (progn2 left left) (progn3 (progn2
+         (if-food-ahead (if-food-ahead (progn4 move
+             move move move) (if-food-ahead (progn2 left
+             left) (progn2 move left))) (if-food-ahead
+             (if-food-ahead left (progn3 move move (progn4
+                 (progn2 (if-food-ahead move left) (if-food-ahead
+                     left (progn3 left left left))) (progn2 left
+                 left) (progn2 left move) (if-food-ahead left
+                 left)))) (progn2 move left))) (progn3 (progn3
+         (progn4 left move move move) (progn4 move
+         move move move) (progn3 left left left))
+         (if-food-ahead (progn4 left move move move)
+             (progn3 left left left)) (if-food-ahead (progn2
+         move (if-food-ahead move move)) (progn4 left
+         move left left)))) (progn4 left left move
+         left) (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move))))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (progn4
+         (progn2 (progn2 move move) (progn4 move move
+             move move)) (progn2 left left) (progn2 left
+         move) (if-food-ahead move left)))) (progn2
+     move left))) (progn3 (progn3 (progn4 left
+     move move move) (progn4 move move move move)
+     (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn4 left move move move) (progn4 (progn3
+     left move left) (progn2 left left) (progn2
+     left move) (if-food-ahead left left))) (progn2
+     left left) (progn4 (progn2 move (if-food-ahead
+     move move)) (progn2 move (progn3 left left
+     left)) (progn2 (if-food-ahead left move)
+     (progn4 move move move left)) (if-food-ahead
+     (progn3 left left left) (progn3 left left
+     left))) (progn2 (progn2 (if-food-ahead move
+     left) (progn3 (progn4 left move move move)
+     (progn4 move move move move) (progn3 left
+     left left))) (progn3 (progn2 (if-food-ahead
+     (if-food-ahead (progn4 (progn2 left left)
+         (if-food-ahead left left) (progn4 left move
+         move move) (progn3 move move move)) (if-food-ahead
+         (progn2 left left) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (progn4
+         (progn2 (if-food-ahead move left) (if-food-ahead
+             left (progn3 left left left))) (progn2 (if-food-ahead
+         move left) (if-food-ahead left left)) (progn2
+         left move) (if-food-ahead left left)))) (progn2
+     move left))) (progn3 (progn3 (progn4 left
+     move move move) move (progn3 left left left))
+     (if-food-ahead move move) (if-food-ahead
+     (progn2 move (if-food-ahead move move)) (progn4
+     left move left left)))) (progn4 left left
+     move left) (progn3 (progn2 move (if-food-ahead
+     move move)) (progn4 left left left left)
+     (if-food-ahead move move))))) (progn2 move
+     left))) (if-food-ahead (progn3 left move
+     left) (progn2 move left))) (progn3 (progn3
+     (progn4 left move move move) (progn4 move
+     move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (if-food-ahead
+         move left)) (progn4 (if-food-ahead left (progn3
+     move move (progn4 (progn2 (if-food-ahead
+     move left) move) (progn2 left left) (progn2
+     left move) (if-food-ahead move left)))) (progn2
+     left left) (if-food-ahead left left) (if-food-ahead
+     left left))) (progn2 move left) (progn4 (progn2
+     move (if-food-ahead move move)) (if-food-ahead
+     (if-food-ahead left (progn3 move move (progn4
+         (progn2 (if-food-ahead move left) (if-food-ahead
+             move left)) (progn2 left left) (progn2 left
+         move) (if-food-ahead left left)))) (progn2
+     move left)) (progn4 (progn2 left left) (if-food-ahead
+     left left) (progn4 left move move move) (progn3
+     move move move)) (if-food-ahead (progn3 (progn3
+     move move (progn4 (progn2 (if-food-ahead
+     move left) (if-food-ahead move left)) (progn2
+     left left) (progn2 left move) (if-food-ahead
+     move left))) (progn2 (if-food-ahead move
+     left) (if-food-ahead left (progn3 left left
+     left))) (if-food-ahead move move)) (progn3
+     left left left))) (progn3 (progn4 left move
+     left left) move (progn4 (progn2 move (if-food-ahead
+     move move)) (progn3 move move move) (progn2
+     left move) (if-food-ahead left left)))) (progn2
+     move left))) (if-food-ahead (if-food-ahead
+     left move) (progn2 move left))) (progn3 (progn3
+     (progn4 left move move move) (progn4 move
+     move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (progn2
+     left move) (progn2 move left) (progn4 (progn4
+     left move left left) (if-food-ahead left
+     (progn3 move move (progn4 (progn2 move left)
+         (progn3 (progn4 left move move move) (progn4
+             move move move move) (progn3 left left left))
+         (progn3 (if-food-ahead move move) (progn4
+             left left left left) (if-food-ahead move
+             move)) (if-food-ahead left left)))) (progn3
+     move move (progn4 (progn2 (if-food-ahead
+     left left) (if-food-ahead left (progn2 move
+     left))) (progn3 move move move) (progn2 left
+     move) (if-food-ahead left left))) (if-food-ahead
+     (progn4 left left left left) (progn3 left
+     left left))) (progn2 left (progn3 (progn2
+     left move) (progn4 left left move left) (progn3
+     (if-food-ahead move move) (progn4 (progn4
+     left move move move) left left left) left))))
+     (progn2 move left))) (if-food-ahead (if-food-ahead
+     left (progn3 move move (progn4 (progn2 (if-food-ahead
+     move left) (if-food-ahead left (progn3 left
+     left left))) (progn2 left left) (progn2 left
+     move) (if-food-ahead left left)))) (progn2
+     move left))) (progn3 (progn3 (progn4 left
+     move move move) (progn4 move move move move)
+     (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (if-food-ahead
+         move left)) (progn4 (progn3 left move left)
+     (progn2 left left) (progn2 left move) (if-food-ahead
+     left left))) (progn2 move left) (progn2 left
+     left) (progn2 (progn2 (if-food-ahead move
+     left) (if-food-ahead left (if-food-ahead
+     left (progn4 (if-food-ahead left left) (progn2
+     left left) (if-food-ahead (progn4 move move
+     move move) move) (if-food-ahead left left)))))
+     (progn3 (progn2 left move) (if-food-ahead
+         (progn4 (if-food-ahead (progn2 (progn3 (progn4
+             left move move (if-food-ahead move move))
+             (progn4 move move move move) (progn3 left
+             left left)) (if-food-ahead move left)) (progn4
+             (progn3 left move left) (progn2 left left)
+             (progn2 left move) (if-food-ahead left left)))
+             (progn2 move left) (progn4 (progn2 move (if-food-ahead
+             move move)) (if-food-ahead move move) (progn2
+             (if-food-ahead left move) (progn4 move move
+             move (if-food-ahead (progn3 left left left)
+             (progn3 left left left)))) (if-food-ahead
+             (progn3 left left left) (progn3 left left
+             left))) move) (progn2 (progn2 (progn2 (if-food-ahead
+         left left) (progn2 move (if-food-ahead move
+         move))) (progn4 left move left left)) left))
+         (progn3 (if-food-ahead move move) (progn4
+             left left left left) (if-food-ahead move
+             move))))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (progn4
+         (progn2 (if-food-ahead move left) (if-food-ahead
+             left (progn3 left left left))) (progn3 left
+         left left) (progn2 left (progn4 left left
+         left left)) (if-food-ahead left left))))
+     (progn2 move left))) (progn3 (progn3 (progn4
+     left move move move) (progn4 move move move
+     move) (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (if-food-ahead move left) (progn4 (progn3
+     left move left) (progn2 left left) (progn2
+     left move) (progn3 (progn2 left move) (progn4
+     left left move left) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move))))) (progn2 move left) (progn4
+     (progn2 move (if-food-ahead move move)) (progn2
+     move (progn2 left left)) (progn2 (if-food-ahead
+     left move) (progn4 move move move left))
+     (if-food-ahead (progn3 left left left) (progn3
+         left left left))) (progn2 (progn2 left left)
+     (progn3 (progn2 (if-food-ahead (if-food-ahead
+         (progn4 (if-food-ahead move move) (if-food-ahead
+             left left) (progn4 left move move move) (progn3
+             move move move)) (if-food-ahead (progn2 left
+         left) (progn2 move left))) (if-food-ahead
+         (if-food-ahead left (progn3 move move (progn2
+             (if-food-ahead move left) (if-food-ahead
+             left (progn3 left left left))))) (progn4
+         (progn2 left left) (if-food-ahead left left)
+         (progn4 left move (progn4 move move move
+             move) move) (progn4 left move move move))))
+         (progn3 (progn3 (progn3 (progn3 (progn4 left
+             move move move) (progn4 move move move move)
+             (if-food-ahead (progn3 left left left) (progn3
+                 left left left))) (progn3 (if-food-ahead
+             move move) (progn4 left left left left) (if-food-ahead
+             move move)) (if-food-ahead (progn2 move (if-food-ahead
+             move move)) (progn4 left move left left)))
+             (progn4 move move move move) (progn4 (progn2
+             (if-food-ahead move left) (progn3 (progn4
+             left move move move) (progn4 move move move
+             move) (progn3 left left left))) (progn2 (if-food-ahead
+             (progn4 (progn2 move left) (if-food-ahead
+                 left left) (progn4 left move move move) (if-food-ahead
+                 move move)) left) left) (progn2 left move)
+             (if-food-ahead left left))) (progn3 (if-food-ahead
+             move move) (progn4 left left left left) (if-food-ahead
+             move move)) (progn3 move move move))) (progn4
+         left left move left) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move))))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (progn4
+         (progn2 (if-food-ahead move left) (progn4
+             move move move move)) (progn2 left left)
+         (progn2 left move) (if-food-ahead (progn2
+         (progn2 (if-food-ahead move left) (if-food-ahead
+             left (progn3 left left left))) (progn3 (progn2
+         left move) (if-food-ahead (progn4 (if-food-ahead
+         (progn2 (progn3 (progn4 left move move move)
+             (progn4 move move move move) (progn3 left
+             left left)) (if-food-ahead move left)) (progn4
+         (progn3 left move left) (progn3 move move
+         move) (if-food-ahead left left) (if-food-ahead
+         left left))) (progn2 move left) (progn4 (progn2
+         move (if-food-ahead move move)) (if-food-ahead
+         move move) (progn2 (if-food-ahead left move)
+         (progn4 move move move (if-food-ahead (progn3
+             left left left) (progn3 left left left))))
+         (if-food-ahead (progn3 left left left) (progn3
+             left left left))) move) (progn2 (progn2 (progn2
+         (if-food-ahead move left) (if-food-ahead
+         left (progn3 left left left))) (progn4 left
+         move left left)) left)) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move)))) left)))) (progn2 move left)))
+     (progn3 (progn3 (progn4 left move move move)
+         (progn4 move move move move) (progn3 left
+         left left)) (progn3 (if-food-ahead move move)
+         (progn4 left left left left) (if-food-ahead
+         move (if-food-ahead move move))) (if-food-ahead
+         (progn2 move (if-food-ahead move move)) (progn4
+         left move left left))))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (progn2
+         (if-food-ahead move left) (if-food-ahead
+         left (progn3 left (progn3 (progn2 move left)
+         (progn3 (if-food-ahead move move) (progn4
+             left left left left) (progn2 left left))
+         (if-food-ahead (progn2 move (if-food-ahead
+             move move)) (progn4 left move left left)))
+         left)))) (progn4 (progn3 left move left)
+     (progn2 left left) (progn2 left move) (if-food-ahead
+     left left))) (progn2 move left) (progn4 (progn2
+     move (if-food-ahead move move)) (progn2 move
+     move) (progn2 (if-food-ahead left move) (progn4
+     move move move left)) (if-food-ahead (progn3
+     left left left) (progn3 left left left)))
+     (progn2 (progn2 move (if-food-ahead move
+         move)) (progn3 (progn2 left move) (progn3
+         move move move) (progn3 (if-food-ahead move
+         move) (progn4 left left left left) (progn4
+         (progn2 left left) (if-food-ahead left left)
+         (progn4 left move move move) (if-food-ahead
+         move move)))))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (if-food-ahead
+         (progn3 (progn4 left move move move) (progn4
+             move move move move) (progn3 left left left))
+         (if-food-ahead move (progn2 move left)))))
+     (progn2 move left))) (progn3 (progn3 (progn4
+     left move move move) (progn4 move move move
+     move) (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left (progn3
+         move move (progn4 left (if-food-ahead (progn4
+         (progn2 left left) (if-food-ahead left left)
+         (progn4 left move move move) (progn3 move
+         move move)) (if-food-ahead (progn4 (if-food-ahead
+         (progn2 (if-food-ahead left left) (progn4
+             (progn3 (progn2 move move) (progn3 move left
+                 move) (progn2 move left)) (progn4 (progn2
+             move move) (if-food-ahead move move) (progn4
+             move move move move) (progn4 left left left
+             move)) (if-food-ahead move move) (progn2
+             left move))) (progn2 (progn3 left move left)
+         (if-food-ahead left (progn3 left left left))))
+         (if-food-ahead (if-food-ahead (progn2 left
+             (progn3 left move left)) (progn3 move left
+             move)) (progn3 (progn2 left move) (progn3
+             left move left) (progn2 left move))) (progn4
+         (progn3 left (progn2 left left) left) (progn3
+         (progn2 move move) (progn4 move move move
+         move) (progn4 move left (progn2 left move)
+         move)) (progn2 (if-food-ahead left move)
+         (progn4 (progn2 left left) (progn2 left left)
+             (progn2 left move) (if-food-ahead left left)))
+         move) (progn2 (progn4 left left left left)
+         (progn3 (progn2 left move) (if-food-ahead
+             move left) (if-food-ahead move left)))) (progn2
+         move left))) (progn2 left move) (if-food-ahead
+         left left)))) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move move)
+     (progn4 left move left left))))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (if-food-ahead
+         move (if-food-ahead (progn4 (if-food-ahead
+         (progn2 (if-food-ahead move move) (progn2
+             left left)) (progn4 (progn3 left move left)
+         (progn2 left left) (progn2 left move) (if-food-ahead
+         left left))) (progn2 move left) (if-food-ahead
+         (progn2 move (if-food-ahead move move)) (progn4
+         left move left left)) (progn2 (if-food-ahead
+         left (progn3 move move (progn4 (progn2 move
+         left) (progn3 left left left) (progn2 left
+         (progn4 left left left left)) (if-food-ahead
+         left left)))) (progn3 (progn2 left move)
+         (progn4 left left move left) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move))))) (progn2 move left)))) left)
+     (progn4 move move move left) (progn4 (progn2
+     move (if-food-ahead move move)) (if-food-ahead
+     (progn4 (progn2 left left) (progn4 (progn2
+         move (if-food-ahead move move)) (if-food-ahead
+         move left) (progn2 left move) (if-food-ahead
+         left left)) (progn4 left move move move)
+         (progn3 move move move)) (progn4 left move
+     left left)) (progn2 (if-food-ahead move move)
+     (progn4 move move move left)) (if-food-ahead
+     (progn3 left left left) (progn4 move move
+     move move))) (progn2 (progn2 (if-food-ahead
+     move left) (if-food-ahead left (progn3 (progn3
+     (progn4 left move move move) (progn4 move
+     move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left)))))
+     (progn3 (progn2 left move) (progn4 left left
+         move left) left))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (progn4
+         (progn2 (if-food-ahead move left) (if-food-ahead
+             (if-food-ahead left (progn3 move move (progn4
+                 (progn2 (if-food-ahead move left) (progn4
+                     move move move move)) (progn2 left left)
+                 (progn2 left move) (progn3 (if-food-ahead
+                 move move) (progn4 left left left left) (if-food-ahead
+                 move move))))) (progn3 left left left)))
+         (progn2 left left) (progn2 left move) (if-food-ahead
+         left left)))) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (if-food-ahead
+         move left)) (progn4 (if-food-ahead left (progn3
+     move move (progn4 left move left left)))
+     (progn2 left left) (if-food-ahead left left)
+     (if-food-ahead left left))) (if-food-ahead
+     (progn4 (progn4 (progn4 (if-food-ahead left
+         move) (progn2 left left) (progn2 left move)
+         (if-food-ahead left left)) (if-food-ahead
+         (progn3 left left left) (if-food-ahead (if-food-ahead
+         move left) left)) (progn2 left move) (if-food-ahead
+         left left)) (progn2 move left) (progn4 (progn2
+         move (if-food-ahead move move)) (progn2 move
+         left) (progn2 (progn2 move left) (progn4
+         move move move left)) (if-food-ahead (progn3
+         (if-food-ahead move move) (progn2 (if-food-ahead
+         (progn2 move move) (progn4 left move left
+         left)) (if-food-ahead left (progn3 left left
+         left))) (if-food-ahead move move)) (progn3
+         left left left))) (progn3 (progn4 left move
+         left left) move (progn4 (progn2 move (if-food-ahead
+         move move)) (progn3 move move move) left
+         (if-food-ahead left left)))) (progn2 move
+     left)) (progn4 (progn2 move (if-food-ahead
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (progn2
+         move left)) (progn4 (progn3 left move left)
+     (progn2 left left) (progn2 left move) left))
+     (if-food-ahead (progn4 (progn2 left left)
+         (if-food-ahead left left) (progn4 left move
+         move move) (progn3 move move move)) (if-food-ahead
+         (progn4 move move move move) (progn2 (progn2
+         left left) left))) (progn4 (progn2 move (if-food-ahead
+     move move)) (progn2 move (if-food-ahead move
+     left)) (progn2 (if-food-ahead left move)
+     (progn4 move move move left)) (if-food-ahead
+     (progn3 left left left) (progn3 left left
+     left))) (progn2 (progn2 (if-food-ahead move
+     left) (progn3 (progn4 left move move move)
+     (progn4 move move move move) (progn3 left
+     left left))) left)) (progn2 move left)) (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn3 (progn3
+     move move (progn4 (progn2 (if-food-ahead
+     move left) (if-food-ahead move left)) (progn2
+     left left) (progn2 left (if-food-ahead move
+     move)) (if-food-ahead move left))) (progn2
+     (if-food-ahead move left) (if-food-ahead
+     left (progn3 left left left))) (if-food-ahead
+     move move)) (progn3 left left left))) (progn3
+     (progn4 left move left left) move (progn4
+     (progn2 move (if-food-ahead move move)) (progn3
+     move move move) (progn2 left move) (if-food-ahead
+     left left)))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left move) (progn2 move left)))
+     (progn3 (progn3 (progn4 left move move move)
+         (progn4 move move move move) (progn3 left
+         left left)) (progn3 (if-food-ahead move (if-food-ahead
+         move move)) (progn4 left left left left)
+         (if-food-ahead move move)) (if-food-ahead
+         (progn2 move (if-food-ahead move move)) (progn4
+         left move left left))))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (if-food-ahead
+         (progn2 move left) (progn4 left move left
+         left))) (progn4 (progn3 left move left) (progn2
+     left left) (progn2 left move) (if-food-ahead
+     left left))) (progn2 move left) (progn2 left
+     left) (progn2 (progn2 (if-food-ahead move
+     left) (if-food-ahead left (if-food-ahead
+     left (progn4 (if-food-ahead left left) (progn2
+     left left) (if-food-ahead (progn4 move move
+     move move) move) (if-food-ahead left left)))))
+     (progn3 (progn2 left move) (if-food-ahead
+         (progn3 left left left) (progn2 (progn2 (progn2
+         (if-food-ahead left left) (progn2 move (if-food-ahead
+         move move))) (progn4 left move left left))
+         left)) (progn3 (if-food-ahead move move)
+         (progn4 left left left left) (if-food-ahead
+         move move))))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (progn3 move move (progn4
+         (progn2 (if-food-ahead move left) (if-food-ahead
+             left (progn3 left left left))) (progn3 left
+         left left) (progn2 left (progn4 left left
+         left left)) (if-food-ahead left left))))
+     (progn2 move left))) (progn3 (progn3 (progn4
+     left move move move) (progn4 move move move
+     move) (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (if-food-ahead
+         move left)) (progn4 (if-food-ahead left (progn3
+     move move (progn4 left move left left)))
+     (progn2 left left) (if-food-ahead left left)
+     (if-food-ahead left left))) (if-food-ahead
+     (progn4 (progn4 (progn4 (if-food-ahead left
+         move) (progn2 left left) (progn2 left move)
+         (if-food-ahead left left)) (if-food-ahead
+         (progn3 left left left) (if-food-ahead (if-food-ahead
+         move left) left)) (progn2 left move) (if-food-ahead
+         left left)) (progn2 move left) (progn4 (progn2
+         move (if-food-ahead move move)) (progn2 move
+         left) (progn2 (progn2 move left) (progn4
+         move move move left)) (if-food-ahead (progn3
+         (if-food-ahead move move) left (if-food-ahead
+         move move)) (progn3 left left left))) (progn3
+         (progn4 left move left left) move (progn4
+         (progn2 move (if-food-ahead move move)) (progn3
+         move move move) left (if-food-ahead left
+         left)))) (progn2 move left)) (progn4 (progn2
+     move (if-food-ahead move move)) (if-food-ahead
+     (progn4 (if-food-ahead (progn2 (if-food-ahead
+         move move) (progn2 move left)) (progn4 (progn3
+         left move left) (progn2 left left) (progn2
+         left move) left)) (if-food-ahead (progn4
+         (progn2 left left) (if-food-ahead left left)
+         (progn4 left move move move) (progn2 left
+         move)) (if-food-ahead (progn4 move move move
+         move) (progn2 (progn2 left left) left)))
+         (progn4 (progn2 move (if-food-ahead move
+             move)) (progn2 move (if-food-ahead move left))
+             (progn2 (if-food-ahead left move) (progn4
+                 move move move left)) (if-food-ahead (progn3
+             left left left) (progn3 left left left)))
+         (progn2 (progn2 (if-food-ahead move left)
+             (progn3 (progn4 left move move move) (progn4
+                 move move move move) (progn3 left left left)))
+             left)) (progn2 move left)) (progn4 (progn2
+     left left) (if-food-ahead left left) (progn4
+     left move move move) (progn3 move move move))
+     (if-food-ahead (progn3 (progn3 move move
+         (progn4 (progn2 (if-food-ahead move left)
+             (if-food-ahead move left)) (progn2 left left)
+             (progn2 left (if-food-ahead move move)) (if-food-ahead
+             move left))) (progn2 (if-food-ahead move
+         left) (if-food-ahead left (progn3 left left
+         left))) (if-food-ahead move move)) (progn3
+         left left left))) (progn3 (progn4 left move
+     left left) move (progn4 (progn2 move (if-food-ahead
+     move move)) (progn3 move move move) (progn2
+     left move) (if-food-ahead left left)))) (progn2
+     move left))) (if-food-ahead (if-food-ahead
+     left move) (progn2 move left))) (progn3 (progn3
+     (progn4 left move move move) (progn4 move
+     move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move (if-food-ahead
+         move move)) (progn4 left left left left)
+         (if-food-ahead move move)) (if-food-ahead
+     (progn2 move (if-food-ahead move move)) (progn4
+     left move left left))))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (if-food-ahead move left) (progn4 (progn3
+     left move left) (progn2 left left) (progn2
+     left move) (if-food-ahead left left))) (progn2
+     move left) (progn4 (progn2 move (if-food-ahead
+     move move)) (progn2 move (progn2 left left))
+     (progn2 (if-food-ahead left move) (progn4
+         move move move left)) (if-food-ahead (progn3
+     left left left) (progn3 left left left)))
+     (progn2 (progn2 left left) (progn3 (progn2
+         (if-food-ahead (if-food-ahead (progn4 (if-food-ahead
+             move move) (if-food-ahead move move) (progn4
+             left move left left) (progn3 move move move))
+             (if-food-ahead (progn2 left left) (progn2
+                 move left))) (if-food-ahead (if-food-ahead
+             left (progn3 move move (progn2 (if-food-ahead
+             move left) (if-food-ahead left (progn3 left
+             left left))))) (progn4 (progn2 left left)
+             (if-food-ahead left left) (progn4 left move
+             (progn4 move move move move) move) (progn4
+             left move move move)))) (progn3 (progn3 (progn3
+         (progn3 (progn4 left left left left) (progn4
+             move move move move) (if-food-ahead (progn3
+             left left left) (progn3 left left left)))
+         (progn3 left left left) (if-food-ahead (progn2
+         move (if-food-ahead move move)) (progn4 left
+         move left left))) (progn4 move move move
+         move) (progn4 (progn2 (if-food-ahead move
+         left) (progn3 (progn4 left move move move)
+         (progn4 move move move move) (progn3 left
+         left left))) (progn2 (if-food-ahead (progn4
+         (progn2 left left) (if-food-ahead left left)
+         (progn4 left move move move) (if-food-ahead
+         move move)) left) left) (progn2 left move)
+         (if-food-ahead left left))) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move)) (progn4 move move move move)))
+         (progn4 left left move left) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move))))) (progn2 move (progn4 left
+     left left left)))) (if-food-ahead (if-food-ahead
+     left (progn3 move move (progn4 (progn2 (if-food-ahead
+     move left) (progn4 move move move move))
+     (progn2 left left) (progn2 left move) (if-food-ahead
+     (progn2 (progn2 (if-food-ahead move left)
+         (if-food-ahead left (progn3 left left left)))
+         (progn3 (progn2 left move) (if-food-ahead
+             (progn4 (if-food-ahead (progn2 (progn3 (progn4
+                 left move move move) (progn4 move move move
+                 move) (progn3 left left left)) (if-food-ahead
+                 move left)) (progn4 (progn3 left move left)
+                 (progn4 left left left move) (if-food-ahead
+                 left left) (if-food-ahead left left))) (progn2
+                 move left) (progn4 (progn2 move (if-food-ahead
+                 move move)) (if-food-ahead move move) (progn2
+                 (if-food-ahead left move) (progn4 move move
+                 move (if-food-ahead (progn3 left left left)
+                 (progn3 left left left)))) (if-food-ahead
+                 (progn3 left left left) (progn3 left left
+                 left))) move) (progn2 (progn2 (progn2 (if-food-ahead
+             move left) (if-food-ahead left (progn3 left
+             left left))) (progn4 left move left left))
+             left)) (progn3 (if-food-ahead move move)
+             (progn4 left left left left) (if-food-ahead
+             move move)))) left)))) (progn2 move left)))
+     (progn3 (progn3 (progn4 left move move move)
+         (progn4 move move move move) (progn3 left
+         left left)) (progn3 (if-food-ahead move move)
+         (progn4 left left left left) (if-food-ahead
+         move (if-food-ahead move move))) (if-food-ahead
+         (progn2 move (if-food-ahead move move)) (progn4
+         left move left left))))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (progn2
+     left move) (progn2 move left) (progn4 (progn4
+     left move left left) (if-food-ahead left
+     (progn3 move move (progn4 (progn2 move left)
+         (progn3 (progn4 left move move move) (progn4
+             move move move move) (progn3 left left left))
+         (progn3 (if-food-ahead move move) (progn4
+             left left left left) (progn2 move left))
+         (if-food-ahead (progn3 left left left) (progn2
+             left left))))) (progn3 move move (progn4
+     (progn2 (if-food-ahead left left) (if-food-ahead
+         left (progn2 move left))) (progn3 move move
+     move) (progn2 left move) (if-food-ahead left
+     left))) (if-food-ahead (if-food-ahead (progn4
+     (if-food-ahead (progn2 (if-food-ahead (progn4
+         left left left left) (progn3 left left left))
+         (progn4 (progn3 (progn2 move move) (progn3
+             move left move) (progn2 move left)) (progn4
+             (progn2 move move) (if-food-ahead move move)
+             (progn4 move move move move) (progn4 left
+             left left move)) (if-food-ahead move move)
+             (progn2 left move))) (progn2 (progn3 left
+         move left) (if-food-ahead left (progn3 (if-food-ahead
+         move move) left (if-food-ahead move move)))))
+     (if-food-ahead (if-food-ahead (progn2 left
+         (progn2 left left)) (progn3 move left move))
+         (progn3 (progn2 left move) (progn3 left move
+             left) (progn2 left move))) (progn4 (progn3
+     left left left) (progn3 (progn4 left move
+     move move) (progn4 move move move move) (progn4
+     move left left move)) (progn2 (if-food-ahead
+     left move) (progn4 (progn2 left left) (progn2
+     left left) (progn2 left move) (if-food-ahead
+     left left))) move) (progn2 (progn4 left left
+     left left) (progn3 (progn2 left move) (if-food-ahead
+     move left) (if-food-ahead move left)))) (progn2
+     move left)) (progn3 left left left))) (progn2
+     left (progn3 (progn2 left move) (progn4 left
+     left move left) (progn3 (if-food-ahead left
+     left) (progn4 (progn4 left move move move)
+     left left left) left)))) (progn2 move left)))
+     (if-food-ahead (if-food-ahead left (progn3
+         move move (progn4 left move move move)))
+         (progn2 move left))) (progn3 (progn3 (progn4
+     left move move move) (progn4 move move move
+     move) (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead move (progn3
+         move move (if-food-ahead move left))) (progn2
+         move left))) (progn3 (progn3 (progn4 left
+     move move move) (progn4 move move move move)
+     (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (if-food-ahead
+         move left)) (progn4 (if-food-ahead left (progn3
+     move move (progn4 left move left left)))
+     (progn2 left left) (if-food-ahead left left)
+     (if-food-ahead left left))) (if-food-ahead
+     (progn4 (progn4 (progn4 (if-food-ahead left
+         move) (progn2 left left) (progn2 left move)
+         (if-food-ahead left left)) (if-food-ahead
+         (progn2 left left) (if-food-ahead (if-food-ahead
+         move left) left)) (progn2 left move) (if-food-ahead
+         left left)) (progn2 move left) (progn4 (progn2
+         move (if-food-ahead move move)) (progn2 move
+         left) (progn2 (progn2 move left) (progn4
+         move move move left)) (if-food-ahead (progn3
+         (if-food-ahead move move) left (if-food-ahead
+         move move)) (progn3 left left left))) (progn3
+         (progn4 left move left left) move (progn4
+         (progn2 move (if-food-ahead move move)) (progn3
+         move move move) left (if-food-ahead left
+         left)))) (progn2 move left)) (progn4 (progn2
+     move (if-food-ahead move move)) (if-food-ahead
+     (progn4 (if-food-ahead (progn2 (if-food-ahead
+         move move) (progn2 move left)) (progn4 (progn3
+         left move left) (progn2 left left) (progn2
+         left move) left)) (if-food-ahead (progn4
+         (progn2 left left) (if-food-ahead left left)
+         (progn4 left move move move) (progn2 left
+         move)) (if-food-ahead (progn4 move move move
+         move) (progn2 (progn2 left left) left)))
+         (progn4 (progn2 move (if-food-ahead move
+             move)) (progn2 move (if-food-ahead move left))
+             (progn2 (progn2 left left) (progn4 move move
+                 move left)) (if-food-ahead (progn3 left left
+             left) (progn3 left left left))) (progn2 (progn2
+         (if-food-ahead move left) (progn3 (progn4
+         left move move move) (progn4 move move move
+         move) (progn3 left left left))) left)) (progn2
+     move left)) (progn4 (progn2 left left) (if-food-ahead
+     left left) (progn4 left move move move) (progn3
+     move move move)) (if-food-ahead (progn3 (progn3
+     move move (if-food-ahead left (progn4 (if-food-ahead
+     left left) (progn2 left left) (if-food-ahead
+     (progn4 move move move move) move) (if-food-ahead
+     left left)))) (progn2 (if-food-ahead move
+     left) (if-food-ahead left (progn3 left left
+     left))) (if-food-ahead move move)) (progn2
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (if-food-ahead move left)))) (progn3 (progn4
+     left move left left) move (progn4 (progn2
+     move (if-food-ahead move move)) (progn3 move
+     move move) (progn2 left move) (if-food-ahead
+     left left)))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left move) (progn2 move left)))
+     (progn3 (progn3 (progn4 left move move move)
+         (progn4 move move move move) (progn3 left
+         left left)) (progn3 (if-food-ahead move (if-food-ahead
+         move move)) (progn4 left left left left)
+         (if-food-ahead move move)) (if-food-ahead
+         (progn2 move (if-food-ahead move move)) (progn4
+         left move left left))))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (if-food-ahead move left) (if-food-ahead
+     (progn2 (if-food-ahead move move) (progn4
+         left left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)))) (progn2 move left) (progn4
+     (progn2 (if-food-ahead (progn4 (progn2 left
+         left) (if-food-ahead left left) (progn4 left
+         move move move) (progn3 move move move))
+         (if-food-ahead left (progn2 move left)))
+         (progn3 (progn2 left left) (progn3 left (progn4
+             left left left left) (if-food-ahead move
+             move)) (if-food-ahead (if-food-ahead left
+             (progn3 move move (progn4 (progn2 (if-food-ahead
+                 move left) (if-food-ahead move left)) (progn2
+                 left left) (progn2 left move) (progn4 left
+                 left left left)))) (progn4 left move left
+             left)))) (progn2 move (progn2 left left))
+     (progn2 (if-food-ahead left move) (progn4
+         move move move left)) (progn3 left left left))
+     (progn2 (progn2 left left) (progn3 (progn2
+         (if-food-ahead (if-food-ahead (progn4 (if-food-ahead
+             move move) (if-food-ahead move move) (progn4
+             left move left left) (progn3 move move move))
+             (if-food-ahead (progn2 left left) (progn2
+                 move left))) (if-food-ahead (if-food-ahead
+             left (progn3 move move (progn2 (if-food-ahead
+             move left) (if-food-ahead left (progn3 left
+             left left))))) (progn4 (progn2 left left)
+             (if-food-ahead left left) move (progn4 left
+             move move move)))) (progn3 (progn3 (progn3
+         left (progn3 left left left) (if-food-ahead
+         (progn2 move (progn2 left move)) (progn4
+         left move left left))) (progn4 move move
+         move move) (progn4 (progn2 (if-food-ahead
+         move left) (progn3 (progn4 left move move
+         move) (progn4 move move move move) (progn3
+         left left left))) (progn2 (if-food-ahead
+         (progn4 (progn2 left left) (if-food-ahead
+             left left) (progn4 left move move move) (if-food-ahead
+             move move)) left) left) (progn2 left move)
+         (if-food-ahead left left))) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move)) (progn3 move move move))) (progn4
+         left left move left) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move))))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left (if-food-ahead left (progn3
+         left left left))) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         (if-food-ahead move move))) (if-food-ahead
+     (progn2 move (if-food-ahead move move)) (progn4
+     left move left left))))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (if-food-ahead
+         move left)) (progn4 (progn2 (if-food-ahead
+     left move) (progn4 move move move (if-food-ahead
+     (progn3 left left left) (progn3 left left
+     left)))) (progn2 left left) (if-food-ahead
+     left left) (if-food-ahead left left))) (if-food-ahead
+     (progn4 (progn4 (progn4 (if-food-ahead left
+         move) (progn2 left left) (progn2 left move)
+         (if-food-ahead left left)) (if-food-ahead
+         (progn3 (if-food-ahead move move) left left)
+         (if-food-ahead (if-food-ahead move left)
+             left)) (progn2 left move) (if-food-ahead
+         left left)) (progn2 move left) (progn4 (progn2
+         move (if-food-ahead move move)) (progn2 move
+         left) (progn2 (progn2 move left) (progn4
+         move move move left)) (if-food-ahead (progn3
+         (if-food-ahead move move) left (if-food-ahead
+         move move)) (progn3 left left left))) (progn3
+         (progn4 left move left left) move (progn4
+         (progn2 move (if-food-ahead move move)) (progn3
+         move move move) left (if-food-ahead left
+         left)))) (progn2 move left)) (progn4 (progn2
+     move (if-food-ahead move move)) (if-food-ahead
+     (progn4 (if-food-ahead (progn2 (if-food-ahead
+         move move) (progn2 move left)) (progn4 (progn3
+         left move left) (progn4 left move left left)
+         (progn2 left move) left)) (if-food-ahead
+         (progn4 (progn2 left left) (if-food-ahead
+             left left) (progn4 left move move move) (progn2
+             left move)) (if-food-ahead (progn4 move move
+         move move) (progn2 (progn2 left left) left)))
+         (progn4 (progn2 move (if-food-ahead move
+             move)) (progn2 move (if-food-ahead move left))
+             (progn2 (if-food-ahead left move) (progn4
+                 move move move left)) (if-food-ahead (progn3
+             left left left) (progn3 left left left)))
+         (progn2 (progn4 (progn2 move left) (progn3
+             (progn4 left move move move) (progn4 move
+             move move move) (progn3 left left left))
+             (progn4 left move move move) (if-food-ahead
+             left left)) left)) (progn2 move left)) (progn4
+     (if-food-ahead move move) (if-food-ahead
+     left left) (progn4 left move move move) (progn3
+     move move move)) (if-food-ahead (progn3 (progn3
+     move move (progn4 (progn2 (if-food-ahead
+     move left) (if-food-ahead move left)) (progn2
+     left left) (progn2 left (if-food-ahead move
+     move)) (if-food-ahead move left))) (progn2
+     (if-food-ahead move left) (progn2 left left))
+     (if-food-ahead move move)) (progn3 left left
+     left))) (progn3 (progn4 left move left left)
+     move (progn4 (progn2 move (if-food-ahead
+     move move)) (progn3 move move move) (progn2
+     left move) (if-food-ahead left left)))) (progn2
+     move left))) (if-food-ahead (if-food-ahead
+     left move) (progn2 move left))) (progn3 (progn3
+     (progn4 left move move move) (progn4 move
+     move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move (if-food-ahead
+         move move)) (progn4 left left left left)
+         (if-food-ahead move move)) (if-food-ahead
+     (progn2 move (if-food-ahead move move)) (progn4
+     left move left left))))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (progn2
+     left move) (progn2 move left) (progn4 (progn4
+     left move left left) (if-food-ahead left
+     (progn3 move move (progn4 (progn2 move left)
+         (progn3 (progn4 left move move move) (progn4
+             move move move move) (progn3 left left left))
+         (progn3 (if-food-ahead move move) (progn4
+             left left left left) (if-food-ahead move
+             move)) (if-food-ahead left left)))) (progn3
+     move move (progn2 (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead left (progn2 move
+     left))) (progn3 (progn2 left left) (progn3
+     left (progn4 left move move move) (if-food-ahead
+     move move)) (if-food-ahead (if-food-ahead
+     left (progn3 move move (progn4 (progn2 (if-food-ahead
+     move left) (if-food-ahead move move)) (progn2
+     left left) (progn2 left move) (progn4 left
+     left left left)))) (progn4 left move left
+     left))))) (progn4 move move move move)) (progn2
+     left (if-food-ahead left (progn3 move move
+     (progn2 (if-food-ahead move left) (if-food-ahead
+         left (progn3 left left left))))))) (progn2
+     move left))) (if-food-ahead left (progn2
+     move left))) (progn3 (progn3 (progn4 left
+     move move move) (progn4 move move move move)
+     (progn3 left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) move)
+     (if-food-ahead (progn2 move (if-food-ahead
+         move move)) (progn4 left move left left))))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (progn2 (if-food-ahead move move) (if-food-ahead
+         move left)) (progn4 (if-food-ahead left (progn3
+     move move (progn4 left (progn2 left left)
+     move (if-food-ahead move left)))) (progn2
+     left left) (progn4 left left left left) (if-food-ahead
+     left left))) (progn2 move left) (progn4 (if-food-ahead
+     left move) (if-food-ahead move move) (progn4
+     left move left left) (if-food-ahead (progn3
+     (if-food-ahead move move) (progn2 (if-food-ahead
+     move left) (if-food-ahead left (progn3 left
+     left left))) (if-food-ahead move move)) (progn3
+     left left left))) (progn3 (progn4 left move
+     left left) move (progn4 (progn2 move (if-food-ahead
+     move move)) (progn3 move move move) (progn2
+     left move) (if-food-ahead left left)))) (if-food-ahead
+     (progn4 (if-food-ahead left (progn3 move
+         move (progn4 (progn2 move left) (progn3 (progn4
+         left move move move) (progn4 move move move
+         move) (progn3 left left left)) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move)) (if-food-ahead left left))))
+         (progn2 move left) (progn4 (progn2 move (if-food-ahead
+         move move)) (progn2 move left) (progn2 (progn2
+         move left) (progn4 move move move left))
+         (if-food-ahead (progn3 (if-food-ahead (if-food-ahead
+             move move) move) (progn2 (progn2 move left)
+             (if-food-ahead left (progn3 left left left)))
+             (if-food-ahead move move)) (progn3 left left
+             left))) (progn3 (progn4 left move left left)
+         move (progn4 (progn2 move (if-food-ahead
+         left move)) (progn3 move move move) (progn2
+         left move) (if-food-ahead left left)))) (progn2
+     move left)))) (if-food-ahead (if-food-ahead
+     left move) (progn2 move left))) (progn3 (progn3
+     (progn4 left move move move) (progn4 move
+     move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (if-food-ahead move left) (if-food-ahead
+     (progn2 (if-food-ahead move move) (progn4
+         left left left left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move)))) (progn2 move left) (progn4
+     (progn2 move (if-food-ahead move move)) (progn2
+     move (progn2 left left)) (progn2 (if-food-ahead
+     left move) left) (progn3 left left left))
+     (progn2 (progn2 left left) (progn3 (progn2
+         (if-food-ahead (if-food-ahead (progn4 (if-food-ahead
+             move move) (if-food-ahead move move) (if-food-ahead
+             left left) (progn3 move move move)) (if-food-ahead
+             (progn2 left left) (progn2 move left))) (if-food-ahead
+             (if-food-ahead left (progn3 move move (progn2
+                 (if-food-ahead move left) (if-food-ahead
+                 left (progn3 left left left))))) (if-food-ahead
+             left (if-food-ahead left (progn4 (if-food-ahead
+             left left) (progn2 left left) (if-food-ahead
+             (progn4 move move move move) move) (if-food-ahead
+             left left)))))) (progn3 (progn3 (progn3 (progn3
+         (progn4 left move move move) (progn4 move
+         move move move) (if-food-ahead (progn3 left
+         left left) (progn3 left left left))) (progn2
+         (if-food-ahead left left) left) (if-food-ahead
+         (progn2 move (if-food-ahead move move)) (progn4
+         left move left left))) (progn4 move move
+         move move) (progn4 (progn2 (if-food-ahead
+         move left) (progn3 (progn4 left move move
+         move) (progn4 move move move move) (progn3
+         left left left))) (progn2 (if-food-ahead
+         (progn4 (progn2 left left) (if-food-ahead
+             left left) (progn4 left move move move) (if-food-ahead
+             move move)) left) left) (progn2 left move)
+         (if-food-ahead left left))) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move)) (progn3 move move move))) (progn4
+         left left move left) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move))))) (progn2 move left))) (if-food-ahead
+     (if-food-ahead left move) (progn2 move left)))
+     (progn3 (progn3 (progn4 left move move move)
+         (progn4 move move move move) (progn3 left
+         left left)) (progn3 (if-food-ahead move move)
+         (progn4 left left left left) (if-food-ahead
+         move (if-food-ahead move move))) (if-food-ahead
+         (progn2 move (if-food-ahead move move)) (progn4
+         left move left left))))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (if-food-ahead (progn4
+     (progn2 left left) (if-food-ahead left left)
+     (progn4 left move move move) (progn3 move
+     move move)) (if-food-ahead (progn4 (if-food-ahead
+     (if-food-ahead move left) (progn4 (progn3
+     left move left) (progn2 left left) (progn2
+     left move) (if-food-ahead left left))) (progn2
+     left move) (progn3 (progn2 left move) (if-food-ahead
+     (progn4 (if-food-ahead (if-food-ahead move
+         move) (progn4 (progn3 left move left) (progn2
+         move (if-food-ahead move move)) (if-food-ahead
+         left left) (if-food-ahead left left))) (progn2
+         move left) (progn4 (progn2 move (if-food-ahead
+         move move)) (if-food-ahead move (progn3 left
+         (progn4 left left left left) (if-food-ahead
+         move move))) (progn2 (if-food-ahead left
+         move) (progn4 move move move (if-food-ahead
+         (progn3 left left left) (progn3 left left
+         left)))) (if-food-ahead (progn3 left left
+         left) left)) move) (progn2 (progn2 left (progn4
+     left left move left)) left)) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move move))) (progn2 (progn2 left left) (progn3
+     (progn2 (if-food-ahead (if-food-ahead (if-food-ahead
+         move move) (if-food-ahead (progn4 move move
+         move move) (progn2 move left))) (if-food-ahead
+         (if-food-ahead left (progn3 move move (progn2
+             (if-food-ahead move left) (if-food-ahead
+             left (progn3 left left left))))) (progn4
+         (progn2 left left) (if-food-ahead left left)
+         (if-food-ahead (progn2 move (if-food-ahead
+             move move)) (progn4 left move left left))
+         (progn4 left move move move)))) (progn3 (progn3
+         (progn3 (progn3 (progn4 left move move move)
+             (progn4 move move move move) (if-food-ahead
+             (progn3 left left left) (progn2 left left)))
+             (progn3 (if-food-ahead move move) (progn4
+                 left left left left) (if-food-ahead move
+                 move)) (if-food-ahead (progn2 move (if-food-ahead
+             move move)) (progn4 left move left left)))
+         (progn4 move move move move) (progn4 (progn2
+         (if-food-ahead move left) (progn3 (progn4
+         left move move move) (progn2 left left) (progn3
+         left left left))) (progn2 (if-food-ahead
+         (progn4 (progn2 left left) (if-food-ahead
+             left left) (progn4 left move move move) (if-food-ahead
+             move move)) left) left) (progn2 left move)
+         (if-food-ahead left left))) (progn3 (if-food-ahead
+         move move) (progn4 left left left left) (if-food-ahead
+         move move)) (progn3 move move move))) (progn4
+     left left move left) (progn3 (if-food-ahead
+     move move) (progn4 left left left left) (if-food-ahead
+     move (progn2 move left)))))) (progn2 move
+     left))) (if-food-ahead (if-food-ahead left
+     (progn3 move move (progn4 (progn2 (if-food-ahead
+         move left) (progn4 move move move move))
+         (progn2 left left) (progn2 left move) (if-food-ahead
+         (progn3 (if-food-ahead move move) left (if-food-ahead
+             move move)) left)))) (progn2 move left)))
+     (progn3 (progn3 (progn4 left move move move)
+         (progn4 move move move move) (progn3 left
+         left left)) (progn3 (if-food-ahead move move)
+         (progn4 left left left left) (if-food-ahead
+         move (if-food-ahead move move))) (if-food-ahead
+         (progn2 move (if-food-ahead move move)) (progn4
+         left move left left))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead move (progn3
+         move move (progn4 left (if-food-ahead (progn4
+         (progn2 left left) (if-food-ahead left left)
+         (progn4 left move move move) (progn3 move
+         move move)) (if-food-ahead (progn4 (if-food-ahead
+         (progn2 (if-food-ahead (progn4 left left
+             left left) move) (progn4 (progn3 (progn3
+             move move move) (progn3 move left move) (progn2
+             move left)) (progn4 (progn2 move move) (if-food-ahead
+             move move) (progn4 move move move move) (progn4
+             left left left move)) (if-food-ahead move
+             move) (progn4 left move left left))) (progn2
+         (progn3 left move left) (if-food-ahead left
+         (progn3 (progn3 (progn4 (progn3 move move
+             move) move move move) (progn2 left left)
+             (progn3 left left left)) left (if-food-ahead
+             move move))))) (progn4 (progn2 move (if-food-ahead
+         move move)) (if-food-ahead (progn4 (if-food-ahead
+         (progn2 (if-food-ahead move move) (progn2
+             move left)) (progn4 (progn3 left move left)
+         (progn2 left left) (progn2 left move) left))
+         (if-food-ahead (progn4 (progn2 left left)
+             (if-food-ahead left left) (progn4 left move
+             move move) (progn2 left move)) (if-food-ahead
+             (progn4 move move move move) (progn2 (progn2
+             left left) left))) (progn4 (progn2 move (if-food-ahead
+         move move)) (progn2 move (if-food-ahead move
+         left)) (progn2 (if-food-ahead left move)
+         (progn4 move move move left)) (if-food-ahead
+         (progn3 left left left) (progn3 left left
+         left))) (progn2 (progn4 (progn2 move left)
+         (progn3 (progn4 left move move move) (progn4
+             move move move move) (progn3 left left left))
+         (progn4 left move move move) (if-food-ahead
+         left left)) left)) (progn2 move left)) (progn4
+         (if-food-ahead move move) (if-food-ahead
+         left left) (progn4 left move move move) (progn3
+         move move move)) (if-food-ahead (progn3 (progn3
+         move move (progn4 (progn2 (if-food-ahead
+         move left) (if-food-ahead move left)) (progn2
+         left left) (progn2 left (if-food-ahead move
+         move)) (if-food-ahead move left))) (progn2
+         (if-food-ahead move left) (progn2 left left))
+         (if-food-ahead move move)) (progn3 left left
+         left))) (progn2 left move) (progn2 (progn4
+         left left left left) (progn3 (progn3 (progn4
+         left move move move) (progn4 move move move
+         move) (progn3 left left left)) (if-food-ahead
+         move left) (if-food-ahead move left)))) (progn2
+         (if-food-ahead move left) (if-food-ahead
+         move move)))) (progn2 left move) (if-food-ahead
+         left left)))) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+Tree 0:
+ (progn2 (if-food-ahead (progn4 (progn2 left
+     left) (if-food-ahead left left) (progn4 left
+     move move move) (progn3 move move move))
+     (if-food-ahead (if-food-ahead left (progn3
+         move move move)) (progn2 move left))) (progn3
+     (progn3 (progn4 left move move move) (progn4
+         move move move move) (progn3 left left left))
+     (progn3 (if-food-ahead move move) (progn4
+         left left left left) (if-food-ahead move
+         move)) (if-food-ahead (progn2 move (if-food-ahead
+     move move)) (progn4 left move left left))))
+
+
+Best Individual's Map
+=====================
+zcdefgh.......d.........d.......
+y..#..........c.......yzc.......
+x..#..........b.......x.+###++..
+w..#..........a.......w.#....#..
+v..#........vwz.......v.#....#..
+u..####+####u.......+#u++....+qr
+............t.......+.t......#p.
+............s.......#.s......+o.
+............r.......nor......+n.
+............q.op....m........#m.
+............p.n.....l........+l.
+..........klo.m.....k........+k.
+..........j.#.l.....j.......fgj.
+..........i.#.k.....i.......e+..
+..........h.#.j.....h..+++##d+..
+..........g.+.i.+#cdg..#....c...
+..........f.deh.+.b....+....b...
+..........e.c...+.a....+....a...
+........zad.b...#.z....+#+++z...
+........y...a...#.y.......uvy...
+........x...z...#.x.......t+....
+........w...y...#.w.......s+....
+........v...x...rsv....+++r+....
+........u.stw...q......#..q.....
+.++##++#t#r#+...p.........p.....
+.#....ops.q.....o.........o.....
+.#....n...p.....n.......jkn.....
+.#....m+##o####+m.......i.......
+.#....l#..n.....l.......h.......
+.+....k#..m...ghk.......g.......
+bcdefghijkl...f.........f.......
+a.....i.......e.........e.......

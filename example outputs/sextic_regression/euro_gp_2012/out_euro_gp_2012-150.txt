@@ -1,0 +1,947 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.2703581855259653 Adjusted=0.7871795619484837 Hits=13
+Tree 0:
+ (* (% (% (- (% x x) (* x x)) (+ (* x x) (-
+     x x))) (* (+ (* x x) (% x x)) (% (+ x x)
+     (* x x)))) (* (* (* (% x x) (* x x)) (+ (-
+     x x) (% x x))) (+ (- (+ x x) (+ x x)) (+
+     (- x x) (+ x x)))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.2703581855259653 Adjusted=0.7871795619484837 Hits=13
+Tree 0:
+ (* (% (% (- (% x x) (* x x)) (+ (* x x) (-
+     x x))) (* (+ (* x x) (% x x)) (% (+ x x)
+     (* x x)))) (* (* (* (% x x) (* x x)) (+ (-
+     x x) (% x x))) (+ (- (+ x x) (+ x x)) (+
+     (- x x) (+ x x)))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.2703581855259653 Adjusted=0.7871795619484837 Hits=13
+Tree 0:
+ (* (% (% (- (% x x) (* x x)) (+ (* x x) (-
+     x x))) (* (+ (* x x) (% x x)) (% (+ x x)
+     (* x x)))) (* (* (* (% x x) (* x x)) (+ (-
+     x x) (% x x))) (+ (- x x) (+ (- x x) (+ x
+     x)))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.2703581855259653 Adjusted=0.7871795619484837 Hits=13
+Tree 0:
+ (* (% (% (- (% x x) (* x x)) (+ (* x x) (-
+     x x))) (* (+ (* x x) (% x x)) (% (+ x x)
+     (* x x)))) (* (* (* (% x x) (* x x)) (+ (-
+     x x) (% x x))) (+ (- (+ x x) (+ x x)) (+
+     (- x x) (+ x x)))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.2703581855259653 Adjusted=0.7871795619484837 Hits=13
+Tree 0:
+ (* (% (% (- (% x x) (* x x)) (+ (* x x) (-
+     x x))) (* (+ (* x x) (% x x)) (% (+ x x)
+     (* x x)))) (* (* (* (% x x) (* x x)) (+ (-
+     x x) (% x x))) (+ (- (+ x x) (+ x x)) (+
+     (- x x) (+ x x)))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.23187330330858236 Adjusted=0.8117717928574197 Hits=11
+Tree 0:
+ (* (% (% (- (% x x) (* x x)) (+ (* x x) (-
+     x x))) (* (+ (* x x) (% x x)) (% (+ x x)
+     (* x x)))) (* (* (* (% x x) (* x x)) (+ (-
+     x x) (% x x))) (+ (- (+ x x) (+ x x)) (+
+     (- (- (% (* x x) (- x (- x x))) (% (* x x)
+         (+ x x))) x) (+ x x)))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.23187330330858236 Adjusted=0.8117717928574197 Hits=11
+Tree 0:
+ (* (% (% (- (% x x) (* x x)) (+ (* x x) (-
+     x x))) (* (+ (* x x) (% x x)) (% (+ x x)
+     (* x x)))) (* (* (* (% x x) (* x x)) (+ (-
+     x x) (% x x))) (+ (- (+ x x) (+ x x)) (+
+     (- (- (% (* x x) (- x (- x x))) (% (* x x)
+         (+ x x))) x) (+ x x)))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.1073714274136087 Adjusted=0.9030393734608209 Hits=16
+Tree 0:
+ (* (% (% (- (% x x) (* x x)) (+ (* x x) (-
+     x x))) (* (+ (+ (* x x) (* (% x x) (* x x)))
+     (% x x)) (% (+ x x) (* x x)))) (* (* (* (%
+     x x) (* x x)) (+ (- x x) (% x x))) (+ (*
+     x (% (- x x) (% x x))) (+ (- x x) (+ x x)))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.1073714274136087 Adjusted=0.9030393734608209 Hits=16
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x x))
+     (+ (- x x) (% x x)))) (+ (* x x) (- x x)))
+     (* (+ (* x x) (+ (* x x) (% x x))) (% (+
+         x x) (* x x)))) (* (* (* (% x x) (* x x))
+     (+ (- x x) (% x x))) (+ (- (+ (* (+ (+ (-
+     (+ (+ x x) (+ x x)) (% (- x x) (+ x x)))
+     (% (* (* x x) (- x x)) (% (* x x) (+ x x))))
+     (% x x)) (% (- x x) (+ x x))) (+ (- x x)
+     (+ x x))) (+ x x)) (+ (- x x) (+ x x)))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.1073714274136087 Adjusted=0.9030393734608209 Hits=16
+Tree 0:
+ (* (% (% (- (% x x) (* x x)) (+ (* x x) (-
+     x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (* (+ (+ (-
+     (+ x x) (% (* (+ x x) (% x x)) (% x x)))
+     (% (* (* x x) (- x x)) (+ x x))) (% x x))
+     (% (- x x) (% x x))) (+ (- x x) (+ x x)))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.1073714274136087 Adjusted=0.9030393734608209 Hits=16
+Tree 0:
+ (* (% (% (- (% x x) (* x x)) (+ (* x x) (-
+     x x))) (* (+ (+ (* x x) (* (% x x) (* x x)))
+     (% x x)) (% (+ x x) (* x x)))) (* (* (* (%
+     x x) (* x x)) (+ (- x x) (% x x))) (+ (*
+     x (% (- x x) (% (* (% x x) (% (+ x x) (*
+     x x))) x))) (+ (- x x) (+ x x)))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.09981556850457994 Adjusted=0.9092433573746377 Hits=15
+Tree 0:
+ (* (% (% (- (% x x) (* x x)) (+ (* x x) (-
+     x x))) (* (+ (+ (* x x) (* (% x x) (* x x)))
+     (% x x)) (% (+ x x) (* x x)))) (* (* (* (%
+     x x) (* x x)) (+ (- x x) (% x x))) (+ (*
+     x (% x (% (* (+ (* x x) (% x x)) (% (+ x
+     x) (* x x))) x))) (+ (- x x) (+ x x)))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.09981556850457994 Adjusted=0.9092433573746377 Hits=15
+Tree 0:
+ (* (% (% (- (% x x) (* x x)) (+ (* x x) (-
+     x x))) (* (+ (+ (* x x) (* (% x x) (* x x)))
+     (% x x)) (% (+ x x) (* x x)))) (* (* (* (%
+     x x) (* x x)) (+ (- x x) (% x x))) (+ (*
+     x (% x (% (* (+ (* x x) (% x x)) (% (+ x
+     x) (* x x))) x))) (+ (- x x) (+ x x)))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.07496927722172536 Adjusted=0.9302591443213292 Hits=18
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (% x x)) (%
+         (+ x x) (* x x))) x))) (+ (- x x) (+ x x))))))
+     (+ (- x x) (% x x)))) (+ (* x x) (- x x)))
+     (* (+ (* x x) (+ (* x x) (% x x))) (% (+
+         x x) (* x x)))) (* (* (* (% x x) (* x x))
+     (+ (- x x) (% x x))) (+ (- (+ (* (+ (+ (-
+     (% (+ (- x (* x x)) (- x x)) (- x x)) (%
+     (+ x x) (+ x x))) (% (* (* x x) (- x x))
+     (% (* x x) (+ x x)))) (% x x)) (% (- x x)
+     (+ x x))) (+ (- x x) (+ x x))) (+ x x)) (+
+     (- x x) (+ x x)))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.07496927722172536 Adjusted=0.9302591443213292 Hits=18
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (% x x)) (%
+         (+ x x) (* x x))) x))) (+ (- x x) (+ x x))))))
+     (+ (- x x) (% x x)))) (+ (* x x) (- x x)))
+     (* (+ (* x x) (+ (* x x) (% x x))) (% (+
+         x x) (* x x)))) (* (* (* (% x x) (* x x))
+     (+ (- x x) (% x x))) (+ (- (+ (* (+ (+ (-
+     (% (+ (- x (* x x)) (- x x)) (- x x)) (%
+     (+ x x) (+ x x))) (% (* (* x x) (- x x))
+     (% (* x x) (+ x x)))) (% x x)) (% (- x x)
+     (+ x x))) (+ (- x x) (+ x x))) (+ x x)) (+
+     (- x x) (+ x x)))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.07496927722172536 Adjusted=0.9302591443213292 Hits=18
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (% x x)) (%
+         (+ x x) (* x x))) x))) (+ (- x x) (+ x x))))))
+     (+ (- x x) (% x x)))) (+ (* x x) (- x x)))
+     (* (+ (* x x) (+ (* x x) (% x x))) (% (+
+         x x) (* x x)))) (* (* (* (% x x) (* x x))
+     (+ (- x x) (% x x))) (+ (- (+ (* (+ (- x
+     x) (% x x)) (% (- x x) (+ x x))) (+ (- x
+     x) (+ x x))) (+ x x)) (+ (- x x) (+ x x)))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.07496927722172536 Adjusted=0.9302591443213292 Hits=18
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (+ (- x x) (% x x)) (* x x)) (+ (-
+         x x) (% x x))) (+ (* x (% x (% (* (+ (* x
+     x) (% x x)) (% (+ x x) (* x x))) x))) (+
+     (- x x) (+ x x)))))) (+ (- x x) (% x x))))
+     (+ (* x x) (- x x))) (* (+ (* x x) (+ (*
+     x x) (% x x))) (% (+ x x) (* x x)))) (* (*
+     (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (- (+ (* (+ (+ (- (% (+ (- x (* x x))
+         (- x x)) (% x x)) (% (+ x x) (+ x x))) (%
+         (* (* x x) (- x x)) (% (* x x) (+ x x))))
+         (% x x)) (% (- x x) (% x x))) (+ (- x x)
+         (+ x x))) (+ x x)) (+ (- x x) (+ x x)))))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.07496927722172536 Adjusted=0.9302591443213292 Hits=18
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (% x x)) (%
+         (+ x x) (* x x))) x))) (+ (- x x) (+ x x))))))
+     (+ (- x x) (% x x)))) (+ (* x x) (- x x)))
+     (* (+ (* x x) (+ (* x x) (% x x))) (% (+
+         x x) (* x x)))) (* (* (* (% x x) (* x x))
+     (+ (- x x) (% x x))) (+ (- (+ (* (+ (+ (-
+     (% (- x x) (- x x)) (% (+ x x) (+ x x)))
+     (% (* (* x x) (- x x)) x)) (% x x)) (% (-
+     x x) (+ x x))) (+ (- x x) (+ (- x x) (+ x
+     x)))) (+ x x)) (+ (- x x) (+ x x)))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.07088715720773048 Adjusted=0.9338052037223378 Hits=17
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (% (- x x) (+ x
+         x)) (% x x))) (+ (* x (% x (% (* (+ (- x
+     x) (% x x)) (% (+ x x) (* x x))) x))) (+
+     (- x x) (+ x x)))))) (+ (- x x) (% x x))))
+     (+ (* x x) (- x x))) (* (+ (* x x) (+ (*
+     x x) (% x x))) (% (+ x x) (* x x)))) (* (*
+     (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (- (+ (* (+ (% x x) (% x x)) (% (- x x)
+         (+ x x))) (+ (- x x) (+ x x))) (+ x x)) (+
+         (- x x) (+ x x)))))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.07088715720773048 Adjusted=0.9338052037223378 Hits=17
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (% (- x x) (+ x
+         x)) (% x x))) (+ (* x (% x (% (* (+ (- x
+     x) (% x x)) (% (+ x x) (* x x))) x))) (+
+     (- x x) (+ x x)))))) (+ (- x x) (% x x))))
+     (+ (* x x) (- x x))) (* (+ (* x x) (+ (*
+     x x) (% x x))) (% (+ x x) (* x x)))) (* (*
+     (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (- (+ (* (+ (% x x) (% x x)) (% (- x x)
+         (+ x x))) (+ (- x x) (+ x x))) (+ x x)) (+
+         (- x x) (+ x x)))))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.061090378784230404 Adjusted=0.9424267903981695 Hits=18
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (* x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (% (+ x x) (+ x x)) (% (* (* x x) (+ x
+         x)) (% (* x x) (+ x x)))) (% x x)) (% (-
+     x x) (* x x))) (+ (- x x) (+ x x))) (+ x
+     x)) (+ (- x x) (+ x x)))))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.061090378784230404 Adjusted=0.9424267903981695 Hits=18
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (* x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (% (+ x x) (+ x x)) (% (* (* x x) (+ x
+         x)) (% (* x x) (+ x x)))) (% x x)) (% (-
+     x x) (* x x))) (+ (- x x) (+ x x))) (+ x
+     x)) (+ (- x x) (+ x x)))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.061090378784230404 Adjusted=0.9424267903981695 Hits=18
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (* x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (% (+ x x) (+ x x)) (% (* (* x x) (+ x
+         x)) (% (* x x) (+ x x)))) (% x x)) (% (-
+     x x) (* x x))) (+ (- x x) (+ x x))) (+ x
+     x)) (+ (- x x) (+ x x)))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.061090378784230404 Adjusted=0.9424267903981695 Hits=18
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (* x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (% (+ x x) (+ x x)) (% (* (* x x) (+ x
+         x)) (% (* x x) (+ x x)))) (% x x)) (% (-
+     x x) (* x x))) (+ (- x x) (+ x x))) (+ x
+     x)) (+ (- x x) (+ x x)))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.061090378784230404 Adjusted=0.9424267903981695 Hits=18
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (* x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (% (+ x x) (* (+ (% x x) (% x x)) (% (-
+         x x) (+ x x)))) (% (* (* x x) (+ x x)) (%
+         (* x x) (+ x x)))) (% x x)) (% (- x x) (%
+     (* (+ (* x x) (+ x (% x x))) (% (+ x x) (*
+         x x))) x))) (+ (- x x) (+ x x))) (+ x x))
+     (+ (- x x) (+ x x)))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.05543807157695568 Adjusted=0.9474738754741676 Hits=17
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (* x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* (% x x) (% (+ x x) (* x x))) (% (*
+         (% x x) (+ x x)) (% (+ (- x x) (% x x)) (+
+         x x)))) (% x x)) (% (- x x) (* x x))) (+
+     (- x x) (+ x x))) (+ x x)) (+ (* x (% x (%
+     (* (+ (* x x) (+ x (% x x))) (% (+ x x) (*
+         x x))) x))) (+ x x)))))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.05543807157695568 Adjusted=0.9474738754741676 Hits=17
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (* x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* (% x x) (% (+ x x) (* x x))) (% (*
+         (% x x) (+ x x)) (% (* x x) (+ x x)))) (%
+     x x)) (% (- x x) (* x x))) (+ (- x x) (+
+     x x))) (+ x x)) (+ (* x (% x (% (* (+ (*
+     x x) (+ x (% x x))) (% (+ x x) (* x x)))
+     x))) (+ x x)))))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.05543807157695568 Adjusted=0.9474738754741676 Hits=17
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (* x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* (% x x) (% (+ x x) (* x x))) (% (*
+         (% x x) (+ x x)) (% (+ (- x x) (% x x)) (+
+         x x)))) (% x x)) (% (- x x) (% (* x x) (+
+     x x)))) (+ (- x x) (+ x x))) (+ x x)) (+
+     (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (* x x))) x))) (+ x x)))))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.05543807157695568 Adjusted=0.9474738754741676 Hits=17
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (* x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (% x x) (% x x)) (% (- x x) (* x x))) (+
+     (- x x) (+ x x))) (+ x x)) (+ (* x (% x (%
+     (* (+ (* x x) (+ x (% x x))) (% (+ x x) (*
+         x x))) x))) (+ x x)))))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.05099052934577427 Adjusted=0.951483359819127 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* (% x x) (% (- x x) (* x x))) (% (*
+         (% x x) (+ x x)) (% (* x x) (+ x x)))) (%
+     x x)) (% (- x x) (* x x))) (+ (- x x) (+
+     x x))) (+ x x)) (+ (* x (% x (% (* (+ (*
+     x x) (+ x (% x x))) (% (+ x x) (* x x)))
+     x))) (+ x x)))))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.05099052934577427 Adjusted=0.951483359819127 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* (% x x) (% (- x x) (* x x))) (% (*
+         (% x x) (+ x x)) (% (* x x) (+ x x)))) (%
+     x x)) (% (- x x) (* x x))) (+ (- x x) (+
+     x x))) (+ x x)) (+ (* x (% x (% (* (+ (*
+     x x) (+ x (% x x))) (% (+ x x) (* x x)))
+     x))) (+ x x)))))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.05099052934577427 Adjusted=0.951483359819127 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (+ (- x x) (% x x)))) x))) (+
+         (- x x) (+ x x)))))) (+ (- x x) (% x x))))
+     (+ (* x x) (- x x))) (* (+ (* x x) (+ (*
+     x x) (% x x))) (% (+ x x) (* x x)))) (* (*
+     (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (- (+ (* (+ (% x x) (% x x)) (% (- x x)
+         (+ (* x x) (+ (- x x) (% x x))))) (+ (- x
+         x) (+ x x))) (+ x x)) (+ (* x (% x (% (*
+         (+ (* x x) (+ x (% x x))) (% (+ x x) (* x
+         x))) x))) (+ x x)))))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.05099052934577427 Adjusted=0.951483359819127 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* (% x x) (% (+ x x) (* x x))) (% x (%
+         (* (+ (* x x) (+ x (% x x))) (% (+ x x) (*
+             x x))) x))) (% x x)) (% (- x x) (* x x)))
+     (+ (- x x) (+ x x))) (+ x x)) (+ (* x (%
+     x (% (* (+ (* x x) (+ x (% x x))) (% (+ x
+     x) (* x x))) x))) (+ x x)))))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.05099052934577427 Adjusted=0.951483359819127 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* (% x x) (% (- x x) (* x x))) (% (*
+         (% x x) (+ x x)) (% (* x x) x))) (% x x))
+     (% (- x x) (* x x))) (+ (- x x) (+ x x)))
+     (+ x x)) (+ (* x (% x (% (* (+ (* x x) (+
+     x (% x x))) (% (+ x x) (* x x))) x))) (+
+     x x)))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04188529154767971 Adjusted=0.9597985575883687 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* (% x x) (% (- x x) x)) (% (* (% x x)
+         (+ x x)) (% (* x x) (+ x x)))) (% x x)) (%
+     (- x x) (* x x))) (+ (- x x) (+ x x))) (+
+     x x)) (+ (* x (% x (% (* (+ (* x x) (+ x
+     (+ (* x x) (+ x (% x x))))) (% (+ x x) (*
+     x x))) x))) (+ x x)))))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04188529154767971 Adjusted=0.9597985575883687 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* (% x x) (% (- x x) x)) (% (* (% x x)
+         (+ x x)) (% (* x x) (+ x x)))) (% x x)) (%
+     (- x x) (* x x))) (+ (- x x) (+ x x))) (+
+     x x)) (+ (* x (% x (% (* (+ (* x x) (+ x
+     (+ (* x x) (+ x (% x x))))) (% (+ x x) (*
+     x x))) x))) (+ x x)))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04188529154767971 Adjusted=0.9597985575883687 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* x (% (- x x) x)) (% (* (% x x) (+ x
+         x)) (% (* x x) (+ x x)))) (% x x)) (% (-
+     x x) (* x x))) (+ (- x x) (+ x x))) (+ x
+     x)) (+ (* x (% x (% (* (+ (* x x) (+ x (+
+     (* x x) (+ x (% x x))))) (% (+ x x) (* x
+     x))) x))) (+ x x)))))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04188529154767971 Adjusted=0.9597985575883687 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* (% x x) (% (- x x) x)) (% (* (% x x)
+         (+ x x)) (% (% x x) (+ x x)))) x) (% (- x
+     x) (* x x))) (+ (- x x) (+ x x))) (+ x x))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (+ (*
+         x x) (+ x (% x x))))) (% (+ x x) (* x x)))
+         x))) (+ x x)))))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04188529154767971 Adjusted=0.9597985575883687 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (* (+ (+ (* (% x x) (% (+ x x) (+
+     (* x x) (% x x)))) (% (* (% x x) (+ x x))
+     (% x x))) (% x x)) (% (- x x) (* x x))) (%
+     x x))) (+ (- (+ (* (+ (+ (* (% x x) (% (-
+     x x) x)) (% (* (% x x) (+ x x)) (% x (+ x
+     x)))) x) (% (- x x) (* x x))) (+ (- x x)
+     (+ x x))) (+ x x)) (+ (* x (% x (% (* (+
+     (* x x) (+ x (+ (* x x) (+ x (% x x)))))
+     (% (+ x x) (* x x))) x))) (+ x x)))))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04188529154767971 Adjusted=0.9597985575883687 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* (% x x) (% (- x x) x)) (% (+ (* (+
+         (+ (* (% x x) (% (- x x) x)) (% (* (% x x)
+             (+ x x)) (% (* x x) (+ x x)))) (% x x)) (%
+         (- x x) (* x x))) (+ (- x x) (+ x x))) (%
+         (* x x) (+ x x)))) x) (% (- x x) (* x x)))
+     (+ (- x x) (+ x x))) (+ x x)) (+ (* x (%
+     x (% (* (+ (* x x) (+ x (+ (* x x) (+ x (%
+     x x))))) (% (+ x x) (* x x))) x))) (+ x x)))))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04188529154767971 Adjusted=0.9597985575883687 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (%
+     (* (+ (* x x) (+ x (% x x))) (% (+ x x) (*
+         x x))) x) (% (- x x) (* x x))) (+ (- x x)
+     (+ x x))) (+ x x)) (+ (* x (% x (% (* (+
+     (* x x) (+ x (+ (* x x) (+ x (% x x)))))
+     (% (+ x x) (* x x))) x))) (+ x x)))))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04188529154767971 Adjusted=0.9597985575883687 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* (% x (* (% x x) (* x x))) (+ (* x x)
+         (+ x (% x x)))) (% (* (% x x) (% x x)) (%
+         (* x x) (+ x x)))) (% x x)) (% (- x x) (+
+     x x))) (+ (- x x) (+ x x))) (+ x x)) (+ (*
+     x (% x (% (* (+ (* x x) (+ x (+ (* x x) (+
+     x (% x x))))) (% (+ x x) (* x x))) x))) (+
+     x x)))))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04188529154767971 Adjusted=0.9597985575883687 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (+ (- x
+         x) (% x x)))) (+ (* x (% x (% (* (+ (* x
+     x) (+ x (% x x))) (% (+ x x) (% x x))) x)))
+     (+ (- x x) (+ x x)))))) (+ (- x x) (% x x))))
+     (+ (* x x) (- x x))) (* (+ (* x x) (+ (*
+     x x) (% x x))) (% (+ x x) (* x x)))) (* (*
+     (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (- (+ (* (+ (+ (* (% x x) (% (- x x) x))
+         (% (* (% x x) (+ x x)) (% (* x x) (+ x x))))
+         (% x x)) (% (- x x) (* x x))) (+ (- x x)
+         (+ x x))) (+ x x)) (+ (* x (% x (% (* (+
+         (* x x) (+ x (+ (* x x) (+ x (% x x)))))
+         (% (+ x x) (* x x))) x))) (+ x x)))))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04188529154767971 Adjusted=0.9597985575883687 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (- x x) (% x x)) (% (- x x) (* x x))) (+
+     (- x x) (+ x x))) (+ x x)) (+ (* x (% x (%
+     (* (+ (* x x) (+ x (+ (* x x) (+ x (% x x)))))
+         (% (+ x x) (* x x))) x))) (+ x x)))))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04188529154767971 Adjusted=0.9597985575883687 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (* x x)) (*
+     (+ (* x x) (+ (* x x) (% x x))) (% (+ x x)
+     (* x x)))) (* (* (* (% x x) (* x x)) (+ (-
+     x x) (% x x))) (+ (- (+ (* (+ (+ (* (% x
+     x) (% (- x x) x)) (% (* (* (% x x) (* x x))
+     (+ (% (+ x x) (* x x)) x)) (+ (- x x) (%
+     x x)))) x) (% (- x x) (* x x))) (+ (- x x)
+     (+ x x))) (+ x x)) (+ (* x (% x (% (* (+
+     (* x x) (+ x (+ (* x x) (+ x (% x x)))))
+     (% (+ x x) (* x x))) x))) (+ x x)))))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04188529154767971 Adjusted=0.9597985575883687 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* x x) (+ (-
+     x x) (% x x))) (+ (- (+ (* (+ (+ (% x x)
+     (% x x)) (% (+ x x) (* x x))) (% (- x x)
+     (+ (- x x) (% x x)))) (+ (- x x) (+ x x)))
+     (+ x x)) (+ (* x (% x (% (* (+ (* x x) (+
+     x (+ (* x x) (+ x (% x x))))) (% (+ x x)
+     (* x x))) x))) (+ x x)))))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.04188529154767971 Adjusted=0.9597985575883687 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* (% x x) (* x x))
+         (+ x (% x x))) (+ x x)) x))) (+ (- x x) (+
+         x x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     x (* (* (* (% x x) (* x x)) (+ (- x x) (%
+     x x))) (+ (* x (% x (% (* (+ (* x x) (+ x
+     (% x x))) (% (+ x x) (% x x))) x))) (+ (-
+     x x) (+ x x))))) (% (- x x) (* x x))) (+
+     (- x x) (+ x x))) (+ x x)) (+ (* x (% x (%
+     (* (+ (* x x) (+ x (+ (* x x) (+ x (% x x)))))
+         (% (+ x x) (* x x))) x))) (+ x x)))))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.0418852915476797 Adjusted=0.9597985575883687 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (* x x)) (*
+     (+ (* x x) (+ (* x x) (% x x))) (% (* (%
+     x x) (% x x)) (% (* x x) (+ x x))))) (* (*
+     (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (- (+ (* (+ (+ (* (% x x) (% (- x x) x))
+         (% (% x x) (% (* (+ (* x x) (+ x (% x x)))
+             (% (+ x x) (% x x))) (+ x x)))) x) (% (-
+         x x) (* x x))) (+ (- x x) (+ x x))) (+ x
+         x)) (+ (* x (% x (% (* (+ (* x x) (+ x (+
+         (* x x) (+ x (% x x))))) (% (+ x x) (* x
+         x))) x))) (+ x x)))))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.039158213135660126 Adjusted=0.9623173712715987 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* x (% (- x x) x)) (% (* (* (% x x) (*
+         (+ (* x x) (+ x (% x x))) (% (+ x x) (* x
+         x)))) (+ x x)) (% (* x x) (+ x x)))) (% x
+     x)) (% (- x x) (* x x))) (+ (- x x) (+ x
+     x))) (+ x x)) (+ (* x (% x (% (* (+ (* x
+     x) (+ x (+ (* x x) (+ x (% x x))))) (% (*
+     (+ (* x x) (+ x (% x x))) (% (+ x x) (% x
+     x))) (* x x))) x))) (+ x x)))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.039158213135660126 Adjusted=0.9623173712715987 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* x (% (- x x) x)) (% (* (* (% x x) (*
+         (+ (* x x) (+ x (% x x))) (% x x))) (+ x
+         x)) (% (* x x) (+ x x)))) (% x x)) (% (-
+     x x) (* x x))) (+ (- x x) (+ x x))) (+ x
+     x)) (+ (* x (% x (% (* (+ (* x x) (+ x (+
+     (* x x) (+ x (% x x))))) (% (* (+ (* x x)
+     (+ x (% x x))) (% (+ x x) (% x x))) (* x
+     x))) x))) (+ x x)))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.039158213135660126 Adjusted=0.9623173712715987 Hits=19
+Tree 0:
+ (* (% (% (- (% x x) (* (* (% x x) (* x (*
+     (* (* (% x x) (* x x)) (+ (- x x) (% x x)))
+     (+ (* x (% x (% (* (+ (* x x) (+ x (% x x)))
+         (% (+ x x) (% x x))) x))) (+ (- x x) (+ x
+         x)))))) (+ (- x x) (% x x)))) (+ (* x x)
+     (- x x))) (* (+ (* x x) (+ (* x x) (% x x)))
+     (% (+ x x) (* x x)))) (* (* (* (% x x) (*
+     x x)) (+ (- x x) (% x x))) (+ (- (+ (* (+
+     (+ (* x (% (- x x) x)) (% (* (* (% x x) (*
+         (+ (* x x) (+ x (% x x))) (% (+ x x) (* x
+         x)))) (+ x x)) (% (* x x) (+ x x)))) (% x
+     x)) (% (- x x) (* x x))) (+ (- x x) (+ x
+     x))) (+ x x)) (+ (* x (% x (% (* (+ (* x
+     x) (+ x (+ (* x x) (+ x (% x x))))) (% (*
+     (+ (* x x) (+ x (% x x))) (% (+ x x) (% x
+     x))) (* x x))) x))) (+ x x)))))

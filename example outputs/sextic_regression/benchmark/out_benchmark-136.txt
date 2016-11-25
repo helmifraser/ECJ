@@ -1,0 +1,638 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.9854853559093854 Adjusted=0.5036551878983683 Hits=6
+Tree 0:
+ (- (sin (exp 0.5752896868278587)) (sin (%
+     x x)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.769346403688024 Adjusted=0.5651804518977183 Hits=3
+Tree 0:
+ (% (cos (cos 0.1751379337469574)) (exp (exp
+     (exp -0.720206017646744))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7580485195696132 Adjusted=0.5688125150520927 Hits=3
+Tree 0:
+ (% (cos (cos (+ -0.6011552886187101 0.6439126458304096)))
+     (exp (exp (exp -0.720206017646744))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7400725408176314 Adjusted=0.5746886848350107 Hits=4
+Tree 0:
+ (% (exp -0.720206017646744) (exp (exp (exp
+     -0.720206017646744))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7228739368138467 Adjusted=0.580425519611333 Hits=5
+Tree 0:
+ (% (cos (cos (+ -0.6011552886187101 0.6439126458304096)))
+     (exp (exp (cos (cos x)))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6837529455622531 Adjusted=0.5939113589292468 Hits=5
+Tree 0:
+ (% (cos (cos (+ (exp (exp (exp -0.720206017646744)))
+     0.6439126458304096))) (exp (exp (cos (cos
+     x)))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.681623385877992 Adjusted=0.5946634712610698 Hits=5
+Tree 0:
+ (% (cos (cos (cos (cos (+ -0.6011552886187101
+     0.6439126458304096))))) (exp (exp (cos (cos
+     x)))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.681623385877992 Adjusted=0.5946634712610698 Hits=5
+Tree 0:
+ (% (cos (cos (cos (cos (+ -0.6011552886187101
+     0.6439126458304096))))) (exp (exp (cos (cos
+     x)))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6772257121268364 Adjusted=0.5962226746046791 Hits=5
+Tree 0:
+ (% (cos (cos (cos (exp (+ -0.6011552886187101
+     0.6439126458304096))))) (exp (exp (cos (cos
+     x)))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6772257121268364 Adjusted=0.5962226746046791 Hits=5
+Tree 0:
+ (% (cos (cos (cos (exp (+ -0.6011552886187101
+     0.6439126458304096))))) (exp (exp (cos (cos
+     x)))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6772257121268364 Adjusted=0.5962226746046791 Hits=5
+Tree 0:
+ (% (cos (cos (cos (exp (+ -0.6011552886187101
+     0.6439126458304096))))) (exp (exp (cos (cos
+     x)))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6754747659128875 Adjusted=0.5968457540183525 Hits=6
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (cos (exp (+ -0.6011552886187101 0.6439126458304096)))))
+     (cos (cos (cos (exp (exp -0.720206017646744)))))))))
+     (exp (exp (cos (cos x)))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6517280580251507 Adjusted=0.6054265380680317 Hits=5
+Tree 0:
+ (% (cos (cos (exp (exp (cos (cos x))))))
+     (exp (exp (cos (cos x)))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6517280580251507 Adjusted=0.6054265380680317 Hits=5
+Tree 0:
+ (% (cos (cos (exp (exp (cos (cos x))))))
+     (exp (exp (cos (cos x)))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6517280580251507 Adjusted=0.6054265380680317 Hits=5
+Tree 0:
+ (% (cos (cos (exp (exp (cos (cos x))))))
+     (exp (exp (cos (cos x)))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6517280580251507 Adjusted=0.6054265380680317 Hits=5
+Tree 0:
+ (% (cos (cos (exp (exp (cos (cos x))))))
+     (exp (exp (cos (cos x)))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6517280580251507 Adjusted=0.6054265380680317 Hits=5
+Tree 0:
+ (% (cos (cos (exp (exp (cos (cos x))))))
+     (exp (exp (cos (cos x)))))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6517280580251507 Adjusted=0.6054265380680317 Hits=5
+Tree 0:
+ (% (cos (cos (exp (exp (cos (cos x))))))
+     (exp (exp (cos (cos x)))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6440986544298004 Adjusted=0.60823600658369 Hits=9
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (cos (cos (exp (exp (cos (cos x))))))))
+     (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (exp
+             (exp -0.720206017646744))))))))))))))) (exp
+     (exp (cos (cos x)))))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6312774459770225 Adjusted=0.6130165058470903 Hits=6
+Tree 0:
+ (% (cos (cos (exp (exp (cos (cos (cos (cos
+     x)))))))) (exp (exp (cos (cos x)))))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5997533585752087 Adjusted=0.6250963591604094 Hits=6
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (cos (cos (exp (exp (cos (cos x))))))))
+     (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))) (exp (exp (cos (cos x)))))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5997533585752087 Adjusted=0.6250963591604094 Hits=6
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (cos (cos (exp (exp (cos (cos x))))))))
+     (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))) (exp (exp (cos (cos x)))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5327053620293432 Adjusted=0.6524411180215179 Hits=6
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (cos (+ -0.6011552886187101 0.6439126458304096))))
+     (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))) (exp (exp (cos (cos x)))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5327053620293432 Adjusted=0.6524411180215179 Hits=6
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (cos (+ -0.6011552886187101 0.6439126458304096))))
+     (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))) (exp (exp (cos (cos x)))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.4060029917143344 Adjusted=0.7112360399608422 Hits=6
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (cos (cos (exp (cos (cos (cos (exp (exp
+         -0.720206017646744)))))))))) (cos (cos (cos
+     (exp (+ -0.720206017646744 (% (exp (cos (cos
+         x))) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.36167792472557136 Adjusted=0.7343880530350354 Hits=9
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     x) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (exp (cos (cos x))) (cos (cos (cos (cos
+         x)))))))))))))) (exp (exp (cos (cos (cos
+     (exp (+ -0.720206017646744 (% (exp (cos (cos
+         x))) (cos (cos (cos (cos x)))))))))))))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.36167792472557136 Adjusted=0.7343880530350354 Hits=9
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     x) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (exp (cos (cos x))) (cos (cos (cos (cos
+         x)))))))))))))) (exp (exp (cos (cos (cos
+     (exp (+ -0.720206017646744 (% (exp (cos (cos
+         x))) (cos (cos (cos (cos x)))))))))))))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.36167792472557136 Adjusted=0.7343880530350354 Hits=9
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     x) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (exp (cos (cos x))) (cos (cos (cos (cos
+         x)))))))))))))) (exp (exp (cos (cos (cos
+     (exp (+ -0.720206017646744 (% (exp (cos (cos
+         x))) (cos (cos (cos (cos x)))))))))))))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.2900738559990388 Adjusted=0.7751494190428312 Hits=9
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (exp (cos (cos x))) (cos (cos (cos (cos
+         x)))))))))))))) (exp (exp (cos (cos (cos
+     (exp (+ -0.720206017646744 (% (exp (cos (cos
+         x))) (cos (cos (cos (cos x)))))))))))))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.2900738559990388 Adjusted=0.7751494190428312 Hits=9
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (exp (cos (cos x))) (cos (cos (cos (cos
+         x)))))))))))))) (exp (exp (cos (cos (cos
+     (exp (+ -0.720206017646744 (% (exp (cos (cos
+         x))) (cos (cos (cos (cos x)))))))))))))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.22017822224606454 Adjusted=0.8195524078107479 Hits=15
+Tree 0:
+ (% (cos (cos (+ -0.720206017646744 (% (cos
+     (cos (exp (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x))))))))))) (cos (cos (cos (exp (+ -0.720206017646744
+     (% (cos x) (cos (cos (cos (cos x))))))))))))))
+     (exp (exp (cos (cos (cos (exp (+ -0.720206017646744
+         (% (exp (cos (cos x))) (cos (cos (cos (cos
+             x)))))))))))))

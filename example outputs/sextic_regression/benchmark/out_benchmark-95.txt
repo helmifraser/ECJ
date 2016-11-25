@@ -1,0 +1,622 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.282250781755196 Adjusted=0.43816394236523665 Hits=1
+Tree 0:
+ (- x x)
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.213907187725848 Adjusted=0.45169011851269697 Hits=1
+Tree 0:
+ (+ (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+     (sin 0.20905551168188685))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7464170632330442 Adjusted=0.5726009102022606 Hits=4
+Tree 0:
+ (+ (* (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+     (exp -0.194827336800522)) (sin 0.20905551168188685))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7464170632330442 Adjusted=0.5726009102022606 Hits=4
+Tree 0:
+ (+ (* (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+     (exp -0.194827336800522)) (sin 0.20905551168188685))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7464170632330442 Adjusted=0.5726009102022606 Hits=4
+Tree 0:
+ (+ (* (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+     (exp -0.194827336800522)) (sin 0.20905551168188685))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7464170632330442 Adjusted=0.5726009102022606 Hits=4
+Tree 0:
+ (+ (* (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+     (exp -0.194827336800522)) (sin 0.20905551168188685))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7464170632330442 Adjusted=0.5726009102022606 Hits=4
+Tree 0:
+ (+ (* (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+     (exp -0.194827336800522)) (sin 0.20905551168188685))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7464170632330442 Adjusted=0.5726009102022606 Hits=4
+Tree 0:
+ (+ (* (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+     (exp -0.194827336800522)) (sin 0.20905551168188685))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7464170632330442 Adjusted=0.5726009102022606 Hits=4
+Tree 0:
+ (+ (* (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+     (exp -0.194827336800522)) (sin 0.20905551168188685))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7464170632330442 Adjusted=0.5726009102022606 Hits=4
+Tree 0:
+ (+ (* (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+     (exp -0.194827336800522)) (sin 0.20905551168188685))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7295757552148069 Adjusted=0.5781764672550025 Hits=0
+Tree 0:
+ (+ (* (* (* (rlog 0.7805266370054196) (exp
+     -0.194827336800522)) (exp -0.194827336800522))
+     (exp -0.194827336800522)) (sin 0.20905551168188685))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7295757552148068 Adjusted=0.5781764672550025 Hits=2
+Tree 0:
+ (* (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+     (rlog 0.7805266370054196))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7295757552148068 Adjusted=0.5781764672550025 Hits=2
+Tree 0:
+ (* (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+     (rlog 0.7805266370054196))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7068843623659353 Adjusted=0.5858627696453241 Hits=4
+Tree 0:
+ (+ (* (* (* (rlog 0.7805266370054196) (exp
+     (* (rlog 0.7805266370054196) (exp (* (- (*
+         (rlog 0.7805266370054196) (exp -0.194827336800522))
+         x) 0.20905551168188685))))) (exp -0.194827336800522))
+     (exp -0.194827336800522)) (sin 0.20905551168188685))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.7068843623659353 Adjusted=0.5858627696453241 Hits=4
+Tree 0:
+ (+ (* (* (* (rlog 0.7805266370054196) (exp
+     (* (rlog 0.7805266370054196) (exp (* (- (*
+         (rlog 0.7805266370054196) (exp -0.194827336800522))
+         x) 0.20905551168188685))))) (exp -0.194827336800522))
+     (exp -0.194827336800522)) (sin 0.20905551168188685))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6812113588940679 Adjusted=0.5948092098650931 Hits=1
+Tree 0:
+ (* (rlog 0.7805266370054196) (* (rlog 0.7805266370054196)
+     (exp (* (- (* (rlog 0.7805266370054196) (exp
+         -0.194827336800522)) x) 0.20905551168188685))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6603287466778385 Adjusted=0.6022903608703433 Hits=4
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+         x) x) 0.20905551168188685))) (exp -0.194827336800522))
+     (rlog 0.7805266370054196))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6359017206721271 Adjusted=0.611283665371499 Hits=7
+Tree 0:
+ (* (* (* (rlog (exp (* (rlog 0.7805266370054196)
+     (exp (* (- (* (rlog (* (rlog 0.7805266370054196)
+         (exp -0.194827336800522))) (* (* (rlog 0.7805266370054196)
+         (exp -0.194827336800522)) (exp -0.194827336800522)))
+         x) 0.20905551168188685))))) (exp (* (- (-
+     (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+     x) x) 0.20905551168188685))) (exp -0.194827336800522))
+     (rlog 0.7805266370054196))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6281156091806038 Adjusted=0.614206997562832 Hits=7
+Tree 0:
+ (* (* (* (rlog (exp (* (rlog 0.7805266370054196)
+     (exp (* (exp -0.194827336800522) 0.20905551168188685)))))
+     (exp (* (- (- (* (rlog 0.7805266370054196)
+         (exp -0.194827336800522)) x) x) 0.20905551168188685)))
+     (exp -0.194827336800522)) (rlog 0.7805266370054196))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6094770282751195 Adjusted=0.6213198339784336 Hits=6
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (rlog 0.7805266370054196)
+         (exp -0.194827336800522)) x) x) 0.20905551168188685)
+         (- (- (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+             x) x)) x) x) 0.20905551168188685))) (exp
+     -0.194827336800522)) (rlog 0.7805266370054196))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.6031174650346641 Adjusted=0.6237846083090218 Hits=6
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (rlog 0.7805266370054196)
+         (rlog 0.7805266370054196)) x) x) 0.20905551168188685)
+         (- (- (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+             x) x)) x) x) 0.20905551168188685))) (exp
+     -0.194827336800522)) (rlog 0.7805266370054196))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.594462306020793 Adjusted=0.627170674542719 Hits=7
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (rlog 0.7805266370054196)
+         (rlog 0.7805266370054196)) x) x) 0.20905551168188685)
+         (- (- (* (- (- (* (rlog 0.7805266370054196)
+             (exp -0.194827336800522)) x) x) 0.20905551168188685)
+             x) x)) x) x) 0.20905551168188685))) (exp
+     -0.194827336800522)) (rlog 0.7805266370054196))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.594462306020793 Adjusted=0.627170674542719 Hits=7
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (rlog 0.7805266370054196)
+         (rlog 0.7805266370054196)) x) x) 0.20905551168188685)
+         (- (- (* (- (- (* (rlog 0.7805266370054196)
+             (exp -0.194827336800522)) x) x) 0.20905551168188685)
+             x) x)) x) x) 0.20905551168188685))) (exp
+     -0.194827336800522)) (rlog 0.7805266370054196))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5940851962806529 Adjusted=0.6273190431309552 Hits=7
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (rlog 0.7805266370054196)
+         (rlog (exp -0.194827336800522))) x) x) 0.20905551168188685)
+         (- (- (* (exp -0.194827336800522) (- (* (rlog
+             0.7805266370054196) (exp -0.194827336800522))
+             x)) x) x)) x) x) 0.20905551168188685))) (exp
+     -0.194827336800522)) (rlog 0.7805266370054196))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5940851962806529 Adjusted=0.6273190431309552 Hits=7
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (rlog 0.7805266370054196)
+         (rlog (exp -0.194827336800522))) x) x) 0.20905551168188685)
+         (- (- (* (exp -0.194827336800522) (- (* (rlog
+             0.7805266370054196) (exp -0.194827336800522))
+             x)) x) x)) x) x) 0.20905551168188685))) (exp
+     -0.194827336800522)) (rlog 0.7805266370054196))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5940851962806529 Adjusted=0.6273190431309552 Hits=7
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (rlog 0.7805266370054196)
+         (rlog (exp -0.194827336800522))) x) x) 0.20905551168188685)
+         (- (- (* (exp -0.194827336800522) (- (* (rlog
+             0.7805266370054196) (exp -0.194827336800522))
+             x)) x) x)) x) x) 0.20905551168188685))) (exp
+     -0.194827336800522)) (rlog 0.7805266370054196))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5939027673235522 Adjusted=0.6273908424659923 Hits=7
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- 0.20905551168188685 x)
+         x) 0.20905551168188685) (- (- (* (- (- (*
+         (rlog 0.7805266370054196) (exp -0.194827336800522))
+         x) x) 0.20905551168188685) x) x)) x) x) 0.20905551168188685)))
+     (exp -0.194827336800522)) (rlog 0.7805266370054196))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5926619652916169 Adjusted=0.6278796265577296 Hits=7
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- 0.20905551168188685 x)
+         x) 0.20905551168188685) (- (- (* (- (- (*
+         (rlog 0.7805266370054196) (exp -0.194827336800522))
+         x) x) 0.20905551168188685) x) x)) x) x) 0.20905551168188685)))
+     0.7805266370054196) (rlog 0.7805266370054196))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5883443949229457 Adjusted=0.6295863813896057 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- 0.20905551168188685 x)
+         x) 0.20905551168188685) (- (- (* (- (- (*
+         (exp -0.194827336800522) (exp -0.194827336800522))
+         x) x) 0.20905551168188685) x) x)) x) x) 0.20905551168188685)))
+     0.7805266370054196) (rlog 0.7805266370054196))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5876806054443158 Adjusted=0.6298496036110159 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- 0.20905551168188685 x)
+         x) 0.20905551168188685) (- (- (* (- (- (exp
+         -0.194827336800522) x) x) 0.20905551168188685)
+         x) x)) x) x) 0.20905551168188685))) 0.7805266370054196)
+     (rlog 0.7805266370054196))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5821605339846565 Adjusted=0.6320471143857377 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (exp -0.194827336800522)
+         (- (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+             x)) x) x) 0.20905551168188685) (- (- (* (-
+         (- (exp -0.194827336800522) x) x) 0.20905551168188685)
+         x) x)) x) x) 0.20905551168188685))) 0.7805266370054196)
+     (rlog 0.7805266370054196))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5821605339846565 Adjusted=0.6320471143857377 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (exp -0.194827336800522)
+         (- (* (rlog 0.7805266370054196) (exp -0.194827336800522))
+             x)) x) x) 0.20905551168188685) (- (- (* (-
+         (- (exp -0.194827336800522) x) x) 0.20905551168188685)
+         x) x)) x) x) 0.20905551168188685))) 0.7805266370054196)
+     (rlog 0.7805266370054196))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.576555887786181 Adjusted=0.6342940378753158 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (exp -0.194827336800522)
+         x) x) 0.20905551168188685) x) x) 0.20905551168188685)
+         (- (- (* (exp -0.194827336800522) (- (* (rlog
+             x) (exp -0.194827336800522)) x)) x) x)) x)
+         x) 0.20905551168188685))) (exp (rlog 0.7805266370054196)))
+     (rlog 0.7805266370054196))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.576555887786181 Adjusted=0.6342940378753158 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (exp -0.194827336800522)
+         x) x) 0.20905551168188685) x) x) 0.20905551168188685)
+         (- (- (* (exp -0.194827336800522) (- (* (rlog
+             x) (exp -0.194827336800522)) x)) x) x)) x)
+         x) 0.20905551168188685))) (exp (rlog 0.7805266370054196)))
+     (rlog 0.7805266370054196))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.576555887786181 Adjusted=0.6342940378753158 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (exp -0.194827336800522)
+         x) x) 0.20905551168188685) x) x) 0.20905551168188685)
+         (- (- (* (exp -0.194827336800522) (- (* (rlog
+             x) (exp -0.194827336800522)) x)) x) x)) x)
+         x) 0.20905551168188685))) (exp (rlog 0.7805266370054196)))
+     (rlog 0.7805266370054196))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.576555887786181 Adjusted=0.6342940378753158 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (exp -0.194827336800522)
+         x) x) 0.20905551168188685) x) x) 0.20905551168188685)
+         (- (- (* (exp -0.194827336800522) (- (* (rlog
+             x) (exp -0.194827336800522)) x)) x) x)) x)
+         x) 0.20905551168188685))) (exp (rlog 0.7805266370054196)))
+     (rlog 0.7805266370054196))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.573278791168308 Adjusted=0.6356152549780485 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- 0.7805266370054196 x) x)
+         0.20905551168188685) (- (- (* (exp -0.194827336800522)
+         (- (* (rlog x) (exp -0.194827336800522))
+             x)) x) x)) x) x) 0.20905551168188685))) (exp
+     (rlog 0.7805266370054196))) (rlog 0.7805266370054196))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.573278791168308 Adjusted=0.6356152549780485 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- 0.7805266370054196 x) x)
+         0.20905551168188685) (- (- (* (exp -0.194827336800522)
+         (- (* (rlog x) (exp -0.194827336800522))
+             x)) x) x)) x) x) 0.20905551168188685))) (exp
+     (rlog 0.7805266370054196))) (rlog 0.7805266370054196))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5673059519247916 Adjusted=0.638037518310902 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (exp -0.194827336800522)
+         (rlog x)) x) 0.20905551168188685) x) x) 0.20905551168188685)
+         (- (- (* (exp -0.194827336800522) (- (rlog
+             x) x)) x) x)) x) x) 0.20905551168188685)))
+     (exp (rlog 0.7805266370054196))) (rlog 0.7805266370054196))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5673059519247916 Adjusted=0.638037518310902 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (exp -0.194827336800522)
+         (rlog x)) x) 0.20905551168188685) x) x) 0.20905551168188685)
+         (- (- (* (exp -0.194827336800522) (- (rlog
+             x) x)) x) x)) x) x) 0.20905551168188685)))
+     (exp (rlog 0.7805266370054196))) (rlog 0.7805266370054196))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5673059519247916 Adjusted=0.638037518310902 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (exp -0.194827336800522)
+         (rlog x)) x) 0.20905551168188685) x) x) 0.20905551168188685)
+         (- (- (* (exp -0.194827336800522) (- (rlog
+             x) x)) x) x)) x) x) 0.20905551168188685)))
+     (exp (rlog 0.7805266370054196))) (rlog 0.7805266370054196))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5673059519247916 Adjusted=0.638037518310902 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (exp -0.194827336800522)
+         (rlog x)) x) 0.20905551168188685) x) x) 0.20905551168188685)
+         (- (- (* (exp -0.194827336800522) (- (rlog
+             x) x)) x) x)) x) x) 0.20905551168188685)))
+     (exp (rlog 0.7805266370054196))) (rlog 0.7805266370054196))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5673059519247916 Adjusted=0.638037518310902 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (exp -0.194827336800522)
+         (rlog x)) x) 0.20905551168188685) x) x) 0.20905551168188685)
+         (- (- (* (exp -0.194827336800522) (- (rlog
+             x) x)) x) x)) x) x) 0.20905551168188685)))
+     (exp (rlog 0.7805266370054196))) (rlog 0.7805266370054196))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5615966061867226 Adjusted=0.6403702441707461 Hits=8
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (exp -0.194827336800522)
+         (rlog x)) x) 0.20905551168188685) (- (- (*
+         (exp -0.194827336800522) (- (rlog x) x))
+         x) x)) x) x) 0.20905551168188685))) (exp
+     (rlog 0.7805266370054196))) (rlog 0.7805266370054196))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.5261770490370516 Adjusted=0.6552319736631832 Hits=7
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (exp -0.194827336800522)
+         (rlog x)) x) 0.20905551168188685) x) x) 0.20905551168188685)
+         (- (- (* (exp (- (- (exp -0.194827336800522)
+             (rlog x)) x)) (- (rlog x) x)) x) x)) x) x)
+     0.20905551168188685))) (exp (rlog 0.7805266370054196)))
+     (rlog 0.7805266370054196))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.4782131791978279 Adjusted=0.6764924126455586 Hits=10
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (exp -0.194827336800522)
+         (rlog x)) x) 0.20905551168188685) x) x) 0.20905551168188685)
+         (- (- (* (exp (- (- (rlog 0.7805266370054196)
+             (rlog x)) x)) (- (rlog x) x)) x) x)) x) x)
+     0.20905551168188685))) (exp (rlog 0.7805266370054196)))
+     (rlog 0.7805266370054196))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.4782131791978279 Adjusted=0.6764924126455586 Hits=10
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (exp -0.194827336800522)
+         (rlog x)) x) 0.20905551168188685) x) x) 0.20905551168188685)
+         (- (- (* (exp (- (- (rlog 0.7805266370054196)
+             (rlog x)) x)) (- (rlog x) x)) x) x)) x) x)
+     0.20905551168188685))) (exp (rlog 0.7805266370054196)))
+     (rlog 0.7805266370054196))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.4724353693249376 Adjusted=0.6791469566901714 Hits=9
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (- (exp -0.194827336800522)
+         (rlog x)) (rlog x)) x) 0.20905551168188685)
+         x) x) 0.20905551168188685) (- (- (- (* (exp
+         (- (- (rlog 0.7805266370054196) (rlog x))
+             x)) (- (rlog x) x)) x) x) x)) x) x) 0.20905551168188685)))
+     (exp (rlog 0.7805266370054196))) (rlog 0.7805266370054196))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.4724353693249376 Adjusted=0.6791469566901714 Hits=9
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (- (exp -0.194827336800522)
+         (rlog x)) (rlog x)) x) 0.20905551168188685)
+         x) x) 0.20905551168188685) (- (- (- (* (exp
+         (- (- (rlog 0.7805266370054196) (rlog x))
+             x)) (- (rlog x) x)) x) x) x)) x) x) 0.20905551168188685)))
+     (exp (rlog 0.7805266370054196))) (rlog 0.7805266370054196))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.4574546995613545 Adjusted=0.6861276719619257 Hits=12
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (- (exp -0.194827336800522)
+         (rlog x)) (rlog x)) x) 0.20905551168188685)
+         x) x) 0.20905551168188685) (- (- (* (exp
+         (- (- (rlog 0.7805266370054196) (rlog x))
+             x)) (- (rlog x) x)) x) x)) x) x) 0.20905551168188685)))
+     (exp (rlog 0.7805266370054196))) (rlog 0.7805266370054196))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.4574546995613545 Adjusted=0.6861276719619257 Hits=12
+Tree 0:
+ (* (* (* (rlog 0.7805266370054196) (exp (*
+     (- (- (* (* (- (- (* (- (- (- (exp -0.194827336800522)
+         (rlog x)) (rlog x)) x) 0.20905551168188685)
+         x) x) 0.20905551168188685) (- (- (* (exp
+         (- (- (rlog 0.7805266370054196) (rlog x))
+             x)) (- (rlog x) x)) x) x)) x) x) 0.20905551168188685)))
+     (exp (rlog 0.7805266370054196))) (rlog 0.7805266370054196))

@@ -1,0 +1,451 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1522085219281635 Adjusted=0.46463899283518306 Hits=1
+Tree 0:
+ 0.11566831857256332
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1522085219281635 Adjusted=0.46463899283518306 Hits=1
+Tree 0:
+ 0.11566831857256332
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.149125812877651 Adjusted=0.46530547165175645 Hits=1
+Tree 0:
+ (sin (sin 0.11566831857256332))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.149125812877651 Adjusted=0.46530547165175645 Hits=1
+Tree 0:
+ (sin (sin 0.11566831857256332))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1475998106435465 Adjusted=0.46563609991208815 Hits=1
+Tree 0:
+ (sin (sin (sin 0.11566831857256332)))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1460838927800305 Adjusted=0.46596500880708963 Hits=1
+Tree 0:
+ (sin (sin (sin (sin 0.11566831857256332))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1401188763075607 Adjusted=0.46726376327531066 Hits=1
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.132876707948389 Adjusted=0.4688503542063144 Hits=1
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin 0.11566831857256332)))))))))))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=1.1286407978912498 Adjusted=0.46978334766046753 Hits=2
+Tree 0:
+ (sin (sin (sin (sin (sin (sin (sin (sin (sin
+     (sin (sin (sin (sin (sin (sin (sin 0.11566831857256332))))))))))))))))

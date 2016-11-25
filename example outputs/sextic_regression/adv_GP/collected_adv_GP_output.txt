@@ -1,0 +1,1001 @@
+Results over 200 runs 
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-0.txt:136:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-0.txt:137:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-0.txt:138:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-0.txt:139:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-1.txt:50:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-1.txt:51:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-1.txt:52:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-1.txt:53:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-2.txt:66:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-2.txt:67:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-2.txt:68:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-2.txt:69:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-3.txt:120:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-3.txt:121:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-3.txt:122:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-3.txt:123:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-4.txt:32:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-4.txt:33:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-4.txt:34:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-4.txt:35:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-5.txt:62:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-5.txt:63:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-5.txt:64:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-5.txt:65:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-6.txt:70:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-6.txt:71:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-6.txt:72:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-6.txt:73:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-7.txt:43:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-7.txt:44:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-7.txt:45:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-7.txt:46:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-8.txt:19:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-8.txt:20:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-8.txt:21:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-8.txt:22:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-9.txt:12:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-9.txt:13:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-9.txt:14:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-9.txt:15:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-10.txt:96:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-10.txt:97:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-10.txt:98:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-10.txt:99:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-11.txt:29:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-11.txt:30:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-11.txt:31:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-11.txt:32:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-12.txt:45:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-12.txt:46:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-12.txt:47:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-12.txt:48:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-13.txt:67:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-13.txt:68:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-13.txt:69:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-13.txt:70:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-14.txt:49:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-14.txt:50:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-14.txt:51:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-14.txt:52:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-15.txt:38:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-15.txt:39:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-15.txt:40:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-15.txt:41:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-16.txt:187:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-16.txt:188:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-16.txt:189:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-16.txt:190:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-17.txt:35:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-17.txt:36:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-17.txt:37:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-17.txt:38:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-18.txt:60:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-18.txt:61:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-18.txt:62:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-18.txt:63:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-19.txt:50:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-19.txt:51:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-19.txt:52:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-19.txt:53:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-20.txt:49:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-20.txt:50:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-20.txt:51:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-20.txt:52:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-21.txt:48:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-21.txt:49:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-21.txt:50:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-21.txt:51:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-22.txt:68:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-22.txt:69:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-22.txt:70:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-22.txt:71:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-23.txt:57:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-23.txt:58:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-23.txt:59:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-23.txt:60:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-24.txt:41:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-24.txt:42:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-24.txt:43:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-24.txt:44:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-25.txt:51:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-25.txt:52:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-25.txt:53:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-25.txt:54:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-26.txt:76:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-26.txt:77:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-26.txt:78:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-26.txt:79:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-27.txt:40:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-27.txt:41:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-27.txt:42:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-27.txt:43:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-28.txt:57:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-28.txt:58:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-28.txt:59:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-28.txt:60:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-29.txt:57:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-29.txt:58:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-29.txt:59:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-29.txt:60:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-30.txt:47:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-30.txt:48:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-30.txt:49:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-30.txt:50:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-31.txt:56:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-31.txt:57:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-31.txt:58:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-31.txt:59:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-32.txt:62:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-32.txt:63:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-32.txt:64:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-32.txt:65:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-33.txt:50:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-33.txt:51:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-33.txt:52:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-33.txt:53:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-34.txt:55:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-34.txt:56:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-34.txt:57:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-34.txt:58:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-35.txt:814:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-35.txt:815:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-35.txt:816:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-35.txt:817:Fitness: Standardized=0.044300711557669015 Adjusted=0.957578587214031 Hits=18
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-36.txt:39:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-36.txt:40:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-36.txt:41:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-36.txt:42:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-37.txt:834:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-37.txt:835:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-37.txt:836:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-37.txt:837:Fitness: Standardized=0.016008484979914507 Adjusted=0.9842437487318514 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-38.txt:49:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-38.txt:50:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-38.txt:51:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-38.txt:52:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-39.txt:61:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-39.txt:62:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-39.txt:63:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-39.txt:64:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-40.txt:62:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-40.txt:63:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-40.txt:64:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-40.txt:65:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-41.txt:52:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-41.txt:53:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-41.txt:54:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-41.txt:55:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-42.txt:65:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-42.txt:66:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-42.txt:67:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-42.txt:68:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-43.txt:79:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-43.txt:80:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-43.txt:81:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-43.txt:82:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-44.txt:71:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-44.txt:72:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-44.txt:73:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-44.txt:74:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-45.txt:12:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-45.txt:13:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-45.txt:14:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-45.txt:15:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-46.txt:49:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-46.txt:50:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-46.txt:51:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-46.txt:52:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-47.txt:29:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-47.txt:30:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-47.txt:31:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-47.txt:32:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-48.txt:58:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-48.txt:59:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-48.txt:60:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-48.txt:61:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-49.txt:35:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-49.txt:36:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-49.txt:37:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-49.txt:38:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-50.txt:25:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-50.txt:26:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-50.txt:27:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-50.txt:28:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-51.txt:47:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-51.txt:48:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-51.txt:49:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-51.txt:50:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-52.txt:56:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-52.txt:57:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-52.txt:58:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-52.txt:59:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-53.txt:73:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-53.txt:74:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-53.txt:75:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-53.txt:76:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-54.txt:14:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-54.txt:15:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-54.txt:16:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-54.txt:17:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-55.txt:127:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-55.txt:128:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-55.txt:129:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-55.txt:130:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-56.txt:85:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-56.txt:86:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-56.txt:87:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-56.txt:88:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-57.txt:49:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-57.txt:50:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-57.txt:51:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-57.txt:52:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-58.txt:46:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-58.txt:47:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-58.txt:48:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-58.txt:49:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-59.txt:71:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-59.txt:72:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-59.txt:73:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-59.txt:74:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-60.txt:31:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-60.txt:32:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-60.txt:33:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-60.txt:34:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-61.txt:62:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-61.txt:63:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-61.txt:64:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-61.txt:65:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-62.txt:55:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-62.txt:56:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-62.txt:57:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-62.txt:58:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-63.txt:64:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-63.txt:65:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-63.txt:66:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-63.txt:67:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-64.txt:80:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-64.txt:81:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-64.txt:82:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-64.txt:83:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-65.txt:50:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-65.txt:51:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-65.txt:52:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-65.txt:53:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-66.txt:57:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-66.txt:58:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-66.txt:59:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-66.txt:60:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-67.txt:53:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-67.txt:54:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-67.txt:55:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-67.txt:56:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-68.txt:23:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-68.txt:24:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-68.txt:25:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-68.txt:26:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-69.txt:49:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-69.txt:50:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-69.txt:51:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-69.txt:52:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-70.txt:55:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-70.txt:56:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-70.txt:57:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-70.txt:58:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-71.txt:49:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-71.txt:50:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-71.txt:51:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-71.txt:52:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-72.txt:47:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-72.txt:48:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-72.txt:49:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-72.txt:50:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-73.txt:49:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-73.txt:50:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-73.txt:51:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-73.txt:52:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-74.txt:65:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-74.txt:66:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-74.txt:67:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-74.txt:68:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-75.txt:71:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-75.txt:72:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-75.txt:73:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-75.txt:74:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-76.txt:41:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-76.txt:42:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-76.txt:43:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-76.txt:44:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-77.txt:73:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-77.txt:74:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-77.txt:75:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-77.txt:76:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-78.txt:52:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-78.txt:53:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-78.txt:54:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-78.txt:55:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-79.txt:51:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-79.txt:52:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-79.txt:53:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-79.txt:54:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-80.txt:57:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-80.txt:58:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-80.txt:59:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-80.txt:60:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-81.txt:48:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-81.txt:49:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-81.txt:50:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-81.txt:51:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-82.txt:43:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-82.txt:44:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-82.txt:45:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-82.txt:46:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-83.txt:120:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-83.txt:121:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-83.txt:122:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-83.txt:123:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-84.txt:60:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-84.txt:61:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-84.txt:62:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-84.txt:63:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-85.txt:53:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-85.txt:54:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-85.txt:55:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-85.txt:56:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-86.txt:56:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-86.txt:57:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-86.txt:58:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-86.txt:59:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-87.txt:35:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-87.txt:36:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-87.txt:37:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-87.txt:38:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-88.txt:62:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-88.txt:63:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-88.txt:64:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-88.txt:65:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-89.txt:49:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-89.txt:50:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-89.txt:51:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-89.txt:52:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-90.txt:58:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-90.txt:59:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-90.txt:60:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-90.txt:61:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-91.txt:61:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-91.txt:62:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-91.txt:63:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-91.txt:64:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-92.txt:66:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-92.txt:67:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-92.txt:68:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-92.txt:69:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-93.txt:64:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-93.txt:65:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-93.txt:66:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-93.txt:67:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-94.txt:69:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-94.txt:70:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-94.txt:71:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-94.txt:72:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-95.txt:47:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-95.txt:48:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-95.txt:49:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-95.txt:50:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-96.txt:33:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-96.txt:34:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-96.txt:35:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-96.txt:36:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-97.txt:14:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-97.txt:15:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-97.txt:16:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-97.txt:17:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-98.txt:53:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-98.txt:54:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-98.txt:55:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-98.txt:56:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-99.txt:177:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-99.txt:178:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-99.txt:179:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-99.txt:180:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-100.txt:65:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-100.txt:66:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-100.txt:67:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-100.txt:68:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-101.txt:67:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-101.txt:68:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-101.txt:69:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-101.txt:70:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-102.txt:24:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-102.txt:25:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-102.txt:26:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-102.txt:27:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-103.txt:52:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-103.txt:53:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-103.txt:54:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-103.txt:55:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-104.txt:74:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-104.txt:75:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-104.txt:76:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-104.txt:77:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-105.txt:50:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-105.txt:51:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-105.txt:52:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-105.txt:53:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-106.txt:14:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-106.txt:15:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-106.txt:16:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-106.txt:17:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-107.txt:32:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-107.txt:33:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-107.txt:34:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-107.txt:35:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-108.txt:47:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-108.txt:48:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-108.txt:49:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-108.txt:50:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-109.txt:87:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-109.txt:88:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-109.txt:89:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-109.txt:90:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-110.txt:43:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-110.txt:44:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-110.txt:45:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-110.txt:46:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-111.txt:58:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-111.txt:59:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-111.txt:60:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-111.txt:61:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-112.txt:43:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-112.txt:44:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-112.txt:45:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-112.txt:46:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-113.txt:72:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-113.txt:73:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-113.txt:74:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-113.txt:75:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-114.txt:108:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-114.txt:109:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-114.txt:110:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-114.txt:111:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-115.txt:32:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-115.txt:33:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-115.txt:34:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-115.txt:35:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-116.txt:31:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-116.txt:32:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-116.txt:33:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-116.txt:34:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-117.txt:81:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-117.txt:82:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-117.txt:83:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-117.txt:84:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-118.txt:46:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-118.txt:47:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-118.txt:48:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-118.txt:49:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-119.txt:53:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-119.txt:54:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-119.txt:55:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-119.txt:56:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-120.txt:54:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-120.txt:55:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-120.txt:56:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-120.txt:57:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-121.txt:208:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-121.txt:209:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-121.txt:210:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-121.txt:211:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-122.txt:41:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-122.txt:42:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-122.txt:43:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-122.txt:44:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-123.txt:60:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-123.txt:61:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-123.txt:62:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-123.txt:63:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-124.txt:187:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-124.txt:188:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-124.txt:189:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-124.txt:190:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-125.txt:24:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-125.txt:25:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-125.txt:26:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-125.txt:27:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-126.txt:58:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-126.txt:59:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-126.txt:60:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-126.txt:61:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-127.txt:80:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-127.txt:81:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-127.txt:82:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-127.txt:83:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-128.txt:56:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-128.txt:57:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-128.txt:58:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-128.txt:59:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-129.txt:34:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-129.txt:35:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-129.txt:36:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-129.txt:37:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-130.txt:58:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-130.txt:59:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-130.txt:60:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-130.txt:61:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-131.txt:82:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-131.txt:83:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-131.txt:84:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-131.txt:85:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-132.txt:63:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-132.txt:64:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-132.txt:65:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-132.txt:66:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-133.txt:970:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-133.txt:971:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-133.txt:972:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-133.txt:973:Fitness: Standardized=0.006165553079613635 Adjusted=0.9938722280237656 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-134.txt:30:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-134.txt:31:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-134.txt:32:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-134.txt:33:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-135.txt:55:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-135.txt:56:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-135.txt:57:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-135.txt:58:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-136.txt:41:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-136.txt:42:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-136.txt:43:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-136.txt:44:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-137.txt:72:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-137.txt:73:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-137.txt:74:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-137.txt:75:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-138.txt:48:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-138.txt:49:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-138.txt:50:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-138.txt:51:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-139.txt:54:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-139.txt:55:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-139.txt:56:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-139.txt:57:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-140.txt:62:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-140.txt:63:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-140.txt:64:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-140.txt:65:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-141.txt:914:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-141.txt:915:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-141.txt:916:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-141.txt:917:Fitness: Standardized=0.009663149657546648 Adjusted=0.9904293331287528 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-142.txt:62:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-142.txt:63:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-142.txt:64:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-142.txt:65:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-143.txt:69:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-143.txt:70:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-143.txt:71:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-143.txt:72:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-144.txt:61:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-144.txt:62:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-144.txt:63:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-144.txt:64:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-145.txt:35:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-145.txt:36:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-145.txt:37:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-145.txt:38:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-146.txt:12:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-146.txt:13:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-146.txt:14:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-146.txt:15:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-147.txt:76:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-147.txt:77:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-147.txt:78:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-147.txt:79:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-148.txt:1038:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-148.txt:1039:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-148.txt:1040:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-148.txt:1041:Fitness: Standardized=0.036330056879959695 Adjusted=0.9649435460847897 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-149.txt:71:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-149.txt:72:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-149.txt:73:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-149.txt:74:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-150.txt:42:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-150.txt:43:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-150.txt:44:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-150.txt:45:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-151.txt:54:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-151.txt:55:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-151.txt:56:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-151.txt:57:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-152.txt:87:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-152.txt:88:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-152.txt:89:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-152.txt:90:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-153.txt:62:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-153.txt:63:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-153.txt:64:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-153.txt:65:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-154.txt:34:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-154.txt:35:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-154.txt:36:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-154.txt:37:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-155.txt:53:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-155.txt:54:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-155.txt:55:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-155.txt:56:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-156.txt:114:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-156.txt:115:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-156.txt:116:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-156.txt:117:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-157.txt:53:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-157.txt:54:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-157.txt:55:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-157.txt:56:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-158.txt:43:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-158.txt:44:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-158.txt:45:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-158.txt:46:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-159.txt:12:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-159.txt:13:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-159.txt:14:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-159.txt:15:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-160.txt:57:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-160.txt:58:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-160.txt:59:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-160.txt:60:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-161.txt:73:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-161.txt:74:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-161.txt:75:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-161.txt:76:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-162.txt:53:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-162.txt:54:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-162.txt:55:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-162.txt:56:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-163.txt:35:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-163.txt:36:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-163.txt:37:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-163.txt:38:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-164.txt:24:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-164.txt:25:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-164.txt:26:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-164.txt:27:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-165.txt:47:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-165.txt:48:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-165.txt:49:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-165.txt:50:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-166.txt:67:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-166.txt:68:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-166.txt:69:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-166.txt:70:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-167.txt:77:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-167.txt:78:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-167.txt:79:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-167.txt:80:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-168.txt:64:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-168.txt:65:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-168.txt:66:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-168.txt:67:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-169.txt:50:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-169.txt:51:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-169.txt:52:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-169.txt:53:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-170.txt:12:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-170.txt:13:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-170.txt:14:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-170.txt:15:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-171.txt:42:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-171.txt:43:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-171.txt:44:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-171.txt:45:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-172.txt:55:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-172.txt:56:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-172.txt:57:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-172.txt:58:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-173.txt:1019:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-173.txt:1020:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-173.txt:1021:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-173.txt:1022:Fitness: Standardized=0.029796961660970157 Adjusted=0.9710652072492909 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-174.txt:48:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-174.txt:49:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-174.txt:50:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-174.txt:51:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-175.txt:50:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-175.txt:51:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-175.txt:52:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-175.txt:53:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-176.txt:93:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-176.txt:94:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-176.txt:95:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-176.txt:96:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-177.txt:58:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-177.txt:59:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-177.txt:60:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-177.txt:61:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-178.txt:57:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-178.txt:58:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-178.txt:59:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-178.txt:60:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-179.txt:84:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-179.txt:85:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-179.txt:86:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-179.txt:87:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-180.txt:55:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-180.txt:56:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-180.txt:57:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-180.txt:58:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-181.txt:22:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-181.txt:23:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-181.txt:24:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-181.txt:25:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-182.txt:126:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-182.txt:127:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-182.txt:128:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-182.txt:129:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-183.txt:40:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-183.txt:41:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-183.txt:42:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-183.txt:43:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-184.txt:32:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-184.txt:33:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-184.txt:34:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-184.txt:35:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-185.txt:12:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-185.txt:13:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-185.txt:14:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-185.txt:15:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-186.txt:51:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-186.txt:52:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-186.txt:53:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-186.txt:54:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-187.txt:33:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-187.txt:34:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-187.txt:35:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-187.txt:36:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-188.txt:58:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-188.txt:59:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-188.txt:60:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-188.txt:61:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-189.txt:29:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-189.txt:30:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-189.txt:31:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-189.txt:32:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-190.txt:14:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-190.txt:15:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-190.txt:16:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-190.txt:17:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-191.txt:61:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-191.txt:62:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-191.txt:63:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-191.txt:64:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-192.txt:54:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-192.txt:55:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-192.txt:56:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-192.txt:57:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-193.txt:29:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-193.txt:30:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-193.txt:31:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-193.txt:32:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-194.txt:24:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-194.txt:25:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-194.txt:26:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-194.txt:27:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-195.txt:69:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-195.txt:70:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-195.txt:71:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-195.txt:72:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-196.txt:21:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-196.txt:22:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-196.txt:23:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-196.txt:24:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-197.txt:45:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-197.txt:46:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-197.txt:47:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-197.txt:48:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-198.txt:104:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-198.txt:105:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-198.txt:106:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-198.txt:107:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-199.txt:61:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-199.txt:62:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-199.txt:63:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\sextic_regression\adv_GP\out_adv_GP-199.txt:64:Fitness: Standardized=0.0 Adjusted=1.0 Hits=20

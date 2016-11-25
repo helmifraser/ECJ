@@ -1,0 +1,1001 @@
+Results over 200 runs 
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-0.txt:2587:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-0.txt:2588:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-0.txt:2589:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-0.txt:2590:Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-1.txt:1717:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-1.txt:1718:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-1.txt:1719:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-1.txt:1720:Fitness: Standardized=52.0 Adjusted=0.018867924528301886 Hits=37
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-2.txt:1977:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-2.txt:1978:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-2.txt:1979:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-2.txt:1980:Fitness: Standardized=50.0 Adjusted=0.0196078431372549 Hits=39
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-3.txt:1066:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-3.txt:1067:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-3.txt:1068:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-3.txt:1069:Fitness: Standardized=36.0 Adjusted=0.02702702702702703 Hits=53
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-4.txt:1025:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-4.txt:1026:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-4.txt:1027:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-4.txt:1028:Fitness: Standardized=40.0 Adjusted=0.024390243902439025 Hits=49
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-5.txt:1677:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-5.txt:1678:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-5.txt:1679:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-5.txt:1680:Fitness: Standardized=42.0 Adjusted=0.023255813953488372 Hits=47
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-6.txt:1961:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-6.txt:1962:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-6.txt:1963:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-6.txt:1964:Fitness: Standardized=57.0 Adjusted=0.017241379310344827 Hits=32
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-7.txt:1262:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-7.txt:1263:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-7.txt:1264:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-7.txt:1265:Fitness: Standardized=45.0 Adjusted=0.021739130434782608 Hits=44
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-8.txt:2298:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-8.txt:2299:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-8.txt:2300:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-8.txt:2301:Fitness: Standardized=27.0 Adjusted=0.03571428571428571 Hits=62
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-9.txt:1438:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-9.txt:1439:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-9.txt:1440:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-9.txt:1441:Fitness: Standardized=9.0 Adjusted=0.1 Hits=80
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-10.txt:1502:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-10.txt:1503:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-10.txt:1504:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-10.txt:1505:Fitness: Standardized=44.0 Adjusted=0.022222222222222223 Hits=45
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-11.txt:3424:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-11.txt:3425:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-11.txt:3426:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-11.txt:3427:Fitness: Standardized=46.0 Adjusted=0.02127659574468085 Hits=43
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-12.txt:2239:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-12.txt:2240:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-12.txt:2241:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-12.txt:2242:Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-13.txt:4160:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-13.txt:4161:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-13.txt:4162:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-13.txt:4163:Fitness: Standardized=51.0 Adjusted=0.019230769230769232 Hits=38
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-14.txt:1966:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-14.txt:1967:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-14.txt:1968:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-14.txt:1969:Fitness: Standardized=44.0 Adjusted=0.022222222222222223 Hits=45
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-15.txt:2241:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-15.txt:2242:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-15.txt:2243:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-15.txt:2244:Fitness: Standardized=30.0 Adjusted=0.03225806451612903 Hits=59
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-16.txt:1627:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-16.txt:1628:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-16.txt:1629:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-16.txt:1630:Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-17.txt:1008:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-17.txt:1009:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-17.txt:1010:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-17.txt:1011:Fitness: Standardized=35.0 Adjusted=0.027777777777777776 Hits=54
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-18.txt:1392:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-18.txt:1393:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-18.txt:1394:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-18.txt:1395:Fitness: Standardized=24.0 Adjusted=0.04 Hits=65
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-19.txt:2632:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-19.txt:2633:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-19.txt:2634:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-19.txt:2635:Fitness: Standardized=52.0 Adjusted=0.018867924528301886 Hits=37
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-20.txt:3281:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-20.txt:3282:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-20.txt:3283:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-20.txt:3284:Fitness: Standardized=44.0 Adjusted=0.022222222222222223 Hits=45
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-21.txt:3578:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-21.txt:3579:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-21.txt:3580:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-21.txt:3581:Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-22.txt:1070:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-22.txt:1071:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-22.txt:1072:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-22.txt:1073:Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-23.txt:1243:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-23.txt:1244:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-23.txt:1245:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-23.txt:1246:Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-24.txt:3661:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-24.txt:3662:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-24.txt:3663:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-24.txt:3664:Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-25.txt:1071:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-25.txt:1072:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-25.txt:1073:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-25.txt:1074:Fitness: Standardized=33.0 Adjusted=0.029411764705882353 Hits=56
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-26.txt:1330:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-26.txt:1331:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-26.txt:1332:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-26.txt:1333:Fitness: Standardized=25.0 Adjusted=0.038461538461538464 Hits=64
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-27.txt:5597:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-27.txt:5598:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-27.txt:5599:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-27.txt:5600:Fitness: Standardized=61.0 Adjusted=0.016129032258064516 Hits=28
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-28.txt:2944:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-28.txt:2945:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-28.txt:2946:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-28.txt:2947:Fitness: Standardized=50.0 Adjusted=0.0196078431372549 Hits=39
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-29.txt:2715:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-29.txt:2716:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-29.txt:2717:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-29.txt:2718:Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-30.txt:1066:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-30.txt:1067:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-30.txt:1068:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-30.txt:1069:Fitness: Standardized=24.0 Adjusted=0.04 Hits=65
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-31.txt:2099:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-31.txt:2100:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-31.txt:2101:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-31.txt:2102:Fitness: Standardized=47.0 Adjusted=0.020833333333333332 Hits=42
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-32.txt:3245:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-32.txt:3246:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-32.txt:3247:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-32.txt:3248:Fitness: Standardized=51.0 Adjusted=0.019230769230769232 Hits=38
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-33.txt:1141:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-33.txt:1142:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-33.txt:1143:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-33.txt:1144:Fitness: Standardized=34.0 Adjusted=0.02857142857142857 Hits=55
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-34.txt:1482:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-34.txt:1483:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-34.txt:1484:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-34.txt:1485:Fitness: Standardized=40.0 Adjusted=0.024390243902439025 Hits=49
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-35.txt:3708:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-35.txt:3709:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-35.txt:3710:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-35.txt:3711:Fitness: Standardized=50.0 Adjusted=0.0196078431372549 Hits=39
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-36.txt:3841:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-36.txt:3842:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-36.txt:3843:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-36.txt:3844:Fitness: Standardized=32.0 Adjusted=0.030303030303030304 Hits=57
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-37.txt:4050:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-37.txt:4051:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-37.txt:4052:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-37.txt:4053:Fitness: Standardized=55.0 Adjusted=0.017857142857142856 Hits=34
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-38.txt:2465:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-38.txt:2466:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-38.txt:2467:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-38.txt:2468:Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-39.txt:2282:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-39.txt:2283:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-39.txt:2284:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-39.txt:2285:Fitness: Standardized=42.0 Adjusted=0.023255813953488372 Hits=47
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-40.txt:1025:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-40.txt:1026:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-40.txt:1027:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-40.txt:1028:Fitness: Standardized=29.0 Adjusted=0.03333333333333333 Hits=60
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-41.txt:1086:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-41.txt:1087:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-41.txt:1088:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-41.txt:1089:Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-42.txt:2924:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-42.txt:2925:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-42.txt:2926:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-42.txt:2927:Fitness: Standardized=46.0 Adjusted=0.02127659574468085 Hits=43
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-43.txt:3683:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-43.txt:3684:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-43.txt:3685:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-43.txt:3686:Fitness: Standardized=47.0 Adjusted=0.020833333333333332 Hits=42
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-44.txt:2206:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-44.txt:2207:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-44.txt:2208:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-44.txt:2209:Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-45.txt:1706:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-45.txt:1707:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-45.txt:1708:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-45.txt:1709:Fitness: Standardized=32.0 Adjusted=0.030303030303030304 Hits=57
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-46.txt:4749:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-46.txt:4750:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-46.txt:4751:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-46.txt:4752:Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-47.txt:6056:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-47.txt:6057:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-47.txt:6058:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-47.txt:6059:Fitness: Standardized=59.0 Adjusted=0.016666666666666666 Hits=30
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-48.txt:2937:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-48.txt:2938:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-48.txt:2939:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-48.txt:2940:Fitness: Standardized=45.0 Adjusted=0.021739130434782608 Hits=44
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-49.txt:2110:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-49.txt:2111:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-49.txt:2112:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-49.txt:2113:Fitness: Standardized=37.0 Adjusted=0.02631578947368421 Hits=52
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-50.txt:1547:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-50.txt:1548:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-50.txt:1549:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-50.txt:1550:Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-51.txt:5158:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-51.txt:5159:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-51.txt:5160:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-51.txt:5161:Fitness: Standardized=61.0 Adjusted=0.016129032258064516 Hits=28
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-52.txt:1746:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-52.txt:1747:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-52.txt:1748:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-52.txt:1749:Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-53.txt:695:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-53.txt:696:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-53.txt:697:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-53.txt:698:Fitness: Standardized=35.0 Adjusted=0.027777777777777776 Hits=54
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-54.txt:1005:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-54.txt:1006:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-54.txt:1007:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-54.txt:1008:Fitness: Standardized=32.0 Adjusted=0.030303030303030304 Hits=57
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-55.txt:887:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-55.txt:888:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-55.txt:889:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-55.txt:890:Fitness: Standardized=10.0 Adjusted=0.09090909090909091 Hits=79
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-56.txt:1799:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-56.txt:1800:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-56.txt:1801:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-56.txt:1802:Fitness: Standardized=47.0 Adjusted=0.020833333333333332 Hits=42
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-57.txt:1081:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-57.txt:1082:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-57.txt:1083:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-57.txt:1084:Fitness: Standardized=21.0 Adjusted=0.045454545454545456 Hits=68
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-58.txt:2161:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-58.txt:2162:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-58.txt:2163:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-58.txt:2164:Fitness: Standardized=54.0 Adjusted=0.01818181818181818 Hits=35
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-59.txt:1965:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-59.txt:1966:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-59.txt:1967:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-59.txt:1968:Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-60.txt:3098:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-60.txt:3099:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-60.txt:3100:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-60.txt:3101:Fitness: Standardized=61.0 Adjusted=0.016129032258064516 Hits=28
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-61.txt:5395:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-61.txt:5396:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-61.txt:5397:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-61.txt:5398:Fitness: Standardized=52.0 Adjusted=0.018867924528301886 Hits=37
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-62.txt:3373:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-62.txt:3374:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-62.txt:3375:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-62.txt:3376:Fitness: Standardized=61.0 Adjusted=0.016129032258064516 Hits=28
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-63.txt:2035:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-63.txt:2036:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-63.txt:2037:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-63.txt:2038:Fitness: Standardized=50.0 Adjusted=0.0196078431372549 Hits=39
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-64.txt:2739:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-64.txt:2740:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-64.txt:2741:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-64.txt:2742:Fitness: Standardized=47.0 Adjusted=0.020833333333333332 Hits=42
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-65.txt:1001:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-65.txt:1002:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-65.txt:1003:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-65.txt:1004:Fitness: Standardized=33.0 Adjusted=0.029411764705882353 Hits=56
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-66.txt:1556:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-66.txt:1557:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-66.txt:1558:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-66.txt:1559:Fitness: Standardized=55.0 Adjusted=0.017857142857142856 Hits=34
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-67.txt:1571:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-67.txt:1572:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-67.txt:1573:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-67.txt:1574:Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-68.txt:791:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-68.txt:792:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-68.txt:793:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-68.txt:794:Fitness: Standardized=34.0 Adjusted=0.02857142857142857 Hits=55
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-69.txt:3071:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-69.txt:3072:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-69.txt:3073:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-69.txt:3074:Fitness: Standardized=59.0 Adjusted=0.016666666666666666 Hits=30
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-70.txt:1170:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-70.txt:1171:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-70.txt:1172:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-70.txt:1173:Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-71.txt:3403:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-71.txt:3404:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-71.txt:3405:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-71.txt:3406:Fitness: Standardized=47.0 Adjusted=0.020833333333333332 Hits=42
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-72.txt:3345:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-72.txt:3346:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-72.txt:3347:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-72.txt:3348:Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-73.txt:5623:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-73.txt:5624:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-73.txt:5625:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-73.txt:5626:Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-74.txt:935:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-74.txt:936:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-74.txt:937:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-74.txt:938:Fitness: Standardized=44.0 Adjusted=0.022222222222222223 Hits=45
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-75.txt:1205:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-75.txt:1206:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-75.txt:1207:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-75.txt:1208:Fitness: Standardized=13.0 Adjusted=0.07142857142857142 Hits=76
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-76.txt:2824:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-76.txt:2825:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-76.txt:2826:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-76.txt:2827:Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-77.txt:1361:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-77.txt:1362:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-77.txt:1363:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-77.txt:1364:Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-78.txt:2252:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-78.txt:2253:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-78.txt:2254:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-78.txt:2255:Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-79.txt:1204:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-79.txt:1205:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-79.txt:1206:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-79.txt:1207:Fitness: Standardized=16.0 Adjusted=0.058823529411764705 Hits=73
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-80.txt:1409:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-80.txt:1410:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-80.txt:1411:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-80.txt:1412:Fitness: Standardized=36.0 Adjusted=0.02702702702702703 Hits=53
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-81.txt:3755:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-81.txt:3756:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-81.txt:3757:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-81.txt:3758:Fitness: Standardized=56.0 Adjusted=0.017543859649122806 Hits=33
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-82.txt:1409:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-82.txt:1410:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-82.txt:1411:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-82.txt:1412:Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-83.txt:1407:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-83.txt:1408:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-83.txt:1409:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-83.txt:1410:Fitness: Standardized=39.0 Adjusted=0.025 Hits=50
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-84.txt:3333:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-84.txt:3334:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-84.txt:3335:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-84.txt:3336:Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-85.txt:1365:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-85.txt:1366:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-85.txt:1367:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-85.txt:1368:Fitness: Standardized=46.0 Adjusted=0.02127659574468085 Hits=43
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-86.txt:1047:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-86.txt:1048:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-86.txt:1049:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-86.txt:1050:Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-87.txt:1366:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-87.txt:1367:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-87.txt:1368:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-87.txt:1369:Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-88.txt:2221:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-88.txt:2222:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-88.txt:2223:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-88.txt:2224:Fitness: Standardized=47.0 Adjusted=0.020833333333333332 Hits=42
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-89.txt:1018:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-89.txt:1019:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-89.txt:1020:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-89.txt:1021:Fitness: Standardized=32.0 Adjusted=0.030303030303030304 Hits=57
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-90.txt:2599:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-90.txt:2600:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-90.txt:2601:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-90.txt:2602:Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-91.txt:1316:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-91.txt:1317:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-91.txt:1318:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-91.txt:1319:Fitness: Standardized=31.0 Adjusted=0.03125 Hits=58
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-92.txt:1304:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-92.txt:1305:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-92.txt:1306:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-92.txt:1307:Fitness: Standardized=40.0 Adjusted=0.024390243902439025 Hits=49
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-93.txt:640:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-93.txt:641:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-93.txt:642:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-93.txt:643:Fitness: Standardized=44.0 Adjusted=0.022222222222222223 Hits=45
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-94.txt:1333:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-94.txt:1334:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-94.txt:1335:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-94.txt:1336:Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-95.txt:4034:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-95.txt:4035:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-95.txt:4036:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-95.txt:4037:Fitness: Standardized=52.0 Adjusted=0.018867924528301886 Hits=37
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-96.txt:747:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-96.txt:748:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-96.txt:749:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-96.txt:750:Fitness: Standardized=39.0 Adjusted=0.025 Hits=50
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-97.txt:1691:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-97.txt:1692:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-97.txt:1693:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-97.txt:1694:Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-98.txt:1057:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-98.txt:1058:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-98.txt:1059:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-98.txt:1060:Fitness: Standardized=54.0 Adjusted=0.01818181818181818 Hits=35
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-99.txt:2842:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-99.txt:2843:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-99.txt:2844:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-99.txt:2845:Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-100.txt:2623:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-100.txt:2624:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-100.txt:2625:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-100.txt:2626:Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-101.txt:1873:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-101.txt:1874:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-101.txt:1875:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-101.txt:1876:Fitness: Standardized=46.0 Adjusted=0.02127659574468085 Hits=43
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-102.txt:1445:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-102.txt:1446:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-102.txt:1447:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-102.txt:1448:Fitness: Standardized=28.0 Adjusted=0.034482758620689655 Hits=61
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-103.txt:1923:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-103.txt:1924:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-103.txt:1925:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-103.txt:1926:Fitness: Standardized=44.0 Adjusted=0.022222222222222223 Hits=45
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-104.txt:557:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-104.txt:558:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-104.txt:559:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-104.txt:560:Fitness: Standardized=56.0 Adjusted=0.017543859649122806 Hits=33
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-105.txt:741:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-105.txt:742:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-105.txt:743:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-105.txt:744:Fitness: Standardized=21.0 Adjusted=0.045454545454545456 Hits=68
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-106.txt:4642:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-106.txt:4643:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-106.txt:4644:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-106.txt:4645:Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-107.txt:4213:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-107.txt:4214:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-107.txt:4215:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-107.txt:4216:Fitness: Standardized=56.0 Adjusted=0.017543859649122806 Hits=33
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-108.txt:2741:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-108.txt:2742:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-108.txt:2743:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-108.txt:2744:Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-109.txt:1959:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-109.txt:1960:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-109.txt:1961:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-109.txt:1962:Fitness: Standardized=42.0 Adjusted=0.023255813953488372 Hits=47
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-110.txt:1789:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-110.txt:1790:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-110.txt:1791:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-110.txt:1792:Fitness: Standardized=26.0 Adjusted=0.037037037037037035 Hits=63
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-111.txt:830:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-111.txt:831:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-111.txt:832:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-111.txt:833:Fitness: Standardized=44.0 Adjusted=0.022222222222222223 Hits=45
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-112.txt:1838:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-112.txt:1839:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-112.txt:1840:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-112.txt:1841:Fitness: Standardized=50.0 Adjusted=0.0196078431372549 Hits=39
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-113.txt:1564:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-113.txt:1565:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-113.txt:1566:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-113.txt:1567:Fitness: Standardized=37.0 Adjusted=0.02631578947368421 Hits=52
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-114.txt:1224:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-114.txt:1225:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-114.txt:1226:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-114.txt:1227:Fitness: Standardized=29.0 Adjusted=0.03333333333333333 Hits=60
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-115.txt:1784:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-115.txt:1785:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-115.txt:1786:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-115.txt:1787:Fitness: Standardized=42.0 Adjusted=0.023255813953488372 Hits=47
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-116.txt:1577:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-116.txt:1578:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-116.txt:1579:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-116.txt:1580:Fitness: Standardized=37.0 Adjusted=0.02631578947368421 Hits=52
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-117.txt:2748:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-117.txt:2749:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-117.txt:2750:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-117.txt:2751:Fitness: Standardized=51.0 Adjusted=0.019230769230769232 Hits=38
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-118.txt:1337:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-118.txt:1338:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-118.txt:1339:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-118.txt:1340:Fitness: Standardized=32.0 Adjusted=0.030303030303030304 Hits=57
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-119.txt:2534:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-119.txt:2535:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-119.txt:2536:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-119.txt:2537:Fitness: Standardized=52.0 Adjusted=0.018867924528301886 Hits=37
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-120.txt:1461:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-120.txt:1462:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-120.txt:1463:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-120.txt:1464:Fitness: Standardized=50.0 Adjusted=0.0196078431372549 Hits=39
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-121.txt:2604:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-121.txt:2605:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-121.txt:2606:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-121.txt:2607:Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-122.txt:1936:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-122.txt:1937:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-122.txt:1938:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-122.txt:1939:Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-123.txt:2294:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-123.txt:2295:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-123.txt:2296:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-123.txt:2297:Fitness: Standardized=37.0 Adjusted=0.02631578947368421 Hits=52
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-124.txt:2221:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-124.txt:2222:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-124.txt:2223:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-124.txt:2224:Fitness: Standardized=52.0 Adjusted=0.018867924528301886 Hits=37
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-125.txt:4313:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-125.txt:4314:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-125.txt:4315:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-125.txt:4316:Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-126.txt:5958:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-126.txt:5959:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-126.txt:5960:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-126.txt:5961:Fitness: Standardized=61.0 Adjusted=0.016129032258064516 Hits=28
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-127.txt:3576:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-127.txt:3577:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-127.txt:3578:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-127.txt:3579:Fitness: Standardized=44.0 Adjusted=0.022222222222222223 Hits=45
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-128.txt:1226:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-128.txt:1227:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-128.txt:1228:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-128.txt:1229:Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-129.txt:3158:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-129.txt:3159:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-129.txt:3160:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-129.txt:3161:Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-130.txt:1002:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-130.txt:1003:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-130.txt:1004:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-130.txt:1005:Fitness: Standardized=52.0 Adjusted=0.018867924528301886 Hits=37
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-131.txt:3062:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-131.txt:3063:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-131.txt:3064:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-131.txt:3065:Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-132.txt:4555:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-132.txt:4556:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-132.txt:4557:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-132.txt:4558:Fitness: Standardized=54.0 Adjusted=0.01818181818181818 Hits=35
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-133.txt:2365:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-133.txt:2366:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-133.txt:2367:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-133.txt:2368:Fitness: Standardized=46.0 Adjusted=0.02127659574468085 Hits=43
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-134.txt:2067:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-134.txt:2068:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-134.txt:2069:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-134.txt:2070:Fitness: Standardized=54.0 Adjusted=0.01818181818181818 Hits=35
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-135.txt:2310:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-135.txt:2311:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-135.txt:2312:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-135.txt:2313:Fitness: Standardized=46.0 Adjusted=0.02127659574468085 Hits=43
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-136.txt:1701:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-136.txt:1702:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-136.txt:1703:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-136.txt:1704:Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-137.txt:1030:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-137.txt:1031:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-137.txt:1032:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-137.txt:1033:Fitness: Standardized=52.0 Adjusted=0.018867924528301886 Hits=37
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-138.txt:6169:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-138.txt:6170:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-138.txt:6171:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-138.txt:6172:Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-139.txt:2369:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-139.txt:2370:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-139.txt:2371:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-139.txt:2372:Fitness: Standardized=42.0 Adjusted=0.023255813953488372 Hits=47
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-140.txt:1000:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-140.txt:1001:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-140.txt:1002:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-140.txt:1003:Fitness: Standardized=50.0 Adjusted=0.0196078431372549 Hits=39
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-141.txt:1607:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-141.txt:1608:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-141.txt:1609:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-141.txt:1610:Fitness: Standardized=39.0 Adjusted=0.025 Hits=50
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-142.txt:842:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-142.txt:843:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-142.txt:844:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-142.txt:845:Fitness: Standardized=54.0 Adjusted=0.01818181818181818 Hits=35
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-143.txt:3229:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-143.txt:3230:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-143.txt:3231:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-143.txt:3232:Fitness: Standardized=42.0 Adjusted=0.023255813953488372 Hits=47
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-144.txt:1437:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-144.txt:1438:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-144.txt:1439:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-144.txt:1440:Fitness: Standardized=44.0 Adjusted=0.022222222222222223 Hits=45
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-145.txt:1521:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-145.txt:1522:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-145.txt:1523:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-145.txt:1524:Fitness: Standardized=28.0 Adjusted=0.034482758620689655 Hits=61
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-146.txt:1268:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-146.txt:1269:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-146.txt:1270:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-146.txt:1271:Fitness: Standardized=40.0 Adjusted=0.024390243902439025 Hits=49
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-147.txt:887:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-147.txt:888:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-147.txt:889:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-147.txt:890:Fitness: Standardized=40.0 Adjusted=0.024390243902439025 Hits=49
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-148.txt:1875:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-148.txt:1876:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-148.txt:1877:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-148.txt:1878:Fitness: Standardized=42.0 Adjusted=0.023255813953488372 Hits=47
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-149.txt:4707:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-149.txt:4708:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-149.txt:4709:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-149.txt:4710:Fitness: Standardized=58.0 Adjusted=0.01694915254237288 Hits=31
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-150.txt:4472:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-150.txt:4473:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-150.txt:4474:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-150.txt:4475:Fitness: Standardized=59.0 Adjusted=0.016666666666666666 Hits=30
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-151.txt:1281:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-151.txt:1282:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-151.txt:1283:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-151.txt:1284:Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-152.txt:772:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-152.txt:773:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-152.txt:774:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-152.txt:775:Fitness: Standardized=32.0 Adjusted=0.030303030303030304 Hits=57
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-153.txt:1026:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-153.txt:1027:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-153.txt:1028:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-153.txt:1029:Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-154.txt:1385:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-154.txt:1386:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-154.txt:1387:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-154.txt:1388:Fitness: Standardized=56.0 Adjusted=0.017543859649122806 Hits=33
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-155.txt:2146:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-155.txt:2147:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-155.txt:2148:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-155.txt:2149:Fitness: Standardized=47.0 Adjusted=0.020833333333333332 Hits=42
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-156.txt:1250:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-156.txt:1251:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-156.txt:1252:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-156.txt:1253:Fitness: Standardized=46.0 Adjusted=0.02127659574468085 Hits=43
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-157.txt:2244:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-157.txt:2245:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-157.txt:2246:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-157.txt:2247:Fitness: Standardized=44.0 Adjusted=0.022222222222222223 Hits=45
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-158.txt:3412:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-158.txt:3413:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-158.txt:3414:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-158.txt:3415:Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-159.txt:1254:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-159.txt:1255:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-159.txt:1256:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-159.txt:1257:Fitness: Standardized=34.0 Adjusted=0.02857142857142857 Hits=55
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-160.txt:910:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-160.txt:911:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-160.txt:912:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-160.txt:913:Fitness: Standardized=29.0 Adjusted=0.03333333333333333 Hits=60
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-161.txt:4248:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-161.txt:4249:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-161.txt:4250:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-161.txt:4251:Fitness: Standardized=59.0 Adjusted=0.016666666666666666 Hits=30
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-162.txt:4100:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-162.txt:4101:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-162.txt:4102:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-162.txt:4103:Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-163.txt:1330:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-163.txt:1331:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-163.txt:1332:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-163.txt:1333:Fitness: Standardized=36.0 Adjusted=0.02702702702702703 Hits=53
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-164.txt:2281:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-164.txt:2282:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-164.txt:2283:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-164.txt:2284:Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-165.txt:1644:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-165.txt:1645:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-165.txt:1646:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-165.txt:1647:Fitness: Standardized=57.0 Adjusted=0.017241379310344827 Hits=32
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-166.txt:2079:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-166.txt:2080:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-166.txt:2081:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-166.txt:2082:Fitness: Standardized=39.0 Adjusted=0.025 Hits=50
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-167.txt:2291:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-167.txt:2292:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-167.txt:2293:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-167.txt:2294:Fitness: Standardized=16.0 Adjusted=0.058823529411764705 Hits=73
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-168.txt:1570:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-168.txt:1571:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-168.txt:1572:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-168.txt:1573:Fitness: Standardized=28.0 Adjusted=0.034482758620689655 Hits=61
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-169.txt:1404:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-169.txt:1405:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-169.txt:1406:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-169.txt:1407:Fitness: Standardized=47.0 Adjusted=0.020833333333333332 Hits=42
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-170.txt:982:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-170.txt:983:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-170.txt:984:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-170.txt:985:Fitness: Standardized=31.0 Adjusted=0.03125 Hits=58
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-171.txt:1196:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-171.txt:1197:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-171.txt:1198:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-171.txt:1199:Fitness: Standardized=26.0 Adjusted=0.037037037037037035 Hits=63
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-172.txt:4331:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-172.txt:4332:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-172.txt:4333:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-172.txt:4334:Fitness: Standardized=52.0 Adjusted=0.018867924528301886 Hits=37
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-173.txt:2088:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-173.txt:2089:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-173.txt:2090:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-173.txt:2091:Fitness: Standardized=47.0 Adjusted=0.020833333333333332 Hits=42
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-174.txt:1126:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-174.txt:1127:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-174.txt:1128:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-174.txt:1129:Fitness: Standardized=36.0 Adjusted=0.02702702702702703 Hits=53
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-175.txt:1582:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-175.txt:1583:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-175.txt:1584:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-175.txt:1585:Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-176.txt:1923:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-176.txt:1924:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-176.txt:1925:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-176.txt:1926:Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-177.txt:5526:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-177.txt:5527:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-177.txt:5528:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-177.txt:5529:Fitness: Standardized=54.0 Adjusted=0.01818181818181818 Hits=35
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-178.txt:3596:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-178.txt:3597:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-178.txt:3598:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-178.txt:3599:Fitness: Standardized=45.0 Adjusted=0.021739130434782608 Hits=44
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-179.txt:1949:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-179.txt:1950:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-179.txt:1951:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-179.txt:1952:Fitness: Standardized=45.0 Adjusted=0.021739130434782608 Hits=44
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-180.txt:2340:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-180.txt:2341:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-180.txt:2342:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-180.txt:2343:Fitness: Standardized=50.0 Adjusted=0.0196078431372549 Hits=39
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-181.txt:1589:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-181.txt:1590:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-181.txt:1591:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-181.txt:1592:Fitness: Standardized=40.0 Adjusted=0.024390243902439025 Hits=49
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-182.txt:904:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-182.txt:905:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-182.txt:906:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-182.txt:907:Fitness: Standardized=45.0 Adjusted=0.021739130434782608 Hits=44
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-183.txt:1207:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-183.txt:1208:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-183.txt:1209:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-183.txt:1210:Fitness: Standardized=42.0 Adjusted=0.023255813953488372 Hits=47
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-184.txt:1820:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-184.txt:1821:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-184.txt:1822:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-184.txt:1823:Fitness: Standardized=46.0 Adjusted=0.02127659574468085 Hits=43
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-185.txt:1676:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-185.txt:1677:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-185.txt:1678:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-185.txt:1679:Fitness: Standardized=40.0 Adjusted=0.024390243902439025 Hits=49
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-186.txt:710:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-186.txt:711:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-186.txt:712:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-186.txt:713:Fitness: Standardized=26.0 Adjusted=0.037037037037037035 Hits=63
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-187.txt:1481:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-187.txt:1482:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-187.txt:1483:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-187.txt:1484:Fitness: Standardized=37.0 Adjusted=0.02631578947368421 Hits=52
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-188.txt:1884:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-188.txt:1885:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-188.txt:1886:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-188.txt:1887:Fitness: Standardized=44.0 Adjusted=0.022222222222222223 Hits=45
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-189.txt:1172:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-189.txt:1173:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-189.txt:1174:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-189.txt:1175:Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-190.txt:2126:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-190.txt:2127:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-190.txt:2128:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-190.txt:2129:Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-191.txt:1995:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-191.txt:1996:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-191.txt:1997:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-191.txt:1998:Fitness: Standardized=57.0 Adjusted=0.017241379310344827 Hits=32
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-192.txt:1117:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-192.txt:1118:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-192.txt:1119:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-192.txt:1120:Fitness: Standardized=37.0 Adjusted=0.02631578947368421 Hits=52
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-193.txt:3166:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-193.txt:3167:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-193.txt:3168:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-193.txt:3169:Fitness: Standardized=60.0 Adjusted=0.01639344262295082 Hits=29
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-194.txt:1466:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-194.txt:1467:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-194.txt:1468:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-194.txt:1469:Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-195.txt:5456:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-195.txt:5457:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-195.txt:5458:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-195.txt:5459:Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-196.txt:1303:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-196.txt:1304:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-196.txt:1305:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-196.txt:1306:Fitness: Standardized=52.0 Adjusted=0.018867924528301886 Hits=37
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-197.txt:970:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-197.txt:971:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-197.txt:972:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-197.txt:973:Fitness: Standardized=35.0 Adjusted=0.027777777777777776 Hits=54
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-198.txt:2764:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-198.txt:2765:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-198.txt:2766:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-198.txt:2767:Fitness: Standardized=53.0 Adjusted=0.018518518518518517 Hits=36
+
+> C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-199.txt:993:Best Individual of Run:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-199.txt:994:Subpopulation 0:
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-199.txt:995:Evaluated: true
+  C:\Users\helmi\Google Drive\Bio-inspired\CW2\output\santa_fe_ant\benchmark\out_benchmark-199.txt:996:Fitness: Standardized=44.0 Adjusted=0.022222222222222223 Hits=45

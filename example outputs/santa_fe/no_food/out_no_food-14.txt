@@ -1,0 +1,1253 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=70.0 Adjusted=0.014084507042253521 Hits=19
+Tree 0:
+ (progn4 (progn3 (progn3 move right move)
+     (progn4 left left right move) (progn3 move
+     left move)) (progn4 (progn3 left right left)
+     (progn2 right right) (progn2 left right)
+     (progn2 right right)) (progn4 (progn4 right
+     right right left) (progn2 move right) (progn3
+     move move move) (progn3 left left right))
+     (progn2 (progn4 right left right move) (progn2
+         move left)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=65.0 Adjusted=0.015151515151515152 Hits=24
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn3
+     move move move) (progn2 move left)) (progn4
+     (progn2 move move) (progn3 move right left)
+     (progn3 move left left) (progn2 left right))
+     (progn3 (progn3 left right move) (progn4
+         move left move right) (progn2 (progn4 move
+         move move move) (progn2 move left))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=65.0 Adjusted=0.015151515151515152 Hits=24
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn3
+     move move move) (progn2 move left)) (progn4
+     (progn2 move move) (progn3 move right left)
+     (progn3 move left left) (progn2 left right))
+     (progn3 (progn3 left right move) (progn4
+         move left move right) (progn2 (progn4 move
+         move move move) (progn2 move left))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=65.0 Adjusted=0.015151515151515152 Hits=24
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn3
+     move move move) (progn2 move left)) (progn4
+     (progn2 move move) (progn3 move right left)
+     (progn3 move left left) (progn2 left right))
+     (progn3 (progn3 left right move) (progn4
+         move left move right) (progn2 (progn4 move
+         move move move) (progn2 move left))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=62.0 Adjusted=0.015873015873015872 Hits=27
+Tree 0:
+ (progn4 (progn2 (progn2 (progn3 left right
+     move) (progn3 move right right)) (progn3
+     (progn2 right move) (progn4 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn3 right move
+     move) (progn4 right left left left) (progn2
+     left left)) (progn4 right left right move)))
+     (progn4 (progn2 (progn4 move move move move)
+         (progn2 move left)) (progn4 (progn3 move
+         move left) (progn4 move left left move) (progn2
+         move move) (progn3 move move right)) (progn2
+         (progn4 move left left right) (progn4 right
+         left move right)) (progn2 (progn2 right move)
+         (progn3 left move right))) (progn2 (progn4
+     (progn4 left move right move) (progn4 move
+     left move right) (progn4 right left move
+     left) (progn3 move move right)) (progn2 (progn2
+     right right) (progn3 left right left))) (progn4
+     (progn4 (progn2 left right) (progn4 right
+         left right move) (progn4 left right right
+         right) (progn2 left left)) (progn4 (progn2
+     move right) (progn4 move right move right)
+     (progn3 left move move) (progn2 right right))
+     (progn4 (progn4 move right left right) (progn4
+         right move left right) (progn4 left move
+         move move) (progn4 move move move move))
+     (progn3 (progn2 move right) (progn4 move
+         left move left) (progn2 left right))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=56.0 Adjusted=0.017543859649122806 Hits=33
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn3
+     move move move) (progn2 move left)) (progn4
+     (progn2 move move) (progn3 move right left)
+     (progn4 (progn2 move move) (progn3 move right
+         left) (progn3 move left left) (progn2 left
+         right)) (progn2 left right)) (progn3 (progn3
+     left right move) (progn4 move left move right)
+     (progn4 left move move move)))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=56.0 Adjusted=0.017543859649122806 Hits=33
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn3
+     move move move) (progn2 move left)) (progn4
+     (progn2 move move) (progn3 move right left)
+     (progn4 (progn2 move move) (progn3 move right
+         left) (progn3 move left left) (progn2 left
+         right)) (progn2 left right)) (progn3 (progn3
+     left right move) (progn4 move left move right)
+     (progn4 left move move move)))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=55.0 Adjusted=0.017857142857142856 Hits=34
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn3
+     move move move) (progn2 move left)) (progn4
+     (progn2 move move) (progn4 move left move
+     right) (progn3 move left left) (progn2 left
+     right)) (progn3 (progn3 move move move) (progn4
+     move left move right) (progn2 (progn4 move
+     move move move) (progn2 move left))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=55.0 Adjusted=0.017857142857142856 Hits=34
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn3
+     move move move) (progn2 move left)) (progn4
+     (progn2 move move) (progn4 move left move
+     right) (progn3 move left left) (progn2 left
+     right)) (progn3 (progn3 move move move) (progn4
+     move left move right) (progn2 (progn4 move
+     move move move) (progn2 move left))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=55.0 Adjusted=0.017857142857142856 Hits=34
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn3
+     move move move) (progn2 move left)) (progn4
+     (progn2 move move) (progn4 move left move
+     right) (progn3 move left left) (progn2 left
+     right)) (progn3 (progn3 move move move) (progn4
+     move left move right) (progn2 (progn4 move
+     move move move) (progn2 move left))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=55.0 Adjusted=0.017857142857142856 Hits=34
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn3
+     move move move) (progn2 move left)) (progn4
+     (progn2 move move) (progn4 move left move
+     right) (progn3 move left left) (progn2 left
+     right)) (progn3 (progn3 move move move) (progn4
+     move left move right) (progn2 (progn4 move
+     move move move) (progn2 move left))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=55.0 Adjusted=0.017857142857142856 Hits=34
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn3
+     move move move) (progn2 move left)) (progn4
+     (progn2 move move) (progn4 move left move
+     right) (progn3 move left left) (progn2 left
+     right)) (progn3 (progn3 move move move) (progn4
+     move left move right) (progn2 (progn4 move
+     move move move) (progn2 move left))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=55.0 Adjusted=0.017857142857142856 Hits=34
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn3
+     move move move) (progn2 move left)) (progn4
+     (progn2 move move) (progn4 move left move
+     right) (progn3 move left left) (progn2 left
+     right)) (progn3 (progn3 move move move) (progn4
+     move left move right) (progn2 (progn4 move
+     move move move) (progn2 move left))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=55.0 Adjusted=0.017857142857142856 Hits=34
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn3
+     move move move) (progn2 move left)) (progn4
+     (progn2 move move) (progn4 move left move
+     right) (progn3 move left left) (progn2 left
+     right)) (progn3 (progn3 move move move) (progn4
+     move left move right) (progn2 (progn4 move
+     move move move) (progn2 move left))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=55.0 Adjusted=0.017857142857142856 Hits=34
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn3
+     move move move) (progn2 move left)) (progn4
+     (progn2 move move) (progn4 move left move
+     right) (progn3 move left left) (progn2 left
+     right)) (progn3 (progn3 move move move) (progn4
+     move left move right) (progn2 (progn4 move
+     move move move) (progn2 move left))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=55.0 Adjusted=0.017857142857142856 Hits=34
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn3
+     move move move) (progn2 move left)) (progn4
+     (progn2 move move) (progn4 move left move
+     right) (progn3 move left left) (progn2 left
+     right)) (progn3 (progn3 move move move) (progn4
+     move left move right) (progn2 (progn4 move
+     move move move) (progn2 move left))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn2
+     move move) (progn3 (progn3 move move move)
+     (progn4 move left move right) (progn2 (progn4
+     move move move move) (progn2 move left))))
+     (progn4 (progn2 move (progn2 move move))
+         (progn4 move left move right) (progn3 move
+         left left) (progn2 left right)) (progn3 (progn3
+     move move move) (progn3 (progn2 move move)
+     (progn3 move move move) (progn2 move left))
+     (progn2 (progn4 move move move move) (progn3
+         move move move))))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn2
+     move move) (progn3 (progn3 move move move)
+     (progn4 move left move right) (progn2 (progn4
+     move move move move) (progn2 move left))))
+     (progn4 (progn2 move (progn2 move move))
+         (progn4 move left move right) (progn3 move
+         left left) (progn2 left right)) (progn3 (progn3
+     move move move) (progn3 (progn2 move move)
+     (progn3 move move move) (progn2 move left))
+     (progn2 (progn4 move move move move) (progn3
+         move move move))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn2
+     move move) (progn3 (progn3 move move move)
+     (progn4 move left move right) (progn2 (progn4
+     move move move move) (progn2 move left))))
+     (progn4 (progn2 move (progn2 move move))
+         (progn4 move left move right) (progn3 move
+         left left) (progn2 left right)) (progn3 (progn3
+     move move move) (progn3 (progn2 move move)
+     (progn3 move move move) (progn2 move left))
+     (progn2 (progn4 move move move move) (progn3
+         move move move))))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn2
+     move move) (progn3 (progn3 move move move)
+     (progn4 move left move right) (progn2 (progn4
+     move move move move) (progn2 move left))))
+     (progn4 (progn2 move (progn2 move move))
+         (progn4 move left move right) (progn3 move
+         left left) (progn2 left right)) (progn3 (progn3
+     move move move) (progn3 (progn2 move move)
+     (progn3 move move move) (progn2 move left))
+     (progn2 (progn4 move move move move) (progn3
+         move move move))))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn3 (progn3 (progn2 left right) (progn2
+     move move) (progn3 (progn3 move move move)
+     (progn4 move left move right) (progn2 (progn4
+     move move move move) (progn2 move left))))
+     (progn4 (progn2 move (progn2 move move))
+         (progn4 move left move right) (progn3 move
+         left left) (progn2 left right)) (progn3 (progn3
+     move move move) (progn3 (progn2 move move)
+     (progn3 move move move) (progn2 move left))
+     (progn2 (progn4 move move move move) (progn3
+         move move move))))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn2 move move)
+     (progn3 (progn3 move move move) (progn4 move
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+     move (progn4 move left move right) (progn3
+     move left left) (progn2 left right)) (progn3
+     (progn3 move move move) (progn3 (progn2 move
+     move) (progn3 move move move) (progn2 move
+     left)) (progn2 (progn4 move move move move)
+     (progn3 move move move)))) (progn2 (progn4
+     move move move move) (progn3 move move move))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn2 move move)
+     (progn3 (progn3 move move move) (progn4 move
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+     move (progn4 move left move right) (progn3
+     move left left) (progn2 left right)) (progn3
+     (progn3 move move move) (progn3 (progn2 move
+     move) (progn3 move move move) (progn2 move
+     left)) (progn2 (progn4 move move move move)
+     (progn3 move move move)))) (progn2 (progn4
+     move move move move) (progn3 move move move))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn2 move move)
+     (progn3 (progn3 move move move) (progn4 move
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+     move (progn4 move left move right) (progn3
+     move left left) (progn2 left right)) (progn3
+     (progn3 move move move) (progn3 (progn2 move
+     move) (progn3 move move move) (progn2 move
+     left)) (progn2 (progn4 move move move move)
+     (progn3 move move move)))) (progn2 (progn4
+     move move move move) (progn3 move move move))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn2 move move)
+     (progn3 (progn3 move move move) (progn4 move
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+     move (progn4 move left move right) (progn3
+     move left left) (progn2 left right)) (progn3
+     (progn3 move move move) (progn3 (progn2 move
+     move) (progn3 move move move) (progn2 move
+     left)) (progn2 (progn4 move move move move)
+     (progn3 move move move)))) (progn2 (progn4
+     move move move move) (progn3 move move move))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn2 move move)
+     (progn3 (progn3 move move move) (progn4 move
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+     move (progn4 move left move right) (progn3
+     move left left) (progn2 left right)) (progn3
+     (progn3 move move move) (progn3 (progn2 move
+     move) (progn3 move move move) (progn2 move
+     left)) (progn2 (progn4 move move move move)
+     (progn3 move move move)))) (progn2 (progn4
+     move move move move) (progn3 move move move))))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn2 move move)
+     (progn3 (progn3 move move move) (progn4 move
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+     move (progn4 move left move right) (progn3
+     move left left) (progn2 left right)) (progn3
+     (progn3 move move move) (progn3 (progn2 move
+     move) (progn3 move move move) (progn2 move
+     left)) (progn2 (progn4 move move move move)
+     (progn3 move move move)))) (progn2 (progn4
+     move move move move) (progn3 move move move))))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move (progn4 move left move right)) (progn3
+     (progn3 move move move) move (progn2 (progn4
+     move move move move) (progn2 (progn4 move
+     move move move) (progn2 move left))))) (progn4
+     (progn2 move move) (progn4 move left move
+     right) (progn4 right left left left) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 (progn4 right move left right) (progn2
+             left left) (progn3 move move right)) (progn2
+         move move) (progn3 (progn3 move move move)
+         (progn4 move left move right) (progn2 (progn4
+         move move move move) (progn2 move left))))
+         (progn4 move (progn4 move left move right)
+             (progn3 move left left) (progn2 left right))
+         (progn3 (progn3 move move move) (progn3 (progn2
+             move move) (progn3 move move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn3 move move move)))) (progn2
+         (progn4 move move move move) (progn3 move
+         move move))))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move (progn4 move left move right)) (progn3
+     (progn3 move move move) move (progn2 (progn4
+     move move move move) (progn2 (progn4 move
+     move move move) (progn2 move left))))) (progn4
+     (progn2 move move) (progn4 move left move
+     right) (progn4 right left left left) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 (progn4 right move left right) (progn2
+             left left) (progn3 move move right)) (progn2
+         move move) (progn3 (progn3 move move move)
+         (progn4 move left move right) (progn2 (progn4
+         move move move move) (progn2 move left))))
+         (progn4 move (progn4 move left move right)
+             (progn3 move left left) (progn2 left right))
+         (progn3 (progn3 move move move) (progn3 (progn2
+             move move) (progn3 move move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn3 move move move)))) (progn2
+         (progn4 move move move move) (progn3 move
+         move move))))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move (progn4 move left move right)) (progn3
+     (progn3 move move move) move (progn2 (progn4
+     move move move move) (progn2 (progn4 move
+     move move move) (progn2 move left))))) (progn4
+     (progn2 move move) (progn4 move left move
+     right) (progn4 right left left left) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 (progn4 right move left right) (progn2
+             left left) (progn3 move move right)) (progn2
+         move move) (progn3 (progn3 move move move)
+         (progn4 move left move right) (progn2 (progn4
+         move move move move) (progn2 move left))))
+         (progn4 move (progn4 move left move right)
+             (progn3 move left left) (progn2 left right))
+         (progn3 (progn3 move move move) (progn3 (progn2
+             move move) (progn3 move move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn3 move move move)))) (progn2
+         (progn4 move move move move) (progn3 move
+         move move))))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn4 move move
+     move move) (progn3 (progn3 move move move)
+     (progn4 move left move right) (progn2 (progn4
+     move move move move) (progn2 move left))))
+     (progn4 move (progn4 move left move right)
+         (progn3 move left left) (progn2 left right))
+     (progn3 (progn3 move move move) (progn3 (progn2
+         move move) (progn3 move move move) (progn2
+         move left)) (progn2 (progn4 move move move
+         move) move))) (progn2 (progn4 move move move
+     move) (progn3 move move move))))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn4 move move
+     move move) (progn3 (progn3 move move move)
+     (progn4 move left move right) (progn2 (progn4
+     move move move move) (progn2 move left))))
+     (progn4 move (progn4 move left move right)
+         (progn3 move left left) (progn2 left right))
+     (progn3 (progn3 move move move) (progn3 (progn2
+         move move) (progn3 move move move) (progn2
+         move left)) (progn2 (progn4 move move move
+         move) move))) (progn2 (progn4 move move move
+     move) (progn3 move move move))))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn4 move move
+     move move) (progn3 (progn3 move move move)
+     (progn4 move left move right) (progn2 (progn4
+     move move move move) (progn2 move left))))
+     (progn4 move (progn4 move left move right)
+         (progn3 move left left) (progn2 left right))
+     (progn3 (progn3 move move move) (progn3 (progn2
+         move move) (progn3 move move move) (progn2
+         move left)) (progn2 (progn4 move move move
+         move) move))) (progn2 (progn4 move move move
+     move) (progn3 move move move))))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn4 move move
+     move move) (progn3 (progn3 move move move)
+     (progn4 move left move right) (progn2 (progn4
+     move move move move) (progn2 move left))))
+     (progn4 move (progn4 move left move right)
+         (progn3 move left left) (progn2 left right))
+     (progn3 (progn3 move move move) (progn3 (progn2
+         move move) (progn3 move move move) (progn2
+         move left)) (progn2 (progn4 move move move
+         move) move))) (progn2 (progn4 move move move
+     move) (progn3 move move move))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn4 move move
+     move move) (progn3 (progn3 move move move)
+     (progn4 move left move right) (progn2 (progn4
+     move move move move) (progn2 move left))))
+     (progn4 move (progn4 move left move right)
+         (progn3 move left left) (progn2 left right))
+     (progn3 (progn3 move move move) (progn3 (progn2
+         move move) (progn3 move move move) (progn2
+         move left)) (progn2 (progn4 move move move
+         move) move))) (progn2 (progn4 move move move
+     move) (progn3 move move move))))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn4 move move
+     move move) (progn3 (progn3 move move move)
+     (progn4 move left move right) (progn2 (progn4
+     move move move move) (progn2 move left))))
+     (progn4 move (progn4 move left move right)
+         (progn3 move left left) (progn2 left right))
+     (progn3 (progn3 move move move) (progn3 (progn2
+         move move) (progn3 move move move) (progn2
+         move left)) (progn2 (progn4 move move move
+         move) move))) (progn2 (progn4 move move move
+     move) (progn3 move move move))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn4 move move
+     move move) (progn3 (progn3 move move move)
+     (progn4 move left move right) (progn2 (progn4
+     move move move move) (progn2 move left))))
+     (progn4 move (progn4 move left move right)
+         (progn3 move left left) (progn2 left right))
+     (progn3 (progn3 move move move) (progn3 (progn2
+         move move) (progn3 move move move) (progn2
+         move left)) (progn2 (progn4 move move move
+         move) move))) (progn2 (progn4 move move move
+     move) (progn3 move move move))))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn4 move move
+     move move) (progn3 (progn3 move move move)
+     (progn4 move left move right) (progn2 (progn4
+     move move move move) (progn2 move left))))
+     (progn4 move (progn4 move left move right)
+         (progn3 move left left) (progn2 left right))
+     (progn3 (progn3 move move move) (progn3 (progn2
+         move move) (progn3 move move move) (progn2
+         move left)) (progn2 (progn4 move move move
+         move) move))) (progn2 (progn4 move move move
+     move) (progn3 move move move))))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=41.0 Adjusted=0.023809523809523808 Hits=48
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 right
+     left left left) move) (progn3 (progn3 move
+     move move) (progn3 (progn3 (progn3 (progn4
+     right move left right) (progn2 left left)
+     (progn3 move move right)) (progn4 move move
+     move move) (progn3 (progn3 move move move)
+     (progn4 move left move right) (progn2 (progn4
+     move move move move) (progn2 move left))))
+     (progn4 move (progn4 move left move right)
+         (progn3 move left left) (progn2 left right))
+     (progn3 (progn3 move move move) (progn3 (progn2
+         move move) (progn3 move move move) (progn2
+         move left)) (progn2 (progn4 move move move
+         move) move))) (progn2 (progn4 move move move
+     move) (progn3 move move move))))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=40.0 Adjusted=0.024390243902439025 Hits=49
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 move
+     move move (progn3 move move move)) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 move move (progn3 move move right))
+         (progn2 move move) (progn3 (progn3 move move
+         move) (progn4 (progn4 move move move move)
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+         move (progn4 move left move right) (progn3
+         move left left) (progn2 left (progn2 (progn4
+         move move move move) (progn3 move move move))))
+         (progn3 (progn2 move move) (progn3 (progn2
+             move move) (progn3 right move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn4 right move left right)))) (progn2
+         (progn4 move move move move) (progn3 move
+         move move))))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=40.0 Adjusted=0.024390243902439025 Hits=49
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 move
+     move move (progn3 move move move)) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 move move (progn3 move move right))
+         (progn2 move move) (progn3 (progn3 move move
+         move) (progn4 (progn4 move move move move)
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+         move (progn4 move left move right) (progn3
+         move left left) (progn2 left (progn2 (progn4
+         move move move move) (progn3 move move move))))
+         (progn3 (progn2 move move) (progn3 (progn2
+             move move) (progn3 right move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn4 right move left right)))) (progn2
+         (progn4 move move move move) (progn3 move
+         move move))))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=40.0 Adjusted=0.024390243902439025 Hits=49
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 move
+     move move (progn3 move move move)) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 move move (progn3 move move right))
+         (progn2 move move) (progn3 (progn3 move move
+         move) (progn4 (progn4 move move move move)
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+         move (progn4 move left move right) (progn3
+         move left left) (progn2 left (progn2 (progn4
+         move move move move) (progn3 move move move))))
+         (progn3 (progn2 move move) (progn3 (progn2
+             move move) (progn3 right move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn4 right move left right)))) (progn2
+         (progn4 move move move move) (progn3 move
+         move move))))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=40.0 Adjusted=0.024390243902439025 Hits=49
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 move
+     move move (progn3 move move move)) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 move move (progn3 move move right))
+         (progn2 move move) (progn3 (progn3 move move
+         move) (progn4 (progn4 move move move move)
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+         move (progn4 move left move right) (progn3
+         move left left) (progn2 left (progn2 (progn4
+         move move move move) (progn3 move move move))))
+         (progn3 (progn2 move move) (progn3 (progn2
+             move move) (progn3 right move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn4 right move left right)))) (progn2
+         (progn4 move move move move) (progn3 move
+         move move))))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 move
+     move move (progn4 (progn3 move move move)
+     move move (progn3 move move move))) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 move move (progn3 move move right))
+         (progn2 move move) (progn3 (progn3 move move
+         move) (progn4 (progn4 move move move move)
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+         move (progn4 move left move right) (progn3
+         move left left) (progn2 left (progn2 (progn4
+         move move move move) (progn3 move move move))))
+         (progn3 (progn2 move move) (progn3 (progn2
+             move move) (progn3 right move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn4 right move left right)))) (progn2
+         (progn2 left left) (progn3 move move move))))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 move
+     move move (progn4 (progn3 move move move)
+     move move (progn3 move move move))) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 move move (progn3 move move right))
+         (progn2 move move) (progn3 (progn3 move move
+         move) (progn4 (progn4 move move move move)
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+         move (progn4 move left move right) (progn3
+         move left left) (progn2 left (progn2 (progn4
+         move move move move) (progn3 move move move))))
+         (progn3 (progn2 move move) (progn3 (progn2
+             move move) (progn3 right move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn4 right move left right)))) (progn2
+         (progn2 left left) (progn3 move move move))))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 move
+     move move (progn4 (progn3 move move move)
+     move move (progn3 move move move))) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 move move (progn3 move move right))
+         (progn2 move move) (progn3 (progn3 move move
+         move) (progn4 (progn4 move move move move)
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+         move (progn4 move left move right) (progn3
+         move left left) (progn2 left (progn2 (progn4
+         move move move move) (progn3 move move move))))
+         (progn3 (progn2 move move) (progn3 (progn2
+             move move) (progn3 right move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn4 right move left right)))) (progn2
+         (progn2 left left) (progn3 move move move))))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 move
+     move move (progn4 (progn3 move move move)
+     move move (progn3 move move move))) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 move move (progn3 move move right))
+         (progn2 move move) (progn3 (progn3 move move
+         move) (progn4 (progn4 move move move move)
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+         move (progn4 move left move right) (progn3
+         move left left) (progn2 left (progn2 (progn4
+         move move move move) (progn3 move move move))))
+         (progn3 (progn2 move move) (progn3 (progn2
+             move move) (progn3 right move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn4 right move left right)))) (progn2
+         (progn2 left left) (progn3 move move move))))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 move
+     move move (progn4 (progn3 move move move)
+     move move (progn3 move move move))) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 move move (progn3 move move right))
+         (progn2 move move) (progn3 (progn3 move move
+         move) (progn4 (progn4 move move move move)
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+         move (progn4 move left move right) (progn3
+         move left left) (progn2 left (progn2 (progn4
+         move move move move) (progn3 move move move))))
+         (progn3 (progn2 move move) (progn3 (progn2
+             move move) (progn3 right move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn4 right move left right)))) (progn2
+         (progn2 left left) (progn3 move move move))))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=38.0 Adjusted=0.02564102564102564 Hits=51
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 move
+     move move (progn4 (progn3 move move move)
+     move move (progn3 move move move))) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 move move (progn3 move move right))
+         (progn2 move move) (progn3 (progn3 move move
+         move) (progn4 (progn4 move move move move)
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+         move (progn4 move left move right) (progn3
+         move left left) (progn2 left (progn2 (progn4
+         move move move move) (progn3 move move move))))
+         (progn3 (progn2 move move) (progn3 (progn2
+             move move) (progn3 right move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn4 right move left right)))) (progn2
+         (progn2 left left) (progn3 move move move))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=32.0 Adjusted=0.030303030303030304 Hits=57
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 move
+     move move (progn3 move move move)) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 move move (progn3 move move right))
+         (progn2 move move) (progn3 (progn3 move move
+         move) (progn4 (progn4 move move move move)
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+         move (progn4 move left move right) (progn3
+         move left left) (progn2 left (progn2 (progn4
+         move move move move) (progn3 move move move))))
+         (progn3 (progn2 move move) (progn3 (progn2
+             move move) (progn3 right move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn4 right move left right)))) (progn2
+         (progn4 move move move move) (progn3 (progn2
+         (progn4 move move move move) (progn2 (progn4
+         move move move move) (progn3 (progn3 (progn2
+         move move) move (progn3 (progn3 move move
+         move) move (progn2 (progn4 move move move
+         move) (progn2 (progn4 move move move move)
+         (progn2 move left))))) (progn4 (progn2 move
+         move) (progn4 move left move right) (progn4
+         right left left left) move) (progn3 (progn3
+         move move move) (progn3 (progn3 (progn3 (progn2
+         (progn4 move move move move) (progn3 move
+         move move)) (progn3 move move move) move)
+         (progn4 move move move move) (progn3 (progn3
+         move move move) (progn4 move left move right)
+         (progn2 (progn4 move move move move) (progn2
+             move left)))) (progn4 move (progn4 move left
+         move right) (progn3 move left left) (progn2
+         left right)) (progn3 (progn3 move move move)
+         (progn3 (progn2 move move) (progn3 move move
+             move) (progn2 move left)) (progn2 move move)))
+         (progn2 (progn4 move move move move) (progn3
+             move move move)))))) (progn3 move move move)
+         move))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=32.0 Adjusted=0.030303030303030304 Hits=57
+Tree 0:
+ (progn3 (progn3 (progn2 move move) (progn2
+     move move) (progn3 (progn3 move move move)
+     move (progn2 (progn4 move move move move)
+     (progn2 (progn4 move move move move) (progn2
+         move left))))) (progn4 (progn2 move move)
+     (progn4 move left move right) (progn4 move
+     move move (progn3 move move move)) move)
+     (progn3 (progn3 move move move) (progn3 (progn3
+         (progn3 move move (progn3 move move right))
+         (progn2 move move) (progn3 (progn3 move move
+         move) (progn4 (progn4 move move move move)
+         left move right) (progn2 (progn4 move move
+         move move) (progn2 move left)))) (progn4
+         move (progn4 move left move right) (progn3
+         move left left) (progn2 left (progn2 (progn4
+         move move move move) (progn3 move move move))))
+         (progn3 (progn2 move move) (progn3 (progn2
+             move move) (progn3 right move move) (progn2
+             move left)) (progn2 (progn4 move move move
+             move) (progn4 right move left right)))) (progn2
+         (progn4 move move move move) (progn3 (progn2
+         (progn4 move move move move) (progn2 (progn4
+         move move move move) (progn3 (progn3 (progn2
+         move move) move (progn3 (progn3 move move
+         move) move (progn2 (progn4 move move move
+         move) (progn2 (progn4 move move move move)
+         (progn2 move left))))) (progn4 (progn2 move
+         move) (progn4 move left move right) (progn4
+         right left left left) move) (progn3 (progn3
+         move move move) (progn3 (progn3 (progn3 (progn2
+         (progn4 move move move move) (progn3 move
+         move move)) (progn3 move move move) move)
+         (progn4 move move move move) (progn3 (progn3
+         move move move) (progn4 move left move right)
+         (progn2 (progn4 move move move move) (progn2
+             move left)))) (progn4 move (progn4 move left
+         move right) (progn3 move left left) (progn2
+         left right)) (progn3 (progn3 move move move)
+         (progn3 (progn2 move move) (progn3 move move
+             move) (progn2 move left)) (progn2 move move)))
+         (progn2 (progn4 move move move move) (progn3
+             move move move)))))) (progn3 move move move)
+         move))))
+
+
+Best Individual's Map
+=====================
+jklmnopqrstunopqrs.wxyzabcdefghi
+...#........o..............v....
+...#........p...........+##u++..
+...#........q...........#..t.#..
+...#........r...........#..s.#..
+mlkjihgfedcbazyxwvuts#wvutsrqpon
+............t.......r.x....q.#..
+............u.......q.y....p.+..
+............v.......p.za...o.+..
+............w.......o..b...n.#..
+rqponmlkjihgfedc....n..czyxmvuts
+ghijklmno...yzab...fmdcda..l.def
+........p...#......gl..e...k.cb.
+........q...#......hk..f...j.+a.
+........rstuv.......j..g+uvixyz.
+............w...klmnopqhst.h....
+............x...j......i...g....
+............y...i......j...f....
+............z...h......k#++e....
+............a...g......l...d....
+............b...f......m...c....
+............c...e......n...b....
+............d.xwvutsrqpo++#a....
+.........dcbazy.c..n...#...zyxwv
+.++##++##e##f...b..ol..........u
+.#.......fg.g...a..pk..........t
+rqponmlkjih.h..efghqj...fedc...s
+opqrstuvwxyzabcdy..r....ghijklmn
+.#.....#....j...x..s.......a....
+.+.....#....k...wv.t.......z....
+.+####++....l....u.u.......y....
+............m....t.v.......x....

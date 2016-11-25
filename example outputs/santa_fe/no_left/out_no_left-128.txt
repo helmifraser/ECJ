@@ -1,0 +1,1261 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=66.0 Adjusted=0.014925373134328358 Hits=23
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead move right)) right move)
+     move) (progn2 (progn4 (progn4 (progn3 move
+     move move) move (progn4 move move move move)
+     move) (progn2 right right) (progn3 (if-food-ahead
+     right right) (progn3 move move move) move)
+     move) (if-food-ahead move (progn2 move (if-food-ahead
+     right right)))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=55.0 Adjusted=0.017857142857142856 Hits=34
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead move right)) right move)
+     move) (progn2 (progn4 (if-food-ahead (if-food-ahead
+     move right) (progn4 move move move move))
+     (progn2 right right) (progn3 (if-food-ahead
+     right right) (progn3 move move move) move)
+     move) (if-food-ahead move (progn2 move (if-food-ahead
+     right right)))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=55.0 Adjusted=0.017857142857142856 Hits=34
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead move right)) right move)
+     move) (progn2 (progn4 (if-food-ahead (if-food-ahead
+     move right) (progn4 move move move move))
+     (progn2 right right) (progn3 (if-food-ahead
+     right right) (progn3 move move move) move)
+     move) (if-food-ahead move (progn2 move (if-food-ahead
+     right right)))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=55.0 Adjusted=0.017857142857142856 Hits=34
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead move right)) right move)
+     move) (progn2 (progn4 (if-food-ahead (if-food-ahead
+     move right) (progn4 move move move move))
+     (progn2 right right) (progn3 (if-food-ahead
+     right right) (progn3 move move move) move)
+     move) (if-food-ahead move (progn2 move (if-food-ahead
+     right right)))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=52.0 Adjusted=0.018867924528301886 Hits=37
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move (progn2
+     move (if-food-ahead move (progn2 move (if-food-ahead
+     right right))))) right)) right move) move)
+     (progn2 (progn2 (progn4 (if-food-ahead (if-food-ahead
+         move right) (progn4 move move move move))
+         (progn2 right right) (progn3 (if-food-ahead
+         right right) (progn3 move move move) move)
+         move) (if-food-ahead move (progn2 move (if-food-ahead
+         right right)))) (if-food-ahead move (progn2
+         move move))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=52.0 Adjusted=0.018867924528301886 Hits=37
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move (progn4
+     move right right move)) right)) right move)
+     move) (progn2 (progn2 (progn4 (if-food-ahead
+     (if-food-ahead move right) (progn4 move move
+     move move)) (progn2 right right) (progn3
+     (if-food-ahead right right) (progn3 move
+     move move) move) move) (if-food-ahead move
+     (progn2 move (if-food-ahead right right))))
+     (if-food-ahead move (progn2 move move))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead move right)) right move)
+     move) (progn2 (progn4 (if-food-ahead (progn2
+     move (if-food-ahead (progn4 right right right
+     right) right)) (progn4 move move move move))
+     (progn2 right right) (progn2 right right)
+     move) (if-food-ahead move (progn2 move (if-food-ahead
+     right right)))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead move right)) right move)
+     move) (progn2 (progn4 (if-food-ahead (progn2
+     move (if-food-ahead (progn4 right right right
+     right) right)) (progn4 move move move move))
+     (progn2 right right) (progn2 right right)
+     move) (if-food-ahead move (progn2 move (if-food-ahead
+     (if-food-ahead move (progn4 move right right
+         move)) right)))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead move right)) right move)
+     move) (progn2 (progn4 (if-food-ahead (progn2
+     move (if-food-ahead (progn4 right right right
+     right) right)) (progn4 move move move move))
+     (progn2 right right) (progn2 right right)
+     move) (if-food-ahead move (progn2 move (if-food-ahead
+     right right)))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move (progn4
+     move right right move)) right)) right move)
+     move) (progn2 (progn4 (if-food-ahead (progn2
+     move (if-food-ahead (progn4 right right right
+     right) right)) (progn4 move move move move))
+     (progn2 right right) (progn2 right right)
+     move) (if-food-ahead move (progn2 move (if-food-ahead
+     (progn4 move move move (if-food-ahead right
+         move)) right)))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=49.0 Adjusted=0.02 Hits=40
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move (progn4
+     move right right move)) right)) right move)
+     move) (progn2 (progn4 (if-food-ahead (progn2
+     move (if-food-ahead (if-food-ahead (progn4
+     right right right right) right) right)) (progn4
+     move move move move)) (progn2 right right)
+     (progn2 right right) move) (if-food-ahead
+     move (progn2 move (if-food-ahead (progn4
+     move move move (if-food-ahead right move))
+     right)))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right)))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn4 right (progn2 move (if-food-ahead
+             (if-food-ahead move (progn4 move right right
+                 move)) right)) right move) move) right)))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn2 move (if-food-ahead right right))
+         move) right)))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right)))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn2 move (if-food-ahead right right))
+         move) right)))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (if-food-ahead (progn2 move (if-food-ahead
+             (progn4 right right right right) right))
+             (progn4 move move move move))) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn2 move (if-food-ahead right right))
+         move) right)))))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (if-food-ahead
+         (if-food-ahead (progn4 right right right
+             right) right) right) right)))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (if-food-ahead right move) (progn4 move move
+         move move)) right)))))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (if-food-ahead (progn2 move (progn2 move
+             (if-food-ahead (progn4 right right right
+                 right) right))) (progn4 move move move move)))
+     (progn2 right right) (progn2 right right)
+     move) (if-food-ahead (progn2 move (if-food-ahead
+     (progn4 move move move (if-food-ahead right
+         move)) right)) (progn2 move (if-food-ahead
+     (progn3 right (progn2 move (if-food-ahead
+         right right)) move) right)))))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (if-food-ahead (progn2 move (if-food-ahead
+             (progn3 right (progn4 right (progn2 move
+                 (if-food-ahead (progn2 move (if-food-ahead
+                     (progn4 move move move (if-food-ahead right
+                         move)) right)) (progn2 move (if-food-ahead
+                     (progn3 right (progn2 move (if-food-ahead
+                         right right)) move) right)))) right move)
+                 move) right)) (progn4 move move move move)))
+     (progn2 right right) (progn2 right right)
+     move) (if-food-ahead (progn2 move (if-food-ahead
+     (progn4 move move move (if-food-ahead right
+         move)) right)) (progn2 move (if-food-ahead
+     (progn3 right (progn2 move (if-food-ahead
+         right right)) move) right)))))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (if-food-ahead (progn2 move (if-food-ahead
+             (progn2 move (if-food-ahead (progn4 move
+                 move move (progn4 (if-food-ahead (progn2
+                 move (if-food-ahead (progn4 right right right
+                 right) right)) (progn4 move move move move))
+                 (progn2 right right) (progn2 right right)
+                 move)) right)) (progn2 move (if-food-ahead
+             (progn3 right (progn2 move (if-food-ahead
+                 right right)) move) right)))) (progn4 move
+             move move move))) (progn2 right right) (progn2
+     right right) move) (if-food-ahead (progn2
+     move (if-food-ahead (progn4 move move move
+     (if-food-ahead right move)) right)) (progn2
+     move (if-food-ahead (progn3 right (progn2
+     move (if-food-ahead right right)) move) right)))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn2 (progn3
+         right (progn4 right (progn2 move (if-food-ahead
+         (if-food-ahead move right) right)) right
+         move) move) (progn2 (progn4 (if-food-ahead
+         (progn2 move (if-food-ahead (progn4 right
+             right right right) right)) (if-food-ahead
+         right move)) (progn2 right right) (progn2
+         right right) move) (if-food-ahead (progn2
+         move (if-food-ahead (progn4 move move move
+         (if-food-ahead right move)) right)) (progn2
+         move (if-food-ahead (progn3 right (progn4
+         right (if-food-ahead move right) right move)
+         move) right))))) right)))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn2 (progn4
+         (if-food-ahead (progn4 move move move move)
+             (progn4 right right right right)) (progn2
+         right right) (progn2 right right) move) (progn2
+         move (if-food-ahead (if-food-ahead move right)
+         right))) right)))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn2 move (if-food-ahead (progn2 move
+             (if-food-ahead (progn4 move move move (progn4
+                 (if-food-ahead (progn2 move (if-food-ahead
+                     (progn4 right right right right) right))
+                     (progn4 move move move move)) (progn2 right
+                 right) (progn4 right (progn2 move (if-food-ahead
+                 (if-food-ahead move right) right)) right
+                 move) move)) right)) (progn2 move (if-food-ahead
+             (progn3 right (progn4 right right right right)
+                 move) right)))) move) right)))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn2 right right) move) right)))))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn4 right (progn2 move (if-food-ahead
+             (if-food-ahead move (if-food-ahead move (progn2
+                 move (if-food-ahead right right)))) right))
+             (progn4 (if-food-ahead (progn3 right (progn2
+                 move (if-food-ahead right right)) move) (if-food-ahead
+                 (progn2 move (if-food-ahead (progn4 move
+                     move move (if-food-ahead right move)) right))
+                 (progn2 move (if-food-ahead (progn4 move
+                     move move (if-food-ahead right move)) right))))
+                 (progn2 right right) (progn4 move move move
+                 (if-food-ahead right move)) move) move) move)
+         right)))))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn4 right (progn2 move (if-food-ahead
+             (if-food-ahead move (if-food-ahead move (progn2
+                 move (progn4 move move move move)))) right))
+             (progn4 (if-food-ahead (progn3 right (progn2
+                 move (if-food-ahead right right)) move) (if-food-ahead
+                 (progn2 right right) (progn2 move (if-food-ahead
+                 (progn4 move move move (if-food-ahead right
+                     move)) right)))) (progn2 right right) (progn2
+                 right right) move) move) move) right)))))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn2 (progn4
+         (if-food-ahead (progn2 move (if-food-ahead
+             (progn4 right right right right) right))
+             (progn4 move move move move)) (progn4 move
+         move move move) (progn2 right right) move)
+         (if-food-ahead (progn3 right (progn2 move
+             (if-food-ahead right right)) move) (if-food-ahead
+             (if-food-ahead (progn2 move (progn2 right
+                 right)) (progn4 move move move move)) (progn2
+             move (if-food-ahead (if-food-ahead (progn2
+             move (if-food-ahead (progn2 move (if-food-ahead
+             (progn4 right right right right) right))
+             (progn4 move move move move))) (progn4 move
+             move move move)) right))))) right)))))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn2 (progn4
+         right (progn4 move move move move) (if-food-ahead
+         (progn2 move (if-food-ahead (if-food-ahead
+             move (progn2 move (if-food-ahead (progn4
+             move move move (if-food-ahead right move))
+             right))) right)) (progn4 move move move move))
+         move) (progn2 (progn4 (if-food-ahead (progn2
+         move (if-food-ahead (progn4 right right right
+         right) right)) (progn4 right (progn2 move
+         (if-food-ahead (if-food-ahead (progn2 move
+             (if-food-ahead (progn4 right right right
+                 right) right)) (progn4 move move move move))
+             right)) (progn4 (if-food-ahead (progn2 move
+         (if-food-ahead (progn4 right right right
+             right) right)) (progn4 move move move move))
+         (progn2 right right) (progn2 right right)
+         move) move)) (progn2 right right) (progn2
+         right right) move) (if-food-ahead (progn2
+         move (if-food-ahead (if-food-ahead (progn4
+         move move move (if-food-ahead right move))
+         right) right)) (progn2 move (if-food-ahead
+         (progn3 right (progn4 right (progn2 move
+             (progn2 move (if-food-ahead (progn4 right
+                 right right right) right))) right move) move)
+         right))))) right)))))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (if-food-ahead
+         (progn4 move move move (if-food-ahead right
+             move)) right) right)) (progn2 move (if-food-ahead
+     (progn3 right (progn4 right (if-food-ahead
+         (if-food-ahead (progn2 move (progn2 right
+             right)) (if-food-ahead (if-food-ahead (progn2
+             move (if-food-ahead (progn4 right right right
+             right) right)) (progn4 move move move move))
+             right)) (progn4 move move move move)) (progn4
+         (if-food-ahead (progn3 right (progn2 move
+             (if-food-ahead right right)) move) (if-food-ahead
+             (if-food-ahead (progn4 move move move move)
+                 (progn4 move move move move)) (progn4 move
+             move move move))) (if-food-ahead right move)
+         (progn2 right right) move) move) move) right)))))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=48.0 Adjusted=0.02040816326530612 Hits=41
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right right right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn2 (progn4
+         (if-food-ahead (progn2 move (if-food-ahead
+             (if-food-ahead move right) right)) (progn4
+             right right right right)) (progn2 (progn4
+         move move move move) right) (if-food-ahead
+         right move) move) (if-food-ahead (progn2
+         move (if-food-ahead (progn4 move move move
+         (if-food-ahead right move)) right)) (progn2
+         move (if-food-ahead (progn3 right (progn3
+         right (if-food-ahead (if-food-ahead (progn4
+         move move move (if-food-ahead right move))
+         right) (if-food-ahead move right)) move)
+         move) right)))) right)))))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=46.0 Adjusted=0.02127659574468085 Hits=43
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn4 right (progn2 move move) (progn4
+             (if-food-ahead (progn2 move (if-food-ahead
+                 (progn4 right right right right) right))
+                 (if-food-ahead (if-food-ahead (progn2 move
+                     (progn2 right (progn2 right right))) (progn4
+                     move move move move)) (progn4 right (progn2
+                     move (if-food-ahead (if-food-ahead move right)
+                     right)) right move))) right (progn2 right
+             right) (progn4 right right right right))
+             move) move) right)))))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=46.0 Adjusted=0.02127659574468085 Hits=43
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn4 right (progn2 move move) (progn4
+             (if-food-ahead (if-food-ahead (progn2 move
+                 (if-food-ahead (progn4 right right right
+                     right) right)) (progn4 move move move move))
+                 (if-food-ahead (if-food-ahead (progn2 move
+                     (progn2 right (progn2 right right))) (progn4
+                     move move move move)) (progn4 right (progn2
+                     move (if-food-ahead (if-food-ahead move right)
+                     right)) right move))) right (progn2 right
+             right) (progn4 right right right right))
+             move) move) right)))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=46.0 Adjusted=0.02127659574468085 Hits=43
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn4 right (progn2 move move) (progn4
+             (if-food-ahead (progn2 move (if-food-ahead
+                 (progn2 move (if-food-ahead (progn4 move
+                     move move (if-food-ahead right move)) right))
+                 right)) (if-food-ahead (if-food-ahead (progn2
+                 move (progn2 right (progn2 right right)))
+                 (progn4 move move move move)) (progn4 right
+                 (progn2 move (if-food-ahead (if-food-ahead
+                     move right) right)) right move))) right (progn2
+             right right) (progn4 right right right right))
+             move) move) right)))))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn4 right (progn2 move move) (progn4
+             (if-food-ahead (progn4 right right right
+                 right) right) right (progn2 right right)
+             (progn4 right right right right)) move) move)
+         right)))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn4 right (progn2 move move) (progn4
+             (if-food-ahead (progn4 right right right
+                 right) right) right (progn2 right right)
+             (progn4 right right right right)) move) move)
+         right)))))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead (if-food-ahead
+     move right) right) right)) right move) move)
+     (progn2 (progn4 (if-food-ahead (progn2 move
+         (if-food-ahead (progn4 right right (progn4
+             move move move (if-food-ahead move move))
+             right) right)) (progn4 move move move move))
+         (progn2 right right) (progn2 right right)
+         move) (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 move move move (if-food-ahead right
+             move)) right)) (progn2 move (if-food-ahead
+         (progn3 right (progn4 right (progn2 move
+             move) (progn4 (progn2 move (if-food-ahead
+             (progn4 right right (progn4 move move move
+                 (if-food-ahead right move)) right) right))
+             right (progn2 right right) (progn4 right
+             right right right)) move) move) right)))))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         (progn3 right (progn4 right (progn2 move
+             (if-food-ahead (if-food-ahead move right)
+                 right)) right move) move) move (if-food-ahead
+         right move)) right)) (progn2 move (if-food-ahead
+     (progn3 right (progn4 right (if-food-ahead
+         (progn2 move (if-food-ahead (if-food-ahead
+             move right) right)) (progn4 move move move
+         move)) (progn4 move move move (if-food-ahead
+         right move)) move) move) right)))))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) right) (if-food-ahead
+         (if-food-ahead (if-food-ahead move right)
+             right) right))) (progn4 move move move move))
+     (progn2 right right) (progn2 right right)
+     move) (if-food-ahead (progn2 move (if-food-ahead
+     (progn4 move move move (if-food-ahead right
+         move)) right)) (progn2 move (if-food-ahead
+     (progn3 right (progn4 right (progn2 move
+         move) (progn4 (if-food-ahead (if-food-ahead
+         (progn4 move move move (if-food-ahead right
+             move)) right) right) right (progn2 right
+         right) (progn4 right right right right))
+         move) move) right)))))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn4 right (progn2 move move) (progn4
+             (if-food-ahead (progn4 right right right
+                 right) right) right (progn2 right right)
+             (progn4 right right right right)) move) move)
+         right)))))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) (if-food-ahead
+             (progn4 right right (progn4 move move move
+                 (if-food-ahead move move)) right) right))
+         right)) (progn4 move move move move)) (progn2
+     right right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn4 right (progn2 move move) (progn4
+             (if-food-ahead (if-food-ahead (progn2 move
+                 (if-food-ahead (if-food-ahead right move)
+                     right)) (progn4 move move move move)) (if-food-ahead
+                 (if-food-ahead (progn2 move (progn2 right
+                     (progn4 right right right right))) (progn4
+                     move move move move)) (if-food-ahead (progn4
+                 right right right right) right))) right (progn2
+             right right) (progn4 right right right right))
+             move) move) right)))))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             move) right) right)) (progn4 (if-food-ahead
+         right move) move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn4 right (progn2 move move) (progn4
+             (if-food-ahead (if-food-ahead (if-food-ahead
+                 right move) right) right) right (progn2 right
+             right) (progn4 right right right right))
+             move) move) right)))))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) (if-food-ahead
+             (progn4 (if-food-ahead (if-food-ahead (progn2
+                 move (if-food-ahead (progn4 right right right
+                 right) right)) (progn4 move move move move))
+                 (if-food-ahead (if-food-ahead (progn2 move
+                     (progn2 right (progn4 right right right right)))
+                     (progn4 move move move move)) (if-food-ahead
+                     (progn4 right right right right) right)))
+                 right move (progn4 right right right right))
+             right)) right)) (progn4 move move move move))
+     (progn2 right right) (progn2 right right)
+     move) (if-food-ahead (progn2 move (if-food-ahead
+     (progn4 move move move (if-food-ahead right
+         move)) right)) (progn2 move (if-food-ahead
+     (progn3 right (progn4 right (progn2 move
+         move) (progn4 (if-food-ahead (if-food-ahead
+         (progn2 move (if-food-ahead (progn4 right
+             right right right) right)) (progn4 move move
+         move move)) (if-food-ahead (if-food-ahead
+         (progn2 move (progn2 right (progn4 right
+             right right (if-food-ahead (progn2 right
+             right) right)))) (progn4 move move move move))
+         (if-food-ahead (progn4 right right right
+             right) right))) right (progn2 right right)
+         (progn4 right right right right)) move) move)
+     right)))))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) (if-food-ahead
+             (progn4 (if-food-ahead (if-food-ahead (progn2
+                 move (if-food-ahead (progn4 right right right
+                 right) right)) (progn4 move move move move))
+                 (if-food-ahead (if-food-ahead (progn2 move
+                     (progn2 right (progn4 right right right right)))
+                     (progn4 move move move move)) (if-food-ahead
+                     (progn4 right right right right) right)))
+                 right move (progn4 right right right right))
+             right)) right)) (progn4 move move move move))
+     (progn2 right right) (progn2 right right)
+     move) (if-food-ahead (progn2 move (if-food-ahead
+     (progn4 move move move (if-food-ahead right
+         move)) right)) (progn2 move (if-food-ahead
+     (progn3 right (progn4 right (progn2 move
+         move) (progn4 (if-food-ahead (if-food-ahead
+         (progn2 move (if-food-ahead (progn4 right
+             right right right) right)) (progn4 move move
+         move move)) (if-food-ahead (if-food-ahead
+         (progn2 move (progn2 right (progn4 right
+             right right (if-food-ahead (progn2 right
+             right) right)))) (progn4 move move move move))
+         (if-food-ahead (progn4 right right right
+             right) right))) right (progn2 right right)
+         (progn4 right right right right)) move) move)
+     right)))))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) right) right))
+         (if-food-ahead (progn2 move (if-food-ahead
+             (progn4 right right (progn4 move move move
+                 (if-food-ahead right move)) right) right))
+             (progn4 move move move move))) (progn2 right
+     (if-food-ahead (progn4 move move move (if-food-ahead
+         right move)) right)) (progn2 right right)
+     move) (if-food-ahead (progn2 move (if-food-ahead
+     (progn4 move move move (if-food-ahead right
+         move)) right)) (progn2 move (if-food-ahead
+     (progn3 right (progn4 right (progn2 move
+         move) (progn4 (if-food-ahead (progn4 right
+         right right right) right) right (progn2 right
+         right) (progn4 right right right right))
+         move) move) right)))))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) (if-food-ahead
+             (progn4 (if-food-ahead (if-food-ahead (if-food-ahead
+                 right move) (progn4 move move move move))
+                 (if-food-ahead (if-food-ahead (progn2 move
+                     (progn2 right (progn4 right right right right)))
+                     (progn4 move move move move)) (if-food-ahead
+                     (progn4 right right right right) right)))
+                 right (progn2 right right) (progn4 right
+                 right right right)) right)) right)) (progn4
+         move move move move)) (progn2 right right)
+     (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn4 right (progn2 move move) (progn4
+             (if-food-ahead (if-food-ahead (progn2 move
+                 (if-food-ahead (progn4 right right right
+                     right) right)) (progn4 move move move (if-food-ahead
+                 (if-food-ahead move right) right))) (if-food-ahead
+                 (if-food-ahead (progn2 right right) (progn4
+                     move move move move)) (if-food-ahead (progn4
+                 right right right right) right))) right (progn2
+             right right) (progn4 right right right right))
+             move) move) right)))))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) (if-food-ahead
+             (progn4 (if-food-ahead (if-food-ahead (if-food-ahead
+                 right move) (progn4 move move move move))
+                 (if-food-ahead (if-food-ahead (progn2 move
+                     (progn2 right (progn4 right right right right)))
+                     (progn4 move move move move)) (if-food-ahead
+                     (progn4 right right right right) right)))
+                 right (progn2 move (if-food-ahead (progn4
+                 move move move (if-food-ahead right move))
+                 right)) (progn4 right right right right))
+             right)) right)) (progn4 move move move move))
+     (progn2 right right) (progn2 right right)
+     move) (if-food-ahead (progn2 move (if-food-ahead
+     (progn4 move move move (if-food-ahead right
+         move)) right)) (progn2 move (if-food-ahead
+     (progn3 right (progn4 right (progn2 move
+         move) (progn4 (if-food-ahead (if-food-ahead
+         (progn2 move (if-food-ahead (progn4 right
+             right right right) right)) (progn4 move move
+         move move)) (if-food-ahead (if-food-ahead
+         (progn2 right right) (progn4 move move move
+         move)) (if-food-ahead (progn4 right right
+         right right) right))) right (progn2 right
+         right) (progn4 right right right right))
+         move) move) right)))))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move (if-food-ahead
+     (progn2 move (if-food-ahead (progn2 right
+         right) right)) (progn2 (if-food-ahead (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 right
+         right right right) right)) (progn4 move move
+     move move)) right) (if-food-ahead (progn3
+     right (progn4 right (progn4 right right right
+     right) (progn4 (if-food-ahead (progn4 right
+     right right right) right) right (progn2 right
+     right) (progn4 right right right right))
+     move) move) right)))) right)) right move)
+     move) (progn2 (progn4 (if-food-ahead (progn2
+     move (if-food-ahead (progn4 right right (progn4
+     move move move (if-food-ahead right move))
+     right) (if-food-ahead (if-food-ahead (if-food-ahead
+     move right) right) right))) (progn4 move
+     move move move)) (progn2 right right) (progn2
+     right right) move) (if-food-ahead (progn2
+     move (if-food-ahead (progn4 move move move
+     (if-food-ahead right move)) right)) (progn2
+     move (if-food-ahead (progn3 right (progn4
+     right (progn2 move move) (progn4 (if-food-ahead
+     (if-food-ahead (progn4 move move move right)
+         right) right) right (progn2 right right)
+     (progn4 right right right right)) move) move)
+     right)))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (if-food-ahead (progn4 right right (progn4
+             move move move (if-food-ahead right move))
+             right) right) right)) (progn4 move move move
+         move)) (progn2 right right) (progn2 right
+     right) move) (if-food-ahead (progn2 move
+     (if-food-ahead (progn4 move move move (if-food-ahead
+         right move)) right)) (progn2 move (if-food-ahead
+     (progn3 right (progn4 right (progn2 move
+         move) (progn4 (if-food-ahead (progn3 right
+         (progn4 right (progn2 move (if-food-ahead
+             (if-food-ahead move right) right)) right
+             move) move) (if-food-ahead (if-food-ahead
+         (progn2 right right) (progn4 move move move
+         move)) (if-food-ahead (progn4 right right
+         right right) right))) right (progn2 right
+         right) (progn4 right right right right))
+         move) move) right)))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=43.0 Adjusted=0.022727272727272728 Hits=46
+Tree 0:
+ (progn2 (progn3 right (progn4 right (progn2
+     move (if-food-ahead (if-food-ahead move right)
+     right)) right move) move) (progn2 (progn4
+     (if-food-ahead (progn2 move (if-food-ahead
+         (progn4 right right (progn4 move move move
+             (if-food-ahead right move)) right) right))
+         (progn4 move move move move)) (progn2 right
+     right) (progn2 right right) move) (if-food-ahead
+     (progn2 move (if-food-ahead (progn4 move
+         move move (if-food-ahead right move)) right))
+     (progn2 move (if-food-ahead (progn3 right
+         (progn4 right (progn2 move move) (progn4
+             (if-food-ahead (progn4 right right right
+                 right) right) right (progn2 right right)
+             (progn4 right right right right)) move) move)
+         right)))))
+
+
+Best Individual's Map
+=====================
+hgfo.y........................ji
+...l.z..........................
+...k.a..................+###++..
+...j.b..................#....#..
+...i.c..................#....#..
+...hgfe+#####.......+##++....+..
+............#.......+........#..
+............#.......#........+..
+............#.......#........+..
+............#.......#........#..
+............+.n.....#........+..
+............klo.....+........+..
+............j.p.....+........#..
+............i.q.....#........+..
+............hgr.....#..+++###+..
+............+.s.+#+l+..#........
+...........cdefghijm...+........
+............a.u.+..n...+........
+............zyxwr..o...+#+++....
+........ijklmnaps..p.......#....
+.........g..#.z.t..q.......+....
+.........f..g.yvu..r.......+....
+.........e..h.x.+..s...+++#+....
+.........d..ibazyxwvu..#........
+.+xyzabcdcfgjklmn...............
+.#.v.....bmlk...o...............
+.#.u.....anwvutsrq..............
+.#wxybcdefghijklmn..............
+.#.s...#........................
+.+.r.v.#........................
+pqrqtw++.....................mno
+...p.x........................k.
